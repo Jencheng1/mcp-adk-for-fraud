@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credit Card Fraud Detection Demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <i class="bi bi-shield-lock-fill me-2"></i>
+                Fraud Detection Demo
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#overview">Overview</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#dashboards">Dashboards</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#multi-agent">Multi-Agent System</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#demo">Live Demo</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h1>End-to-End Credit Card Fraud Detection</h1>
+                    <p class="lead">Powered by Multi-Agent AI, Graph Neural Networks, and Advanced Analytics</p>
+                    <div class="mt-4">
+                        <a href="#demo" class="btn btn-light btn-lg me-2">View Demo</a>
+                        <a href="#dashboards" class="btn btn-outline-light btn-lg">Explore Dashboards</a>
+                    </div>
+                </div>
+                <div class="col-lg-6 d-none d-lg-block">
+                    <img src="assets/hero-image.png" alt="Fraud Detection Visualization" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Overview Section -->
+    <section class="py-5" id="overview">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <h2 class="mb-4">Intelligent Fraud Detection System</h2>
+                    <p class="lead mb-5">Our end-to-end credit card fraud detection system combines cutting-edge technologies to detect and prevent fraudulent transactions in real-time with high accuracy.</p>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-robot"></i>
+                            </div>
+                            <h5 class="card-title">Multi-Agent System</h5>
+                            <p class="card-text">Specialized AI agents work together using Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication to detect fraud patterns.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-diagram-3"></i>
+                            </div>
+                            <h5 class="card-title">Graph Neural Networks</h5>
+                            <p class="card-text">Advanced GNN models analyze transaction graphs to identify complex fraud patterns that traditional methods might miss.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-database"></i>
+                            </div>
+                            <h5 class="card-title">Neo4j Integration</h5>
+                            <p class="card-text">Graph database with Agent Development Kit (ADK) integration enables powerful relationship-based fraud detection.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-lightning"></i>
+                            </div>
+                            <h5 class="card-title">Real-time Processing</h5>
+                            <p class="card-text">Kafka and PySpark enable real-time transaction processing and fraud detection with minimal latency.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-search"></i>
+                            </div>
+                            <h5 class="card-title">GraphRAG</h5>
+                            <p class="card-text">Graph-based Retrieval Augmented Generation provides contextual knowledge for fraud investigation.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-graph-up"></i>
+                            </div>
+                            <h5 class="card-title">Interactive Dashboards</h5>
+                            <p class="card-text">Comprehensive visualization dashboards for monitoring transactions and investigating fraud patterns.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technologies Section -->
+    <section class="py-5 bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <h2 class="mb-4">Powered by Advanced Technologies</h2>
+                    <p class="lead mb-5">Our system integrates multiple cutting-edge technologies to provide comprehensive fraud detection capabilities.</p>
+                </div>
+            </div>
+            
+            <div class="row justify-content-center text-center">
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-kafka.png" alt="Kafka" class="tech-icon">
+                    <p>Kafka</p>
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-pyspark.png" alt="PySpark" class="tech-icon">
+                    <p>PySpark</p>
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-neo4j.png" alt="Neo4j" class="tech-icon">
+                    <p>Neo4j</p>
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-gnn.png" alt="GNN" class="tech-icon">
+                    <p>GNN</p>
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-langgraph.png" alt="LangGraph" class="tech-icon">
+                    <p>LangGraph</p>
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="assets/tech-graphrag.png" alt="GraphRAG" class="tech-icon">
+                    <p>GraphRAG</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-5" id="features">
+        <div class="container">
+            <h2 class="section-title">Key Features</h2>
+            
+            <div class="row align-items-center mb-5">
+                <div class="col-lg-6">
+                    <h3>Real-time Transaction Monitoring</h3>
+                    <p>Monitor credit card transactions in real-time with immediate fraud detection capabilities. The system processes thousands of transactions per second using Kafka streaming and PySpark processing.</p>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Instant transaction analysis</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Real-time fraud alerts</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Low-latency processing pipeline</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Scalable architecture</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/feature-realtime.png" alt="Real-time Monitoring" class="img-fluid dashboard-preview">
+                </div>
+            </div>
+            
+            <div class="row align-items-center mb-5 flex-lg-row-reverse">
+                <div class="col-lg-6">
+                    <h3>Multi-Agent Fraud Detection</h3>
+                    <p>Our system employs multiple specialized AI agents that work together to detect fraud patterns. Each agent focuses on a specific aspect of fraud detection, creating a comprehensive analysis system.</p>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Transaction Analysis Agent</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Pattern Detection Agent</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> User Profile Agent</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Investigation Agent</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/feature-multiagent.png" alt="Multi-Agent System" class="img-fluid dashboard-preview">
+                </div>
+            </div>
+            
+            <div class="row align-items-center mb-5">
+                <div class="col-lg-6">
+                    <h3>Graph-based Fraud Pattern Detection</h3>
+                    <p>Leverage the power of graph databases and Graph Neural Networks to detect complex fraud patterns based on relationships between entities.</p>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Transaction graph analysis</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Pattern recognition with GNN</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Relationship-based fraud detection</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Neo4j graph database integration</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/feature-graph.png" alt="Graph-based Detection" class="img-fluid dashboard-preview">
+                </div>
+            </div>
+            
+            <div class="row align-items-center flex-lg-row-reverse">
+                <div class="col-lg-6">
+                    <h3>Comprehensive Investigation Tools</h3>
+                    <p>Powerful investigation tools allow analysts to explore suspicious transactions, understand fraud patterns, and make informed decisions.</p>
+                    <ul class="list-unstyled">
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Transaction investigation interface</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Fraud pattern analysis</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> GraphRAG knowledge retrieval</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Interactive visualization dashboards</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/feature-investigation.png" alt="Investigation Tools" class="img-fluid dashboard-preview">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Dashboards Section -->
+    <section class="py-5 bg-light" id="dashboards">
+        <div class="container">
+            <h2 class="section-title">Interactive Dashboards</h2>
+            
+            <div class="row mb-5">
+                <div class="col-lg-6">
+                    <div class="card h-100">
+                        <div class="card-header">
+                            Transaction Monitoring Dashboard
+                        </div>
+                        <div class="card-body">
+                            <img src="assets/dashboard-monitoring.png" alt="Transaction Monitoring Dashboard" class="img-fluid dashboard-preview mb-4">
+                            <p>Real-time monitoring of credit card transactions with fraud detection capabilities. This dashboard provides a comprehensive view of transaction activity, fraud metrics, and alerts.</p>
+                            <div class="d-grid gap-2">
+                                <a href="dashboards/monitoring.html" class="btn btn-primary">
+                                    View Dashboard
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-6">
+                    <div class="card h-100">
+                        <div class="card-header">
+                            Fraud Investigation Dashboard
+                        </div>
+                        <div class="card-body">
+                            <img src="assets/dashboard-investigation.png" alt="Fraud Investigation Dashboard" class="img-fluid dashboard-preview mb-4">
+                            <p>Comprehensive tools for investigating fraud patterns, analyzing suspicious transactions, and understanding the multi-agent system's decision-making process.</p>
+                            <div class="d-grid gap-2">
+                                <a href="dashboards/investigation.html" class="btn btn-primary">
+                                    View Dashboard
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Multi-Agent System Section -->
+    <section class="py-5" id="multi-agent">
+        <div class="container">
+            <h2 class="section-title">Multi-Agent System Architecture</h2>
+            
+            <div class="row mb-4">
+                <div class="col-lg-8 mx-auto text-center">
+                    <p class="lead">Our system employs multiple specialized AI agents that work together using Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication to detect and investigate fraud patterns.</p>
+                </div>
+            </div>
+            
+            <div class="row mb-5">
+                <div class="col-lg-10 mx-auto">
+                    <img src="assets/multi-agent-diagram.png" alt="Multi-Agent System Architecture" class="img-fluid">
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">Transaction Analysis Agent</h5>
+                        <p class="agent-description">Processes incoming transactions and performs initial analysis to identify potential fraud indicators.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">0.2s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">98.5%</div>
+                                <div class="agent-metric-label">Accuracy</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">Pattern Detection Agent</h5>
+                        <p class="agent-description">Identifies patterns across multiple transactions using Graph Neural Networks and Neo4j integration.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">0.5s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">96.2%</div>
+                                <div class="agent-metric-label">Accuracy</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">User Profile Agent</h5>
+                        <p class="agent-description">Analyzes user behavior patterns to identify transactions that deviate from normal user activity.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">0.3s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">97.8%</div>
+                                <div class="agent-metric-label">Accuracy</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">Investigation Agent</h5>
+                        <p class="agent-description">Conducts deeper investigation of suspicious activities using GraphRAG knowledge retrieval.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">1.2s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">95.3%</div>
+                                <div class="agent-metric-label">Accuracy</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">Decision Agent</h5>
+                        <p class="agent-description">Makes final fraud determination based on inputs from all other agents and contextual information.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">0.4s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">99.1%</div>
+                                <div class="agent-metric-label">Accuracy</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="agent-card">
+                        <h5 class="agent-title">Learning Agent</h5>
+                        <p class="agent-description">Updates models based on feedback to continuously improve fraud detection accuracy.</p>
+                        <div class="agent-metrics">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">2.5s</div>
+                                <div class="agent-metric-label">Avg. Processing Time</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">+1.2%</div>
+                                <div class="agent-metric-label">Weekly Improvement</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section -->
+    <section class="py-5 bg-light" id="demo">
+        <div class="container">
+            <h2 class="section-title">Live Demo</h2>
+            
+            <div class="row mb-4">
+                <div class="col-lg-8 mx-auto text-center">
+                    <p class="lead">Experience the end-to-end credit card fraud detection system in action with our interactive demo.</p>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <div class="card">
+                        <div class="card-header">
+                            Transaction Simulation
+                        </div>
+                        <div class="card-body">
+                            <p>Generate sample transactions to see the fraud detection system in action. Choose the transaction type and click "Generate" to simulate a transaction.</p>
+                            
+                            <div class="row mb-3">
+                                <div class="col-md-6">
+                                    <label for="transactionType" class="form-label">Transaction Type</label>
+                                    <select class="form-select" id="transactionType">
+                                        <option value="normal">Normal Transaction</option>
+                                        <option value="suspicious">Suspicious Transaction</option>
+                                        <option value="fraudulent">Fraudulent Transaction</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="fraudPattern" class="form-label">Fraud Pattern (if fraudulent)</label>
+                                    <select class="form-select" id="fraudPattern" disabled>
+                                        <option value="card_testing">Card Testing</option>
+                                        <option value="identity_theft">Identity Theft</option>
+                                        <option value="account_takeover">Account Takeover</option>
+                                        <option value="card_not_present">Card-not-present Fraud</option>
+                                        <option value="merchant_fraud">Merchant Fraud</option>
+                                        <option value="velocity_abuse">Velocity Abuse</option>
+                                        <option value="location_anomaly">Location Anomaly</option>
+                                        <option value="amount_anomaly">Amount Anomaly</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="d-grid gap-2">
+                                <button class="btn btn-primary" id="generateTransaction">Generate Transaction</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-header">
+                            Transaction Feed
+                        </div>
+                        <div class="card-body">
+                            <div class="transaction-feed" id="transactionFeed">
+                                <!-- Transactions will be added here dynamically -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-md-3">
+                    <div class="metric-card">
+                        <div class="metric-value" id="totalTransactions">0</div>
+                        <div class="metric-label">Total Transactions</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="metric-card">
+                        <div class="metric-value" id="fraudulentTransactions">0</div>
+                        <div class="metric-label">Fraudulent Transactions</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="metric-card">
+                        <div class="metric-value" id="fraudRate">0%</div>
+                        <div class="metric-label">Fraud Rate</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="metric-card">
+                        <div class="metric-value" id="avgFraudScore">0.00</div>
+                        <div class="metric-label">Avg. Fraud Score</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <div class="chart-container">
+                        <h5>Fraud by Pattern</h5>
+                        <canvas id="fraudPatternChart"></canvas>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="chart-container">
+                        <h5>Fraud Score Distribution</h5>
+                        <canvas id="fraudScoreChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-header">
+                            Agent Activity
+                        </div>
+                        <div class="card-body">
+                            <div id="agentActivity">
+                                <!-- Agent activity will be added here dynamically -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action Section -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <h2 class="mb-4">Ready to Explore More?</h2>
+                    <p class="lead mb-5">Check out our comprehensive dashboards for a deeper dive into the credit card fraud detection system.</p>
+                    <a href="dashboards/monitoring.html" class="btn btn-primary btn-lg me-3">
+                        Transaction Monitoring
+                    </a>
+                    <a href="dashboards/investigation.html" class="btn btn-outline-primary btn-lg">
+                        Fraud Investigation
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4 mb-md-0">
+                    <h5 class="footer-title">Credit Card Fraud Detection</h5>
+                    <p>An end-to-end system for detecting and preventing credit card fraud using advanced AI technologies.</p>
+                    <div class="social-icons mt-3">
+                        <a href="#"><i class="bi bi-github"></i></a>
+                        <a href="#"><i class="bi bi-linkedin"></i></a>
+                        <a href="#"><i class="bi bi-twitter"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-2 mb-4 mb-md-0">
+                    <h5 class="footer-title">Links</h5>
+                    <ul class="footer-list">
+                        <li><a href="#overview">Overview</a></li>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#dashboards">Dashboards</a></li>
+                        <li><a href="#multi-agent">Multi-Agent</a></li>
+                        <li><a href="#demo">Demo</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-4 mb-md-0">
+                    <h5 class="footer-title">Technologies</h5>
+                    <ul class="footer-list">
+                        <li>Model Context Protocol (MCP)</li>
+                        <li>Agent-to-Agent (A2A)</li>
+                        <li>Agent Development Kit (ADK)</li>
+                        <li>Kafka & PySpark</li>
+                        <li>Neo4j & Graph Neural Networks</li>
+                        <li>LangGraph & GraphRAG</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5 class="footer-title">Contact</h5>
+                    <ul class="footer-list">
+                        <li><i class="bi bi-envelope me-2"></i> info@frauddetection.demo</li>
+                        <li><i class="bi bi-telephone me-2"></i> (123) 456-7890</li>
+                        <li><i class="bi bi-geo-alt me-2"></i> 123 AI Street, Tech City</li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="mt-4 mb-4" style="border-color: rgba(255, 255, 255, 0.1);">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="mb-0">© 2025 Credit Card Fraud Detection Demo. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/demo.js"></script>
+</body>
+</html>

@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Investigation Dashboard - Credit Card Fraud Detection</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../styles.css">
+    <style>
+        .dashboard-container {
+            padding: 2rem;
+        }
+        
+        .dashboard-header {
+            margin-bottom: 2rem;
+        }
+        
+        .dashboard-title {
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+        
+        .dashboard-subtitle {
+            color: var(--light-text);
+        }
+        
+        .dashboard-card {
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            margin-bottom: 1.5rem;
+            background-color: white;
+        }
+        
+        .dashboard-card-header {
+            padding: 1.25rem;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            font-weight: 600;
+        }
+        
+        .dashboard-card-body {
+            padding: 1.5rem;
+        }
+        
+        .fraud-case-card {
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            margin-bottom: 1.5rem;
+            background-color: white;
+            border-left: 4px solid #dc3545;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .fraud-case-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+        
+        .fraud-case-header {
+            padding: 1.25rem;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .fraud-case-body {
+            padding: 1.5rem;
+        }
+        
+        .fraud-pattern-badge {
+            padding: 0.35rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            background-color: rgba(220, 53, 69, 0.1);
+            color: #dc3545;
+        }
+        
+        .fraud-score {
+            font-weight: 700;
+            color: #dc3545;
+        }
+        
+        .transaction-details-row {
+            margin-bottom: 0.5rem;
+        }
+        
+        .transaction-details-label {
+            font-weight: 600;
+            color: var(--light-text);
+        }
+        
+        .transaction-details-value {
+            font-weight: 500;
+        }
+        
+        .graph-visualization {
+            height: 500px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+        
+        .timeline-container {
+            position: relative;
+            padding-left: 2rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .timeline-line {
+            position: absolute;
+            left: 0.5rem;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background-color: var(--primary-color);
+        }
+        
+        .timeline-item {
+            position: relative;
+            padding-bottom: 1.5rem;
+        }
+        
+        .timeline-dot {
+            position: absolute;
+            left: -2rem;
+            top: 0.25rem;
+            width: 1rem;
+            height: 1rem;
+            border-radius: 50%;
+            background-color: var(--primary-color);
+        }
+        
+        .timeline-time {
+            font-size: 0.9rem;
+            color: var(--light-text);
+            margin-bottom: 0.25rem;
+        }
+        
+        .timeline-content {
+            background-color: white;
+            border-radius: 8px;
+            padding: 1rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        
+        .timeline-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .timeline-description {
+            color: var(--light-text);
+        }
+        
+        .agent-activity-log {
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        
+        .agent-activity-item {
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            background-color: rgba(0, 102, 204, 0.05);
+            border-left: 4px solid var(--primary-color);
+        }
+        
+        .agent-badge {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 0.35rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            display: inline-block;
+        }
+        
+        .agent-action {
+            font-weight: 600;
+        }
+        
+        .agent-result {
+            color: var(--light-text);
+            margin-top: 0.25rem;
+        }
+        
+        .mcp-context {
+            background-color: rgba(0, 102, 204, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            font-family: monospace;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .a2a-message {
+            background-color: rgba(0, 102, 204, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            font-family: monospace;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .adk-query {
+            background-color: rgba(0, 102, 204, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            font-family: monospace;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .nav-tabs .nav-link {
+            color: var(--light-text);
+            font-weight: 500;
+        }
+        
+        .nav-tabs .nav-link.active {
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+        
+        .recommendation-card {
+            background-color: rgba(0, 102, 204, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .recommendation-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+        
+        .recommendation-description {
+            color: var(--text-color);
+        }
+        
+        .recommendation-confidence {
+            font-size: 0.9rem;
+            color: var(--light-text);
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="../index.html">
+                <i class="bi bi-shield-lock-fill me-2"></i>
+                Fraud Detection Demo
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="monitoring.html">Transaction Monitoring</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="investigation.html">Fraud Investigation</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="../index.html#demo">
+                            <i class="bi bi-arrow-left me-1"></i> Back to Demo
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Dashboard Content -->
+    <div class="dashboard-container">
+        <div class="dashboard-header">
+            <h1 class="dashboard-title">Fraud Investigation Dashboard</h1>
+            <p class="dashboard-subtitle">Comprehensive tools for investigating fraud patterns and analyzing suspicious transactions</p>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-4">
+                <div class="dashboard-card">
+                    <div class="dashboard-card-header">
+                        Fraud Cases
+                    </div>
+                    <div class="dashboard-card-body p-0">
+                        <div class="list-group list-group-flush">
+                            <a href="#" class="list-group-item list-group-item-action active py-3" id="case1">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Transaction TX12345680</h6>
+                                    <small>18:14:32</small>
+                                </div>
+                                <p class="mb-1">Michael Brown - $1,299.99</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <small class="fraud-pattern-badge">Card-not-present Fraud</small>
+                                    <small class="fraud-score">Score: 0.87</small>
+                                </div>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action py-3" id="case2">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Transaction TX12345675</h6>
+                                    <small>18:10:15</small>
+                                </div>
+                                <p class="mb-1">Emma Johnson - $2,499.99</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <small class="fraud-pattern-badge">Identity Theft</small>
+                                    <small class="fraud-score">Score: 0.92</small>
+                                </div>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action py-3" id="case3">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Transaction TX12345670</h6>
+                                    <small>18:05:47</small>
+                                </div>
+                                <p class="mb-1">William Wilson - $899.99</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <small class="fraud-pattern-badge">Account Takeover</small>
+                                    <small class="fraud-score">Score: 0.85</small>
+                                </div>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action py-3" id="case4">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Transaction TX12345665</h6>
+                                    <small>18:01:23</small>
+                                </div>
+                                <p class="mb-1">Sophia Davis - $1,599.99</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <small class="fraud-pattern-badge">Location Anomaly</small>
+                                    <small class="fraud-score">Score: 0.78</small>
+                                </div>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action py-3" id="case5">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Transaction TX12345660</h6>
+                                    <small>17:55:09</small>
+                                </div>
+                                <p class="mb-1">John Smith - $799.99</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <small class="fraud-pattern-badge">Velocity Abuse</small>
+                                    <small class="fraud-score">Score: 0.81</small>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-8">
+                <div class="dashboard-card">
+                    <div class="dashboard-card-header">
+                        Transaction Details
+                    </div>
+                    <div class="dashboard-card-body">
+                        <ul class="nav nav-tabs mb-4" id="investigationTabs" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="details-tab" data-bs-toggle="tab" data-bs-target="#details" type="button" role="tab" aria-controls="details" aria-selected="true">Details</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="graph-tab" data-bs-toggle="tab" data-bs-target="#graph" type="button" role="tab" aria-controls="graph" aria-selected="false">Graph View</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="timeline-tab" data-bs-toggle="tab" data-bs-target="#timeline" type="button" role="tab" aria-controls="timeline" aria-selected="false">Timeline</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="agents-tab" data-bs-toggle="tab" data-bs-target="#agents" type="button" role="tab" aria-controls="agents" aria-selected="false">Agent Activity</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="recommendations-tab" data-bs-toggle="tab" data-bs-target="#recommendations" type="button" role="tab" aria-controls="recommendations" aria-selected="false">Recommendations</button>
+                            </li>
+                        </ul>
+                        
+                        <div class="tab-content" id="investigationTabsContent">
+                            <!-- Details Tab -->
+                            <div class="tab-pane fade show active" id="details" role="tabpanel" aria-labelledby="details-tab">
+                                <div class="row mb-4">
+                                    <div class="col-md-6">
+                                        <h5 class="mb-3">Transaction Information</h5>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Transaction ID:</div>
+                                            <div class="col-md-7 transaction-details-value">TX12345680</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Date & Time:</div>
+                                            <div class="col-md-7 transaction-details-value">April 18, 2025 18:14:32</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Amount:</div>
+                                            <div class="col-md-7 transaction-details-value">$1,299.99</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Merchant:</div>
+                                            <div class="col-md-7 transaction-details-value">Online Marketplace</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Category:</div>
+                                            <div class="col-md-7 transaction-details-value">E-commerce</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Location:</div>
+                                            <div class="col-md-7 transaction-details-value">Online</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">IP Address:</div>
+                                            <div class="col-md-7 transaction-details-value">203.45.78.92</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Device:</div>
+                                            <div class="col-md-7 transaction-details-value">Unknown Mobile Device</div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-md-6">
+                                        <h5 class="mb-3">Customer Information</h5>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Customer:</div>
+                                            <div class="col-md-7 transaction-details-value">Michael Brown</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Customer ID:</div>
+                                            <div class="col-md-7 transaction-details-value">CUST-003</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Account Age:</div>
+                                            <div class="col-md-7 transaction-details-value">3 years, 2 months</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Card Number:</div>
+                                            <div class="col-md-7 transaction-details-value">XXXX-XXXX-XXXX-5678</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Card Type:</div>
+                                            <div class="col-md-7 transaction-details-value">Credit Card</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Usual Location:</div>
+                                            <div class="col-md-7 transaction-details-value">New York, USA</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-5 transaction-details-label">Usual Device:</div>
+                                            <div class="col-md-7 transaction-details-value">iPhone 15 Pro</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h5 class="mb-3">Fraud Analysis</h5>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-3 transaction-details-label">Fraud Score:</div>
+                                            <div class="col-md-9 transaction-details-value">0.87 (High Risk)</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-3 transaction-details-label">Fraud Pattern:</div>
+                                            <div class="col-md-9 transaction-details-value">Card-not-present Fraud</div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-3 transaction-details-label">Risk Factors:</div>
+                                            <div class="col-md-9 transaction-details-value">
+                                                <ul>
+                                                    <li>Transaction amount significantly higher than customer average</li>
+                                                    <li>Transaction from unusual device</li>
+                                                    <li>IP address location different from usual customer location</li>
+                                                    <li>Multiple high-value transactions in short time period</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="transaction-details-row row">
+                                            <div class="col-md-3 transaction-details-label">Decision:</div>
+                                            <div class="col-md-9 transaction-details-value">
+                                                <span class="badge bg-danger">Rejected</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Graph View Tab -->
+                            <div class="tab-pane fade" id="graph" role="tabpanel" aria-labelledby="graph-tab">
+                                <div class="graph-visualization">
+                                    <img src="../assets/graph-visualization.png" alt="Transaction Graph Visualization" class="img-fluid">
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h5 class="mb-3">Graph Analysis</h5>
+                                        <p>The graph visualization shows the relationships between the transaction, customer, merchant, and other related entities. The red nodes indicate suspicious entities, and the thickness of edges represents the strength of relationships.</p>
+                                        <p>Key observations from the graph analysis:</p>
+                                        <ul>
+                                            <li>This transaction is connected to 3 other suspicious transactions in the past 24 hours</li>
+                                            <li>The device used for this transaction has been associated with 2 known fraudulent transactions in the past week</li>
+                                            <li>The IP address is associated with a high-risk geographic location</li>
+                                            <li>There is a significant deviation from the customer's normal transaction pattern</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Timeline Tab -->
+                            <div class="tab-pane fade" id="timeline" role="tabpanel" aria-labelledby="timeline-tab">
+                                <div class="timeline-container">
+                                    <div class="timeline-line"></div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:32</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Transaction Initiated</div>
+                                            <div class="timeline-description">
+                                                Customer Michael Brown initiated a transaction of $1,299.99 at Online Marketplace using card ending in 5678.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:33</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Transaction Analysis</div>
+                                            <div class="timeline-description">
+                                                Transaction Analysis Agent processed the transaction and assigned an initial fraud score of 0.75 based on transaction amount and customer history.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:34</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Pattern Detection</div>
+                                            <div class="timeline-description">
+                                                Pattern Detection Agent identified card-not-present fraud pattern based on device mismatch and location anomaly.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:35</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">User Profile Analysis</div>
+                                            <div class="timeline-description">
+                                                User Profile Agent determined that the transaction deviates significantly from the customer's normal behavior pattern.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:37</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Investigation</div>
+                                            <div class="timeline-description">
+                                                Investigation Agent conducted deeper analysis using GraphRAG to retrieve similar fraud cases and patterns.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:39</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Final Decision</div>
+                                            <div class="timeline-description">
+                                                Decision Agent determined the transaction to be fraudulent with a final fraud score of 0.87 and rejected the transaction.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="timeline-item">
+                                        <div class="timeline-dot"></div>
+                                        <div class="timeline-time">April 18, 2025 18:14:40</div>
+                                        <div class="timeline-content">
+                                            <div class="timeline-title">Notification</div>
+                                            <div class="timeline-description">
+                                                Fraud alert notification sent to customer and fraud investigation team.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Agent Activity Tab -->
+                            <div class="tab-pane fade" id="agents" role="tabpanel" aria-labelledby="agents-tab">
+                                <div class="agent-activity-log">
+                                    <div class="agent-activity-item">
+                                        <span class="agent-badge">Transaction Analysis Agent</span>
+                                        <div class="agent-action">Analyzing transaction TX12345680</div>
+                                        <div class="agent-result">Initial fraud score: 0.75</div>
+                                        <div class="mt-2">
+                                            <strong>MCP Context:</strong>
+                                            <div class="mcp-context mt-1">
+                                                {
+                                                    "context_id": "ctx_tx_12345680",
+                                                    "context_type": "transaction_analysis",
+                                                    "created_at": "2025-04-18T18:14:33.123Z",
+                                                    "content": {
+                                                        "transaction": {
+                                                            "transaction_id": "TX12345680",
+                                                            "amount": 1299.99,
+                                                            "timestamp": "2025-04-18T18:14:32.789Z",
+                                                            "merchant_id": "merch_3",
+                                                            "user_id": "user_3"
+                                                        },
+                                                        "analysis_results": {
+                                                            "initial_fraud_score": 0.75,
+                                                            "fraud_indicators": ["high_amount", "unusual_device"]
+                                                        }
+                                                    },
+                                                    "metadata": {
+                                                        "agent": "transaction_analysis_agent",
+                                                        "processing_time": 0.123
+                                                    },
+                                                    "references": []
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="agent-activity-item">
+                                        <span class="agent-badge">Pattern Detection Agent</span>
+                                        <div class="agent-action">Detecting patterns for transaction TX12345680</div>
+                                        <div class="agent-result">Pattern detected: Card-not-present Fraud</div>
+                                        <div class="mt-2">
+                                            <strong>A2A Message:</strong>
+                                            <div class="a2a-message mt-1">
+                                                {
+                                                    "message_id": "msg_000123",
+                                                    "sender": "pattern_detection_agent",
+                                                    "receiver": "investigation_agent",
+                                                    "message_type": "patterns_detected",
+                                                    "priority": "high",
+                                                    "content": {
+                                                        "transaction_id": "TX12345680",
+                                                        "patterns_detected": ["card_not_present"],
+                                                        "pattern_score": 0.82,
+                                                        "combined_score": 0.80
+                                                    },
+                                                    "timestamp": "2025-04-18T18:14:34.456Z",
+                                                    "context_references": ["ctx_tx_12345680"],
+                                                    "status": "sent"
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="agent-activity-item">
+                                        <span class="agent-badge">User Profile Agent</span>
+                                        <div class="agent-action">Analyzing user behavior for user_3</div>
+                                        <div class="agent-result">Behavior deviation detected: Unusual device and location</div>
+                                        <div class="mt-2">
+                                            <strong>MCP Context:</strong>
+                                            <div class="mcp-context mt-1">
+                                                {
+                                                    "context_id": "ctx_user_3",
+                                                    "context_type": "user_profile",
+                                                    "created_at": "2025-04-18T18:14:35.789Z",
+                                                    "content": {
+                                                        "user": {
+                                                            "user_id": "user_3",
+                                                            "name": "Michael Brown",
+                                                            "account_age": "3 years, 2 months"
+                                                        },
+                                                        "usual_behavior": {
+                                                            "avg_transaction_amount": 250.75,
+                                                            "usual_merchants": ["merch_5", "merch_7", "merch_8"],
+                                                            "usual_location": "New York, USA",
+                                                            "usual_device": "iPhone 15 Pro"
+                                                        },
+                                                        "current_transaction": {
+                                                            "amount_deviation": 5.18,
+                                                            "merchant_unusual": true,
+                                                            "location_mismatch": true,
+                                                            "device_mismatch": true
+                                                        }
+                                                    },
+                                                    "metadata": {
+                                                        "agent": "user_profile_agent",
+                                                        "processing_time": 0.245
+                                                    },
+                                                    "references": ["ctx_tx_12345680"]
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="agent-activity-item">
+                                        <span class="agent-badge">Investigation Agent</span>
+                                        <div class="agent-action">Investigating transaction TX12345680</div>
+                                        <div class="agent-result">Investigation complete: High confidence fraud</div>
+                                        <div class="mt-2">
+                                            <strong>ADK Query:</strong>
+                                            <div class="adk-query mt-1">
+                                                MATCH (u:User {user_id: 'user_3'})-[:MADE]->(t:Transaction {transaction_id: 'TX12345680'})
+                                                MATCH (t)-[:AT]->(m:Merchant)
+                                                MATCH (t)-[:USING]->(c:Card)
+                                                MATCH (t)-[:FROM]->(d:Device)
+                                                MATCH (t)-[:FROM]->(ip:IPAddress)
+                                                MATCH (c)-[:OWNED_BY]->(u)
+                                                MATCH (u)-[:MADE]->(prev:Transaction)
+                                                WHERE prev.timestamp > datetime() - duration('P7D')
+                                                RETURN u, t, m, c, d, ip, prev
+                                                LIMIT 10
+                                            </div>
+                                        </div>
+                                        <div class="mt-2">
+                                            <strong>GraphRAG Results:</strong>
+                                            <div class="mcp-context mt-1">
+                                                {
+                                                    "context_id": "ctx_graphrag_12345680",
+                                                    "context_type": "knowledge_retrieval",
+                                                    "created_at": "2025-04-18T18:14:37.456Z",
+                                                    "content": {
+                                                        "query": "card not present fraud with device mismatch and location anomaly",
+                                                        "results": [
+                                                            {
+                                                                "pattern": "card_not_present",
+                                                                "confidence": 0.92,
+                                                                "similar_cases": 15,
+                                                                "common_indicators": ["device_mismatch", "location_anomaly", "high_amount"]
+                                                            }
+                                                        ]
+                                                    },
+                                                    "metadata": {
+                                                        "agent": "investigation_agent",
+                                                        "processing_time": 1.234
+                                                    },
+                                                    "references": ["ctx_tx_12345680", "ctx_user_3"]
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="agent-activity-item">
+                                        <span class="agent-badge">Decision Agent</span>
+                                        <div class="agent-action">Making final determination for transaction TX12345680</div>
+                                        <div class="agent-result">Decision: Reject transaction (Fraud Score: 0.87)</div>
+                                        <div class="mt-2">
+                                            <strong>A2A Message:</strong>
+                                            <div class="a2a-message mt-1">
+                                                {
+                                                    "message_id": "msg_000124",
+                                                    "sender": "decision_agent",
+                                                    "receiver": "all",
+                                                    "message_type": "fraud_decision",
+                                                    "priority": "high",
+                                                    "content": {
+                                                        "transaction_id": "TX12345680",
+                                                        "decision": "reject",
+                                                        "final_fraud_score": 0.87,
+                                                        "confidence": 0.95,
+                                                        "reason": "Multiple high-risk indicators including device mismatch, location anomaly, and unusual amount"
+                                                    },
+                                                    "timestamp": "2025-04-18T18:14:39.123Z",
+                                                    "context_references": ["ctx_tx_12345680", "ctx_user_3", "ctx_graphrag_12345680"],
+                                                    "status": "sent"
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Recommendations Tab -->
+                            <div class="tab-pane fade" id="recommendations" role="tabpanel" aria-labelledby="recommendations-tab">
+                                <div class="recommendation-card">
+                                    <div class="recommendation-title">Contact Customer</div>
+                                    <div class="recommendation-description">
+                                        Reach out to Michael Brown to verify if they attempted this transaction. If not, recommend immediate card cancellation and replacement.
+                                    </div>
+                                    <div class="recommendation-confidence">Confidence: 95%</div>
+                                </div>
+                                
+                                <div class="recommendation-card">
+                                    <div class="recommendation-title">Block Device</div>
+                                    <div class="recommendation-description">
+                                        Add the device used for this transaction to the blocklist to prevent future fraudulent attempts from the same device.
+                                    </div>
+                                    <div class="recommendation-confidence">Confidence: 90%</div>
+                                </div>
+                                
+                                <div class="recommendation-card">
+                                    <div class="recommendation-title">Monitor Account</div>
+                                    <div class="recommendation-description">
+                                        Place the customer's account under enhanced monitoring for the next 30 days to detect any additional suspicious activity.
+                                    </div>
+                                    <div class="recommendation-confidence">Confidence: 85%</div>
+                                </div>
+                                
+                                <div class="recommendation-card">
+                                    <div class="recommendation-title">Update Fraud Rules</div>
+                                    <div class="recommendation-description">
+                                        Update fraud detection rules to increase sensitivity for card-not-present transactions with device and location mismatches.
+                                    </div>
+                                    <div class="recommendation-confidence">Confidence: 80%</div>
+                                </div>
+                                
+                                <div class="recommendation-card">
+                                    <div class="recommendation-title">Investigate Related Transactions</div>
+                                    <div class="recommendation-description">
+                                        Review other recent transactions from the same IP address or geographic location for potential fraud patterns.
+                                    </div>
+                                    <div class="recommendation-confidence">Confidence: 75%</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Handle case selection
+            const caseItems = document.querySelectorAll('.list-group-item');
+            caseItems.forEach(item => {
+                item.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    // Remove active class from all items
+                    caseItems.forEach(i => i.classList.remove('active'));
+                    
+                    // Add active class to clicked item
+                    this.classList.add('active');
+                    
+                    // In a real application, this would load the selected case data
+                    // For this demo, we'll just show a message
+                    console.log('Selected case: ' + this.id);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
