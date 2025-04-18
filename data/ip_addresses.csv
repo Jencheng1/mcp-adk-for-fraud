@@ -1,0 +1,1501 @@
+ip,country,city,isp,is_proxy,is_vpn,is_tor,risk_score
+204.154.90.99,UK,Port Johnstad,Bailey Ltd,False,False,False,0.04
+185.236.3.191,JP,Sarahland,"Marquez, Ruiz and Cook",False,False,False,0.11
+218.12.197.96,US,Tylerville,Reynolds-Hall,False,False,False,0.22
+136.105.219.20,US,Roberttown,Martinez-Jenkins,False,False,False,0.17
+151.86.251.28,AU,Youngberg,Sawyer Inc,False,False,False,0.16
+18.87.78.128,US,Bobberg,Edwards PLC,False,False,False,0.03
+13.188.105.210,IN,Larsonmouth,Torres Ltd,False,False,False,0.08
+155.9.142.43,BR,New Bobbyshire,Rodriguez Inc,False,False,False,0.05
+189.92.246.22,US,Port Brendanborough,"Hernandez, Guerra and Warren",False,False,False,0.04
+5.168.48.166,IN,West Laurenfurt,"Wilson, Mays and Peters",False,False,False,0.13
+62.71.204.35,US,Christopherstad,Galvan-Williams,False,False,False,0.04
+152.111.144.237,CA,Victoriaside,"Blake, James and Thompson",False,False,False,0.11
+73.253.65.10,BR,Mooretown,"Little, Spencer and Nunez",False,False,False,0.06
+22.46.84.75,US,Clarkchester,Smith-Black,False,False,False,0.04
+202.113.162.202,US,Port Richardmouth,"Wolf, Silva and Hinton",False,False,False,0.02
+80.86.227.107,US,Tiffanyside,Jenkins Inc,False,False,False,0.0
+48.220.32.116,MX,South Nicholashaven,"Butler, Watson and Oneill",False,False,False,0.09
+179.59.50.142,DE,South Kevinchester,Bell PLC,False,False,False,0.05
+173.168.103.68,JP,Johnland,"Williams, Garrett and Gonzales",False,False,True,0.59
+66.18.99.193,US,West Allison,Patterson-Chang,False,False,False,0.06
+119.131.254.213,UK,Olsonbury,Rhodes Inc,False,False,False,0.01
+31.100.155.224,DE,New Kirstenchester,Watson PLC,False,False,False,0.01
+128.206.176.34,UK,East Joseton,Finley LLC,False,True,False,0.98
+35.179.13.103,AU,Kennethton,"Holder, Cortez and Wade",False,False,False,0.15
+159.190.15.233,DE,Welchbury,"Hicks, Taylor and Gray",False,False,False,0.12
+100.25.225.158,FR,Johnbury,"Brown, Johnson and Miller",False,False,False,0.03
+51.169.98.102,AU,North Travis,"Ramirez, Kim and Carroll",False,False,False,0.14
+49.95.195.60,JP,Websterberg,"Harvey, Steele and Howard",False,False,False,0.15
+109.99.161.79,MX,South Kimberly,"Powell, Smith and Anderson",False,False,False,0.13
+82.93.183.79,JP,West Patrickmouth,Castaneda-Cantrell,False,False,False,0.12
+96.161.104.115,UK,Aprilton,Garcia-Black,False,False,False,0.25
+176.98.19.225,UK,Chadfurt,Williams-Daniels,False,False,False,0.15
+168.111.93.116,DE,South Alison,Wise-Tucker,False,False,False,0.02
+152.108.107.77,MX,South Christopher,Wells PLC,False,False,False,0.13
+174.65.57.161,UK,Kevintown,Moore LLC,False,False,False,0.56
+118.73.67.29,AU,Lake Chad,Young-Jones,False,True,False,0.96
+68.183.16.146,AU,New Anthonyberg,Shelton-Welch,False,False,False,0.11
+211.227.129.114,JP,Lake Audrey,Reyes Inc,False,False,False,0.01
+18.245.225.197,IN,Port Curtisshire,"Martinez, Stewart and Gould",False,False,False,0.04
+223.142.247.125,AU,Castroborough,Brown-Williams,False,False,False,0.18
+69.247.149.183,MX,Port Chad,Rodriguez PLC,False,False,False,0.03
+53.224.38.89,MX,Lake Janeburgh,Fields-Wallace,False,False,False,0.01
+60.211.241.78,IN,New Michaeltown,"Garner, Sparks and Roman",False,False,False,0.13
+25.120.28.212,CA,Roseland,Gonzalez LLC,False,False,False,0.15
+188.120.161.154,AU,Leroyberg,Ellis Ltd,False,False,False,0.16
+131.127.109.211,IN,Swansontown,Lewis Group,False,False,False,0.1
+123.153.36.253,UK,New Sherribury,"Rodriguez, Perez and Adkins",False,False,False,0.04
+89.227.169.225,UK,Chadfurt,Walker Group,False,False,False,0.02
+36.46.251.181,BR,West Tracyfurt,Miller Inc,False,False,False,0.02
+89.252.169.254,BR,Kennethville,Morris Group,False,False,False,0.06
+50.120.193.204,DE,North Juanport,"Ross, Greene and Mcdowell",False,False,False,0.02
+184.177.36.142,US,Zacharymouth,Villanueva and Sons,False,False,False,0.01
+160.103.216.183,UK,South Laurentown,Wallace and Sons,False,False,False,0.12
+51.214.24.77,FR,Port James,Wallace Inc,False,False,False,0.01
+204.151.80.176,DE,Rodriguezchester,Haney LLC,False,False,False,0.01
+105.124.54.167,BR,Justinland,Cook-Vargas,False,False,False,0.14
+126.118.248.42,CA,Lake Ebony,Alvarado-Cross,False,False,False,0.04
+42.90.64.180,UK,New Valerie,Parsons-Johnson,False,False,False,0.08
+187.134.179.172,UK,North Nancy,Collins Ltd,False,False,False,0.08
+57.222.183.24,CA,Jasonfurt,"Rodriguez, Singh and Woods",False,False,False,0.03
+119.69.88.89,CA,New Misty,Benson-Moore,False,False,False,0.05
+20.223.31.16,BR,Port Julie,"Carson, Singleton and Bennett",True,False,False,0.73
+194.249.114.160,FR,Port Timothy,Tran-Beck,False,False,False,0.06
+143.115.134.36,FR,Barbaraville,Lowery-Myers,False,False,False,0.1
+27.176.119.94,US,Anitaville,Salas-Summers,False,False,False,0.02
+135.148.143.58,JP,South Derektown,Terry-Matthews,False,False,False,0.02
+206.247.203.237,US,Phillipfurt,Weiss PLC,False,False,True,0.83
+82.241.46.209,US,Michaeltown,Greene and Sons,False,False,False,0.04
+158.109.139.128,JP,Lake Amberfurt,Mckay-Aguilar,False,False,False,0.02
+40.18.186.222,CA,West Andrewburgh,Mercer-Smith,False,False,False,0.22
+161.199.2.11,JP,North Lisachester,Perry PLC,False,True,False,0.29
+98.16.57.242,US,Tammyhaven,Taylor Inc,False,False,False,0.03
+72.244.163.227,UK,New Melissa,"Mata, Collier and Weber",False,False,False,0.09
+22.74.228.122,UK,North Bryan,"Baker, Martinez and Rhodes",False,False,False,0.03
+200.250.228.111,US,Chasestad,Hardy-Jones,True,False,False,0.61
+68.152.186.1,IN,East Andrew,Christensen PLC,False,False,False,0.03
+172.248.246.173,UK,Cruzbury,Moore Group,False,False,False,0.1
+189.246.173.86,US,South William,Gentry-Lynch,False,False,False,0.02
+61.152.163.253,BR,Hillbury,Perez PLC,False,False,False,0.14
+183.76.185.221,US,West Donald,"Hernandez, Eaton and Trujillo",False,False,False,0.07
+213.152.0.102,US,Barronbury,Aguilar-Jacobs,False,False,False,0.1
+170.169.98.196,US,West Jackson,"Perry, Scott and Turner",True,False,False,0.79
+183.242.45.48,US,Wangside,Hunter-Wiggins,False,False,False,0.05
+78.62.120.64,DE,North Ronald,Jacobs PLC,False,False,False,0.05
+63.250.202.208,CA,Millermouth,Park-Wheeler,False,False,False,0.0
+188.111.223.162,BR,Port Timothy,Hickman-Williams,False,False,False,0.03
+137.185.115.144,BR,Lake Jessicafurt,Mcdonald Inc,False,False,False,0.18
+110.89.113.187,AU,Hardyborough,Lee PLC,False,False,False,0.18
+64.109.254.96,CA,New Luis,"Harvey, Bradley and Burns",False,False,False,0.12
+182.66.18.75,CA,Tiffanyshire,Gallagher-Jones,False,False,False,0.08
+123.156.140.13,CA,Evelynland,Mendoza and Sons,False,False,False,0.03
+203.61.47.234,US,East Jenniferchester,Ali Group,False,False,False,0.28
+211.84.144.206,BR,East Michaelside,Cross-Martin,False,False,False,0.01
+64.236.39.107,UK,West Raymondbury,Paul PLC,False,False,False,0.38
+138.161.216.187,US,Virginiaside,Dixon and Sons,False,False,False,0.2
+160.161.9.44,MX,Vegahaven,"Harris, Jackson and Alexander",False,False,False,0.08
+192.26.83.42,BR,Edwardtown,Anderson-Brown,False,False,False,0.04
+171.46.1.65,IN,New Theodore,"Jones, Maldonado and Moore",False,False,False,0.01
+182.178.235.23,US,Nguyenburgh,"Simon, Murphy and Rivera",False,False,False,0.04
+87.66.121.2,CA,North Williamport,"Medina, Scott and Anderson",False,False,False,0.05
+214.167.221.56,UK,North Jasontown,Taylor-Allen,False,False,False,0.21
+107.177.210.168,US,Lake Rebeccaview,"Thomas, Fuentes and Hill",False,False,False,0.13
+45.25.253.195,CA,South Katrinaberg,"Johnson, Obrien and Pitts",False,False,False,0.06
+118.192.159.63,CA,Salazarside,Acosta-Torres,False,False,False,0.06
+102.1.120.44,DE,Nathanielview,Hahn Group,False,False,False,0.04
+24.113.229.31,US,Smithside,Roberts-Navarro,False,False,False,0.09
+70.20.54.125,BR,Russellberg,"Dougherty, Greer and Jackson",False,False,False,0.21
+146.237.11.216,MX,North Michaelmouth,Pena Group,False,False,False,0.21
+76.125.52.220,JP,West Marymouth,Moore-Sanchez,False,False,False,0.01
+67.18.86.70,US,Wesleyside,Riggs Ltd,False,False,False,0.08
+143.10.110.72,AU,Samanthaton,"Rosales, Torres and Carney",False,False,False,0.16
+205.150.123.67,MX,Brandonville,Wilson LLC,False,False,False,0.05
+165.28.5.158,CA,Davenportmouth,Padilla-Arnold,False,False,False,0.0
+46.37.171.5,JP,South Joshuashire,Montes Inc,False,False,False,0.06
+219.122.213.129,US,Lake Katherinefort,Copeland Group,False,False,False,0.01
+164.243.180.117,FR,East Chelsea,Richardson Ltd,False,False,False,0.1
+203.203.134.53,DE,Caitlynburgh,Nguyen LLC,False,False,False,0.11
+30.60.195.70,US,Greeneland,Becker Group,False,False,False,0.25
+83.140.126.220,IN,Taylorberg,Sawyer-Nguyen,False,False,False,0.34
+88.230.69.92,JP,New Ashleystad,"Hudson, Buck and Williams",False,False,False,0.29
+213.95.84.1,IN,North Kimberly,Gray PLC,False,False,False,0.06
+76.135.74.158,US,Stephenland,Powers Ltd,False,False,False,0.2
+95.187.224.82,BR,Peterville,"Wilson, Wright and Hood",False,False,False,0.02
+136.26.247.21,MX,Garciamouth,"Long, Williams and Logan",False,False,False,0.11
+101.248.180.57,US,Nicoleberg,"Diaz, Day and Harding",False,False,False,0.08
+38.182.230.167,DE,Kimberlyshire,Foster-Sanchez,False,False,False,0.18
+158.24.206.9,CA,South Brenda,"Aguilar, Carr and Logan",False,False,False,0.17
+186.1.22.202,UK,Suttonview,Hill-Horn,False,False,False,0.09
+21.115.143.61,FR,Taylormouth,Pena-Evans,False,False,False,0.02
+172.223.125.4,IN,Johnsonview,Peterson Ltd,False,False,False,0.06
+101.168.165.200,BR,South Lisashire,Cox-Wyatt,False,False,False,0.1
+11.145.71.60,JP,Riveraside,Gray PLC,False,False,False,0.06
+198.183.212.37,UK,Ericafort,"Clark, Ferrell and Pearson",False,False,False,0.03
+167.116.157.224,AU,Bernardville,"Walsh, Lee and Sandoval",False,False,False,0.12
+22.249.34.155,DE,Silvaberg,Gonzalez Ltd,False,False,False,0.16
+32.223.181.54,AU,East Riley,"Munoz, Anderson and Spencer",False,False,False,0.11
+183.44.182.239,JP,Port Yvonneberg,"Owen, Edwards and Moore",False,False,False,0.26
+53.47.87.170,JP,West Cindyberg,Wheeler-Brown,False,False,False,0.06
+194.251.144.38,DE,Timothyland,Coleman-Salazar,False,False,False,0.15
+150.216.5.123,UK,Michealmouth,Gentry and Sons,False,False,False,0.01
+71.68.87.4,AU,Kingborough,Mccann-Baker,False,False,False,0.06
+1.240.177.230,US,Rodriguezburgh,Arnold and Sons,True,False,False,0.6
+202.75.129.213,CA,Rhodestown,Nguyen-Kim,False,False,False,0.14
+73.216.53.160,BR,Port Edward,"Banks, Douglas and Chen",False,False,False,0.13
+50.33.80.175,JP,Grantstad,Lambert LLC,False,False,False,0.21
+53.196.90.21,BR,Brentchester,Thornton Group,True,False,False,0.89
+15.203.239.25,MX,Sandraborough,Lucas Group,False,False,False,0.07
+214.34.75.11,JP,West Erikachester,Johnson and Sons,False,True,False,0.96
+56.33.65.2,AU,South Pamela,"Smith, Arroyo and White",False,False,False,0.17
+1.191.193.180,BR,Ericafurt,Ellis PLC,False,False,False,0.0
+30.202.144.203,CA,Lake Carlosmouth,"Rodriguez, Johnson and Clark",False,False,False,0.02
+120.67.235.205,JP,Grahamfort,Gaines Group,False,False,False,0.01
+182.50.71.11,IN,Port Gina,Chapman Ltd,False,False,False,0.33
+181.10.169.4,UK,Loganberg,Smith LLC,True,False,False,0.24
+69.113.74.75,UK,East Samantha,Glenn PLC,False,False,False,0.05
+215.118.40.104,DE,Wallaceview,Gibson Inc,True,False,False,0.71
+52.190.225.160,CA,Mossside,Mccormick-Macdonald,False,False,False,0.01
+76.98.143.153,US,East Heather,"Rivas, Burgess and Johnson",False,False,False,0.16
+192.89.85.182,CA,Cherryside,Valenzuela LLC,False,False,False,0.15
+151.103.55.110,CA,Derrickview,Ortiz-Kirk,False,False,False,0.04
+160.79.173.104,MX,Mercadoview,Moore-Burton,False,False,False,0.1
+111.96.99.7,US,South Andrea,"King, Simpson and Escobar",False,False,False,0.22
+64.59.10.66,US,Robertfort,Ellis-Dillon,False,False,False,0.08
+93.10.104.128,US,New Kirk,Boyd-Pope,True,False,False,0.68
+10.88.150.52,MX,Mcdanielland,"Schneider, Gray and Wilson",False,False,False,0.27
+76.137.55.221,FR,Joneshaven,Johnson-Hughes,False,False,False,0.11
+4.21.168.16,US,North Hannah,"Morales, Torres and Kennedy",False,False,False,0.03
+137.60.243.205,MX,Aguilarborough,Beard LLC,False,False,False,0.15
+3.113.160.121,US,West Emily,Miller-Ross,False,False,False,0.05
+69.122.120.6,US,Angelahaven,Smith-Park,False,False,False,0.01
+89.159.237.87,MX,Brennanville,Jackson-Mendoza,False,False,False,0.03
+177.193.9.123,US,Wilcoxton,Perez-Coleman,False,False,False,0.07
+188.35.72.165,AU,Lyonsport,Miller-Brown,False,False,False,0.19
+64.8.65.3,AU,Lake Taylorville,Peters-Cox,False,False,False,0.04
+67.19.128.59,US,West Elizabeth,"Wells, Parks and Conrad",False,False,False,0.01
+139.61.113.110,FR,North Alexanderburgh,"Santana, Ruiz and Conway",False,False,False,0.03
+123.175.137.250,UK,Daniellechester,Larson-Goodman,False,False,False,0.11
+184.36.21.201,US,West Edward,"Gregory, Gilbert and Harmon",False,False,False,0.07
+69.86.27.152,US,Mitchellstad,"Clark, Carter and Pugh",False,False,False,0.02
+76.2.134.198,BR,South Sharon,"Saunders, Oneill and Clarke",False,False,False,0.17
+190.80.48.84,BR,Fergusonfurt,Monroe LLC,False,False,False,0.12
+18.212.51.200,UK,Turnerton,Meyer-Gilbert,False,False,False,0.06
+9.66.238.143,AU,Joshuaton,"Brown, Blanchard and Robles",False,False,False,0.01
+50.32.160.204,JP,Lake Michaelview,Rivera-Cunningham,False,False,False,0.29
+101.132.81.220,JP,Kathymouth,Dickson Ltd,False,False,False,0.09
+71.117.184.21,BR,Lake Sydneyhaven,Owen-Hensley,False,False,False,0.05
+59.39.148.242,CA,Candaceburgh,Sanchez PLC,False,False,False,0.25
+77.106.209.123,DE,Port Donnaborough,"Hill, Giles and Patel",False,False,False,0.06
+212.186.192.40,UK,Bakerstad,"Faulkner, Simpson and Randolph",True,False,False,0.63
+53.61.143.26,AU,Amyburgh,"Holmes, Wilkerson and Washington",False,False,False,0.04
+180.130.77.244,UK,Port Katherineport,Bonilla-Scott,False,False,False,0.13
+28.94.255.134,US,West Gregbury,Mullen-Olson,False,False,False,0.02
+139.137.3.226,UK,West Russellmouth,Porter PLC,False,False,False,0.03
+165.129.149.232,JP,New Marilyn,Coleman Group,False,False,False,0.14
+15.71.169.232,US,Shepardmouth,Ramirez-Hunt,False,False,False,0.05
+178.55.120.65,US,West Adam,"Howe, Taylor and Walls",False,True,False,0.7
+32.53.109.255,DE,Sydneychester,Dominguez LLC,False,False,False,0.12
+196.213.206.81,DE,Nicholasbury,"Morrison, Rodriguez and Pittman",False,False,False,0.11
+167.168.1.116,MX,South Jennifer,"Bailey, Wilson and Eaton",False,False,False,0.17
+57.187.102.1,UK,Lake David,Parrish Inc,False,False,False,0.04
+90.207.5.117,IN,Christinahaven,Delacruz and Sons,False,False,False,0.01
+40.103.138.155,CA,South Cynthia,Allen-Brown,False,False,False,0.01
+203.173.31.110,DE,Joneschester,"Wong, Mitchell and Bryant",False,False,False,0.11
+36.2.20.199,UK,East Connieborough,"Hale, Vasquez and Boone",False,False,False,0.3
+4.97.64.96,BR,Butlermouth,"Macias, Reed and Hensley",False,False,False,0.09
+14.6.255.255,MX,West Ryan,"Whitaker, Miller and Conrad",False,False,False,0.19
+139.67.235.222,BR,Donaldburgh,"Mills, Fernandez and Reynolds",False,False,False,0.1
+218.29.123.64,UK,Peterhaven,Thompson-Mason,False,False,False,0.11
+199.146.183.202,CA,Stephensonmouth,Williams Inc,False,False,False,0.12
+170.171.149.81,JP,Davisburgh,Reese Inc,True,False,False,0.81
+220.54.91.50,FR,Bairdberg,Noble-Curry,False,False,False,0.2
+85.160.140.171,IN,South Douglas,Rodgers-Jarvis,False,False,False,0.1
+111.186.217.4,CA,Hoffmanview,Booker-Frye,False,False,False,0.05
+46.144.70.251,UK,West Dana,Li-Webster,False,False,False,0.05
+26.242.172.51,UK,Thompsonberg,Porter-Reeves,False,False,False,0.05
+85.40.105.234,US,West Alyssa,"Silva, Robinson and David",False,False,False,0.03
+114.6.103.192,CA,New Maxwell,Livingston-Johnson,False,False,False,0.14
+160.171.11.75,AU,West Matthew,Odonnell-Boyd,False,False,False,0.25
+192.46.101.81,DE,Banksport,Garcia Group,False,False,False,0.03
+58.247.0.109,AU,Ricardomouth,Rose LLC,False,False,False,0.11
+147.2.96.8,BR,Zacharyview,"Lambert, Porter and Perez",True,False,False,0.89
+178.65.248.148,CA,West Amy,Bell-Marshall,False,False,False,0.05
+91.22.95.203,IN,East Erica,Case-Aguilar,False,False,False,0.19
+202.215.239.17,MX,Anthonychester,Fields PLC,False,False,False,0.18
+102.87.47.203,US,Lake Brandon,Johnston Inc,False,False,False,0.04
+119.251.20.180,CA,Port Katherineberg,"Walker, Kelly and Dunn",False,False,False,0.21
+36.216.53.173,US,New Emilyville,Cardenas-Clark,False,False,False,0.07
+170.202.120.253,MX,Richardtown,Fields Group,False,False,False,0.06
+111.95.119.123,UK,West Sarastad,"Reynolds, Oliver and Ford",False,False,False,0.02
+63.168.35.176,CA,Ashleyshire,Cherry-Johnson,False,False,False,0.0
+47.92.1.20,IN,Andersonland,Wilson-Palmer,False,False,False,0.09
+215.45.27.61,FR,Sherimouth,Stevenson Ltd,False,False,False,0.07
+67.242.241.11,CA,Shannonhaven,"Bray, Martin and Malone",False,False,False,0.11
+134.41.118.125,US,New Crystalburgh,Evans LLC,False,False,False,0.02
+50.239.59.67,US,Eduardoborough,Clarke Ltd,False,False,True,0.58
+28.87.203.203,UK,Steventown,"Cross, Payne and Evans",False,False,False,0.33
+98.230.37.110,DE,East Jennifer,Floyd Ltd,False,False,False,0.11
+217.36.181.24,US,Lake Jacquelineshire,Lutz Group,False,False,False,0.24
+33.105.76.195,US,Christopherland,"Santana, Ward and Rivas",False,False,False,0.22
+52.73.121.83,US,Lake Anthonyfort,"Gentry, Davis and Mcbride",False,False,False,0.25
+218.101.185.92,AU,Richardland,"Yoder, Miller and Levy",False,False,False,0.07
+103.53.221.249,UK,West Laurie,"Richardson, Jones and Lewis",False,False,False,0.13
+157.140.45.67,US,Payneland,Snyder LLC,False,False,False,0.08
+71.116.176.226,US,North Kerri,"Miller, Dominguez and Harris",False,False,False,0.02
+199.20.48.160,MX,West Brittanyport,"Johnson, Montgomery and Sampson",False,False,False,0.28
+2.71.235.221,JP,Byrdport,Moore-Wilson,False,False,False,0.0
+130.79.119.212,IN,North Emily,Flores PLC,False,False,False,0.07
+73.179.227.58,AU,Port Ryan,"Ross, Brown and Evans",True,False,False,0.74
+210.184.241.153,BR,Port Dianaside,"Davis, Wilson and Hunter",True,False,False,0.63
+52.140.60.231,CA,North Johnborough,Johnson and Sons,False,False,False,0.1
+201.13.210.15,UK,Russellfort,Scott PLC,False,False,False,0.22
+187.9.196.152,IN,Port Jennifermouth,Potter-Hernandez,False,False,False,0.01
+105.52.48.135,MX,Avilaborough,Foster and Sons,False,False,False,0.03
+203.147.171.22,MX,Lake Teresaton,Townsend-Vaughn,False,False,False,0.24
+193.15.220.53,DE,Port Melody,"Gray, Ingram and Brown",False,False,False,0.19
+208.186.10.37,IN,West Brittneyview,Sloan-Huffman,False,False,False,0.05
+47.183.83.195,US,Port John,"Murray, Johnson and Rodriguez",False,False,False,0.02
+8.36.118.248,IN,New Tylerland,Douglas-Hansen,False,False,False,0.04
+115.117.144.231,US,Jasontown,Morgan-Nichols,False,False,False,0.05
+44.85.41.122,CA,East Taylor,"Oconnor, Pittman and Vasquez",False,False,False,0.11
+13.51.74.201,US,Lake Nathaniel,Newton-Kelly,False,False,False,0.1
+101.58.137.51,US,Harringtonborough,Stone-Martin,False,False,False,0.08
+22.153.31.116,US,Gonzalezshire,"Lee, Benton and Patel",False,False,False,0.0
+121.226.17.225,UK,Scottstad,"Collins, Fisher and Marsh",False,False,True,0.52
+184.129.3.242,US,South Jerryland,Johnson and Sons,False,False,False,0.01
+27.11.239.242,UK,New Scott,Johnson-Green,False,False,False,0.06
+38.158.188.254,BR,Lake Kimberlyview,Wood and Sons,False,False,False,0.11
+141.181.14.196,CA,Snowland,Ryan-Wilson,False,False,False,0.43
+33.252.175.121,US,South Charles,"Lawson, Ross and Goodman",False,False,False,0.12
+49.65.88.126,CA,Mataview,Figueroa PLC,False,False,False,0.19
+48.89.234.51,US,South Shannon,Roman-Gonzalez,False,False,False,0.07
+148.37.10.228,CA,Victoriashire,Craig-French,False,False,False,0.07
+64.113.202.167,DE,North Carolynchester,"Krause, Hernandez and Rowe",False,False,False,0.12
+195.129.112.231,US,Meadowsberg,"Garcia, Vincent and Church",False,False,False,0.05
+182.165.37.70,DE,Yatesbury,"Richardson, Hartman and Brown",False,False,False,0.02
+171.205.206.21,FR,Port Brendaview,Norman PLC,False,False,False,0.31
+55.21.229.5,CA,New Danielborough,Lara-Gibbs,False,False,False,0.0
+116.7.176.200,UK,Jacobfort,Johnson-Vazquez,False,False,False,0.11
+165.74.160.156,US,Nancyville,Shepherd-Wheeler,False,False,False,0.24
+123.24.251.62,UK,Johnstonport,Conley Ltd,False,False,False,0.0
+171.106.55.197,US,Andersonmouth,Mason Inc,False,False,False,0.08
+36.71.14.70,CA,Harrisport,Carpenter-Logan,False,False,False,0.0
+142.253.180.94,FR,Emilychester,"Lewis, Perez and Martin",False,False,False,0.18
+223.144.178.185,IN,Lake Stephanieton,Davis Inc,False,False,False,0.03
+2.105.236.34,FR,Lake Jennifer,Fields-Morgan,False,False,False,0.03
+200.245.39.71,CA,Port Josephshire,Hansen-Davis,False,False,False,0.0
+107.236.111.102,US,Jenniferberg,"Harris, Lewis and Jackson",True,False,False,0.47
+188.248.230.160,US,Berryside,Keller Inc,False,False,False,0.01
+52.216.116.245,US,Hillmouth,"Kennedy, Clayton and Peterson",False,False,False,0.21
+210.18.109.31,CA,Moyerhaven,"Ramirez, Randolph and Boyle",False,False,False,0.06
+179.221.196.122,AU,South Davidport,Scott-Reyes,False,False,False,0.02
+194.246.231.125,CA,Port Barbarastad,Thompson-Saunders,False,False,False,0.01
+100.214.35.173,JP,East Tyler,"Caldwell, Waller and Hansen",False,False,False,0.02
+17.206.229.225,UK,Castroville,"Thomas, Allen and Cook",False,False,False,0.18
+104.126.34.27,FR,Port Gabriel,Armstrong-Richards,False,False,False,0.18
+154.93.35.129,IN,East Amberstad,"Bridges, Dunn and Lewis",False,False,False,0.0
+29.29.161.205,MX,Richardhaven,Hester Ltd,False,False,False,0.08
+173.130.228.63,US,Smithshire,Griffin and Sons,False,False,False,0.01
+8.248.234.188,US,Ellisonchester,"Walker, Johnson and Mcbride",False,False,False,0.03
+143.3.85.6,CA,Williamberg,"Neal, Graham and Sharp",False,False,False,0.09
+213.161.207.204,JP,Baileyfort,Nunez-Adams,False,False,False,0.21
+60.67.219.224,AU,South Thomas,Rhodes-Davis,False,False,False,0.24
+105.165.188.100,CA,Cuevasview,Woods-Bell,False,False,False,0.11
+98.171.182.145,AU,Port Edward,Kim and Sons,False,False,False,0.02
+142.114.252.7,DE,East Davidfurt,"Crane, Scott and Jackson",False,False,False,0.02
+200.228.6.95,BR,North Cheryl,"Blake, Duarte and Murray",True,False,False,0.39
+177.65.79.81,FR,Perezland,Robertson-Thomas,False,False,False,0.05
+125.153.78.30,DE,Richardsonberg,Erickson-Gonzalez,False,False,False,0.07
+86.236.27.192,UK,South Jennifer,Burke-Clark,False,False,False,0.05
+23.96.166.137,US,West David,"Acevedo, Terry and Moore",False,False,False,0.14
+23.2.255.209,BR,Craigburgh,Potter-Clark,False,False,False,0.07
+115.171.188.124,CA,Summerston,Daniels PLC,False,False,False,0.27
+77.73.149.239,BR,Selenaton,Paul Inc,False,False,False,0.05
+97.221.163.68,UK,Lake David,"Medina, Cochran and Clark",False,False,False,0.02
+37.71.130.30,US,West Debbie,"Garrett, Smith and Marshall",False,False,False,0.09
+87.201.173.221,FR,South Stefanieshire,"Cruz, Smith and Rowland",False,False,False,0.03
+54.209.150.132,FR,Kevinberg,Richardson Ltd,True,False,False,0.42
+21.8.242.3,JP,Robertsmouth,Reeves Ltd,False,False,False,0.05
+99.109.237.240,CA,Christinaview,"Nixon, Fox and Hawkins",False,False,False,0.0
+119.79.28.104,DE,Mcintyrehaven,Byrd Inc,True,False,False,0.85
+74.143.11.218,FR,New Williamshire,"Fisher, Reed and Cox",False,False,False,0.23
+129.233.30.96,UK,West Alexander,Hamilton-Buck,False,False,False,0.02
+130.91.81.36,AU,Lucasbury,Snyder-Ruiz,False,False,False,0.15
+175.109.177.253,JP,East Anita,Ramsey-Davis,False,False,False,0.17
+117.91.243.146,FR,West Dwayne,James-Hernandez,False,False,False,0.0
+57.160.211.66,AU,Lake Scott,Armstrong Group,False,False,False,0.26
+144.117.125.137,BR,Sallyport,Harris PLC,False,False,False,0.06
+50.77.196.204,MX,Coxstad,Jones Inc,False,False,False,0.2
+17.0.128.187,CA,East Joannaland,Bates Ltd,False,False,False,0.0
+207.10.150.67,US,Walkerburgh,Fitzgerald-Douglas,False,False,False,0.22
+102.190.89.76,IN,Lake James,"Hayes, Elliott and George",False,False,False,0.14
+57.13.77.172,JP,Port Codyville,Morrison LLC,False,False,False,0.29
+33.119.72.0,MX,Clarkberg,Collins-Bradshaw,False,False,False,0.03
+182.83.147.191,BR,Palmerstad,"Ayers, Davis and Frey",False,False,False,0.03
+160.95.16.72,UK,South Colin,Carter-Pace,False,True,False,0.67
+134.224.85.205,MX,West Michaelfort,Baldwin Group,False,False,False,0.03
+203.204.214.112,IN,Robinborough,"Horne, Hall and Alexander",False,False,False,0.21
+186.107.42.194,US,New Sherry,Hopkins Group,False,False,False,0.12
+37.159.193.129,DE,South Amy,Singh-Ramos,False,False,False,0.1
+119.30.247.214,US,Johnview,Williams-Weiss,False,False,False,0.09
+45.183.114.240,UK,South Ericmouth,Hernandez Inc,False,False,False,0.29
+220.122.87.238,FR,Phillipburgh,Arias-Evans,False,False,False,0.07
+57.246.254.181,UK,Gregoryville,Wilkins Ltd,False,False,False,0.05
+47.12.113.158,FR,Brownhaven,"Williams, Rivera and Collins",False,False,False,0.13
+32.11.85.127,CA,Brendaton,Woods LLC,False,False,False,0.15
+125.184.163.222,US,Lake Judithland,Miller-Thompson,False,False,False,0.02
+79.55.32.196,US,Halestad,"Kramer, Mckinney and Dawson",False,False,False,0.06
+130.215.175.196,FR,Port Mariaville,Boyd-Walker,False,False,False,0.18
+58.159.122.202,DE,Smithbury,"Edwards, Curry and Miranda",False,False,False,0.13
+109.107.118.106,CA,Leehaven,Rodriguez Inc,False,False,False,0.11
+98.90.187.179,UK,Melissaville,"Davis, Brooks and Brown",False,False,False,0.19
+135.107.125.226,CA,South Colleen,"Brooks, Wiley and Rogers",False,False,False,0.22
+142.63.67.30,US,Patelland,"Hamilton, Keller and Jones",False,False,False,0.02
+6.125.80.150,UK,New Melissa,"Martin, Houston and Mullen",True,False,False,0.49
+70.125.141.186,US,Millershire,Clark and Sons,False,False,False,0.0
+184.241.62.14,FR,Frankberg,Hart LLC,False,False,False,0.03
+141.165.6.169,US,Salasland,Crawford-Boyd,False,False,False,0.04
+60.187.219.62,IN,Amberfurt,Rodriguez-Vaughn,False,False,False,0.08
+212.51.173.68,AU,Lake Jerometon,Vargas-Greer,False,False,False,0.0
+31.177.63.77,UK,East Danielside,Williams-Day,False,False,False,0.16
+212.55.96.17,US,Port Erin,"Howe, Gonzalez and White",False,False,False,0.14
+159.179.88.86,US,North Ruben,Walker LLC,False,False,False,0.12
+134.191.200.95,JP,New Janeville,"Farmer, Dalton and Williams",False,False,False,0.03
+54.0.125.129,BR,North Calvin,Kirby Group,False,True,False,0.9
+14.122.170.249,UK,Kimberlyside,King Ltd,False,False,False,0.03
+170.77.47.142,FR,Meadowsview,Brock PLC,False,False,False,0.02
+125.77.127.235,US,Juanstad,Wilkins Inc,False,False,False,0.18
+172.71.33.80,US,Careymouth,Peterson-Reynolds,False,False,False,0.03
+150.75.249.232,US,South Jonathanview,Torres Ltd,False,False,False,0.01
+54.251.70.210,BR,Spearsmouth,White-Charles,False,False,False,0.03
+28.127.66.7,UK,New Lindsayborough,Davis LLC,False,False,False,0.09
+89.167.152.123,UK,South Veronicafurt,"Flores, Knox and Taylor",False,False,False,0.15
+92.139.27.61,IN,Millerfurt,Taylor-Ball,False,False,False,0.14
+22.17.137.246,IN,Candiceberg,Morton-Ross,False,True,False,0.46
+17.120.155.245,CA,South Mikeburgh,Reese-Underwood,False,False,False,0.09
+68.6.164.189,US,Lydiafort,Clark Ltd,False,False,False,0.0
+49.129.74.252,DE,East Matthew,Carey-Myers,False,False,False,0.01
+84.139.189.149,UK,Carolineland,White-Cox,False,False,False,0.09
+41.156.219.72,CA,Lake Michaelbury,Gonzalez-Miller,False,True,False,0.79
+13.241.135.59,AU,Smithbury,Beck-Allen,False,False,False,0.02
+179.244.93.31,UK,New Christopherberg,"Nelson, Scott and Manning",False,False,False,0.33
+164.111.67.58,CA,West Michelleside,Hunt-Baker,False,False,False,0.29
+157.204.0.124,FR,Vargasside,Norris LLC,False,False,False,0.11
+179.23.233.78,UK,South Sarahberg,Davis Group,False,False,False,0.2
+8.63.117.39,UK,Port Erinfurt,Hensley and Sons,True,False,False,0.77
+61.164.123.16,DE,Cochranmouth,Gordon-Hayes,False,False,False,0.0
+187.25.53.228,US,South Jason,"Turner, Mills and Patel",True,False,False,0.76
+191.206.196.246,CA,West Lance,"Lopez, Fowler and Harris",False,False,False,0.13
+93.209.250.148,JP,New Anthony,Mercer LLC,False,False,False,0.14
+43.242.177.211,BR,Mooreview,Sanders-Graham,False,False,False,0.03
+136.57.105.51,US,Evanshaven,Miller-Ortega,False,False,False,0.1
+148.14.215.207,DE,North Gabriella,Love Group,False,False,False,0.13
+134.147.3.72,CA,Kimberlyberg,Anderson-Douglas,False,False,False,0.2
+25.117.4.67,US,West Kristyview,Smith Inc,False,False,False,0.07
+161.78.80.73,IN,Sandrastad,Garza PLC,False,False,False,0.08
+206.209.249.202,FR,Collinsborough,Jones PLC,False,False,False,0.16
+71.214.190.62,DE,Jeremybury,Floyd-Cantu,False,False,False,0.04
+157.233.239.6,CA,North Anthonyton,"Harris, Schultz and Perez",False,False,False,0.01
+159.195.241.112,IN,Joanneside,"Kelly, Arnold and Gutierrez",False,False,False,0.01
+178.244.73.174,US,Huntton,"Ferrell, Lamb and Anderson",False,False,False,0.24
+137.210.16.207,IN,Lawsonborough,Kim-Hull,False,False,False,0.28
+82.118.58.56,AU,East Jasonburgh,Lopez PLC,False,False,False,0.08
+120.83.225.98,FR,Smithmouth,Jennings LLC,False,False,False,0.19
+167.105.198.23,FR,Stevefort,Smith-Smith,False,False,False,0.07
+54.155.175.72,MX,Smithmouth,Rivers-Taylor,False,False,False,0.08
+75.149.67.195,FR,North Bianca,Trevino PLC,False,False,False,0.08
+213.71.243.95,US,Petersview,Anderson-Green,False,False,False,0.01
+140.164.216.105,UK,West Jenniferstad,"Willis, Roberson and Hudson",False,False,False,0.03
+220.212.16.77,JP,Johnsonview,"Gomez, Hall and White",False,False,False,0.05
+144.239.153.19,JP,West Adriana,"Hill, Johns and Hart",False,False,False,0.01
+195.60.181.180,US,Bellberg,White-Johnson,False,False,True,0.95
+190.247.65.98,US,South Katherinetown,Hansen-Swanson,False,False,False,0.1
+164.9.233.214,FR,North Hannahmouth,"Bailey, Ward and Mercer",False,False,False,0.07
+144.131.56.22,DE,North Cindy,Berry-Gonzalez,False,False,False,0.13
+101.209.250.90,MX,Lake Phillip,"Crawford, Burns and Murray",False,False,False,0.02
+27.183.38.134,AU,West Kristina,Jones-Bass,False,False,False,0.2
+80.112.11.101,MX,New Michaelside,Choi Ltd,False,False,False,0.07
+111.220.186.143,JP,East James,"Smith, Shepherd and Atkinson",False,False,False,0.19
+33.195.174.77,UK,North Charlesbury,"Rodriguez, Parker and Rasmussen",False,False,False,0.05
+44.185.76.31,FR,Bonillafort,"Moore, Jones and Haney",False,False,False,0.1
+89.51.177.43,US,Port Sarahview,Padilla-Smith,False,False,False,0.05
+62.204.26.230,BR,New Doris,James PLC,False,False,False,0.01
+23.101.183.40,US,Hayeston,"Lowe, Wilson and Owen",False,False,False,0.17
+29.213.204.83,CA,Jeffreyburgh,Cox Group,False,False,False,0.03
+192.40.138.234,US,Christinefort,Beck Ltd,False,False,False,0.02
+60.105.95.66,IN,East Kayla,Owens-Wilson,False,False,False,0.05
+38.34.208.150,UK,Loweborough,"Stokes, Cross and Horn",False,False,False,0.09
+166.200.191.69,UK,Richardside,"Herrera, Davidson and Pierce",False,False,False,0.12
+85.244.20.51,JP,Gonzalezstad,"Gray, Donaldson and Atkins",False,False,False,0.17
+173.142.110.210,MX,Hillfort,Jackson and Sons,False,False,False,0.11
+31.196.249.69,US,Dyerstad,"Long, Wiggins and Baker",False,False,False,0.02
+14.50.40.219,FR,Montgomeryshire,"Baker, Ramos and Miller",False,False,False,0.09
+170.244.87.18,US,Melissaview,Holland-Love,False,False,False,0.09
+122.234.150.126,US,South Tyler,"Holland, Hansen and Nelson",False,False,False,0.12
+46.135.3.221,AU,Marvintown,Alexander LLC,False,False,False,0.11
+2.33.81.173,AU,Warrenstad,Patel and Sons,False,False,False,0.03
+214.8.25.238,UK,Lake Catherine,Russell Group,True,False,False,0.98
+193.21.246.232,JP,Lisatown,Walker-Clark,False,False,False,0.05
+64.21.109.246,UK,Robinsonview,Edwards Inc,False,False,False,0.01
+46.191.223.101,FR,Welchchester,Harris LLC,False,True,False,0.43
+29.170.82.75,FR,Heatherfurt,Reese-Wright,False,False,False,0.25
+214.74.68.206,UK,Bakermouth,"Thomas, Brown and Friedman",False,False,False,0.09
+161.29.247.45,JP,North Andrewfort,Williams-Brock,False,False,False,0.04
+148.252.71.144,AU,South Kerryhaven,Vargas-Murray,False,False,False,0.09
+102.201.6.22,BR,Port Mary,Miller-King,False,False,False,0.05
+27.224.232.216,US,Janicefort,"Lawrence, Wyatt and Johnson",False,False,False,0.0
+139.189.53.227,DE,Johnsonmouth,Barber PLC,False,False,False,0.28
+62.27.198.132,US,South Christopherside,"Dunlap, Pugh and Greene",False,False,False,0.11
+220.197.165.155,DE,Port Jefferyville,Lopez Group,False,False,False,0.03
+51.11.207.123,IN,Lake Jillborough,Jimenez PLC,False,False,False,0.05
+64.191.209.254,US,Rileyton,"Lang, Sullivan and Davidson",False,False,False,0.08
+221.172.146.55,CA,Billyton,Rose-Juarez,False,False,False,0.03
+24.154.221.217,CA,Port Alex,Holmes-Mack,True,False,False,0.71
+100.212.28.184,UK,Hannahtown,Rich-Oliver,False,False,False,0.0
+96.118.72.162,CA,East Davidmouth,"Booth, Hunter and Conner",False,False,False,0.02
+164.25.236.67,FR,Lake Stacy,Vasquez-Stone,False,False,False,0.09
+174.22.183.162,MX,Pamelaside,"Hopkins, Santana and Barajas",False,False,False,0.12
+75.234.138.240,UK,South Conniestad,Smith-Reeves,False,False,False,0.07
+104.221.136.79,US,Lake Michaelborough,"Johnson, Anderson and Meza",False,False,False,0.11
+46.3.49.86,US,New Lynnburgh,Howard Group,False,False,False,0.17
+120.6.150.168,US,North Scott,"Watkins, Pratt and Hill",False,False,False,0.09
+167.104.21.149,UK,East Anthony,Delacruz Ltd,False,False,False,0.06
+100.41.198.24,UK,North Kellyborough,Beck PLC,False,False,False,0.01
+152.155.205.132,US,Port Rebekah,Rice-Martinez,False,False,False,0.19
+1.28.160.252,US,Kennethport,"West, Herman and Howard",False,False,False,0.2
+141.23.187.145,UK,West Mariah,Little-Murphy,False,False,False,0.11
+37.106.213.223,MX,South Dustin,"Lopez, Robertson and Taylor",False,False,False,0.26
+169.90.227.160,UK,New Matthewstad,Lucas-Jennings,True,False,False,0.56
+53.169.32.229,FR,East Brianhaven,Andrews Ltd,False,False,False,0.01
+171.12.21.196,US,Hughesmouth,Summers LLC,False,False,False,0.05
+2.117.228.74,UK,Jillianhaven,"Taylor, Scott and Russell",False,False,False,0.02
+85.70.162.101,UK,South Sarahchester,"Conrad, Reed and Bell",False,False,False,0.01
+53.73.254.149,UK,Port Bryanberg,"Hernandez, Gonzales and Rivera",False,False,False,0.21
+190.118.255.54,UK,Peckview,Andrews-White,False,False,False,0.07
+211.194.84.145,CA,East Willie,York Ltd,False,False,False,0.04
+31.9.185.171,IN,North Trevorport,Orozco-Greene,False,False,False,0.16
+6.123.252.45,CA,Murrayview,"Bruce, Garcia and Simmons",False,False,False,0.04
+149.209.158.127,BR,Hopkinsfort,Moore LLC,False,False,False,0.02
+33.233.109.25,FR,Port Shannon,Baker-Navarro,False,True,False,0.57
+39.238.98.191,US,Port Valerie,Hernandez-Webb,False,False,False,0.03
+96.128.133.3,UK,Lisaville,"Burton, Hill and Crawford",False,False,False,0.03
+82.27.82.187,UK,Matthewbury,Gomez-Dean,False,False,False,0.2
+219.162.10.197,FR,Solisville,Gay-Huber,False,False,False,0.01
+103.239.67.22,US,Perryton,"Hoover, Salazar and Blake",False,False,False,0.0
+196.93.219.139,JP,New Robertton,Harris-Wells,False,False,False,0.01
+223.22.238.65,MX,Katieland,"Robbins, Bryant and Hall",False,False,False,0.01
+2.47.85.212,DE,Port Casey,"Fisher, Mills and Sosa",False,False,False,0.06
+4.50.15.149,UK,North Miguelside,Harper Inc,True,False,False,0.75
+45.24.81.92,US,North Evan,Williams-Carr,False,False,False,0.11
+143.48.250.141,US,New Ryan,Matthews-Lopez,False,False,False,0.08
+143.29.247.235,UK,Stoneland,"Patel, Lewis and Phillips",False,False,False,0.01
+14.152.109.215,MX,Reynoldsbury,"Macias, Gilmore and Brock",False,False,False,0.15
+6.100.78.100,BR,East Kellyfurt,Carter-Ramirez,False,False,False,0.2
+33.235.74.184,CA,Stevenside,Miranda and Sons,False,False,False,0.0
+155.200.49.254,DE,Allenmouth,"Davis, Steele and Wells",False,False,False,0.04
+124.172.208.169,FR,Paulmouth,"Davis, Randolph and Scott",False,False,False,0.19
+197.86.255.155,AU,North Lisa,Morton-Powell,False,True,False,0.56
+98.59.178.86,AU,East Courtneyshire,Bradford PLC,True,False,False,0.61
+123.27.218.209,UK,Barneshaven,Benjamin Inc,False,False,False,0.1
+170.149.101.65,IN,Lake Kelsey,"Proctor, Brewer and Adams",False,False,False,0.04
+67.91.97.210,CA,South Jared,Mann-Ayala,False,False,False,0.02
+192.57.7.118,DE,New Robert,Mann-Mayo,False,False,False,0.06
+23.211.211.49,AU,West Kristinmouth,"Cruz, Mcbride and Preston",False,False,False,0.09
+151.204.57.238,IN,Shawside,"Smith, Tanner and Rogers",False,False,False,0.04
+223.83.200.167,UK,Greenview,"Baker, Donaldson and Sexton",False,False,False,0.01
+27.195.191.143,FR,Rodriguezchester,Lee-King,True,False,False,0.87
+104.251.180.212,AU,Edwardhaven,Ramos-Bryant,False,False,False,0.08
+212.100.169.229,BR,East Markshire,Armstrong PLC,False,False,False,0.06
+129.99.145.28,UK,Robertville,Walker PLC,False,False,False,0.22
+69.155.21.235,US,Vanessaburgh,Mckinney PLC,False,False,False,0.02
+221.36.235.5,IN,East Melissa,"Garza, Moran and Chan",False,False,False,0.02
+102.98.22.101,JP,South Billyhaven,"Waller, Doyle and Henry",False,False,False,0.01
+40.31.73.167,UK,New Josephmouth,"Osborne, Hull and Carpenter",False,False,False,0.18
+33.86.233.25,US,Melaniefort,Warner LLC,False,False,False,0.11
+71.60.113.205,AU,Jasonhaven,Williams Inc,False,False,False,0.05
+27.184.145.168,DE,East Billyland,Larson and Sons,False,False,False,0.11
+93.43.104.82,US,Matthewborough,Rodriguez-Murillo,False,False,False,0.01
+194.158.183.175,US,West Johnberg,Campbell-Marsh,False,False,False,0.02
+58.81.166.127,BR,Raymondton,Walker Group,False,False,False,0.03
+219.98.188.164,US,Williamchester,King LLC,False,False,False,0.07
+58.241.112.235,MX,Bentleyton,"Allen, Soto and Kennedy",False,False,False,0.16
+84.25.249.238,IN,North Adrianstad,"Bruce, Lowery and Leblanc",False,False,False,0.02
+64.44.229.243,DE,Stevenland,Mata Inc,False,False,False,0.01
+168.232.67.128,JP,Port Henry,Diaz and Sons,False,False,False,0.09
+183.103.48.169,CA,Lake Michelleview,"Campbell, Aguilar and Flores",True,False,False,0.69
+221.101.51.3,BR,Thomaston,Perkins-Lopez,False,False,False,0.03
+142.138.122.209,AU,East Josephfurt,"Baker, Brady and Mueller",False,False,False,0.03
+176.201.28.187,UK,Lake Austin,Chase Ltd,False,False,False,0.02
+51.129.138.101,MX,Port Leslieton,"Walker, Mitchell and Hampton",False,False,False,0.13
+118.170.150.174,DE,Port John,Olson-Barton,False,False,False,0.08
+96.108.105.74,US,New Loriport,Sullivan LLC,False,False,False,0.02
+30.93.253.72,IN,Lake Deborahville,Smith-Levy,False,False,False,0.06
+19.143.237.33,FR,West Jane,"Jackson, Roach and Davenport",False,False,False,0.02
+223.15.250.251,US,South Dawnside,James-Rodriguez,False,False,False,0.17
+151.255.154.70,JP,West Cassandrafort,"Young, Norris and Hart",False,True,False,0.34
+178.54.204.164,JP,Lake Michaelstad,"Miller, Gray and Hammond",False,False,False,0.03
+113.45.157.3,JP,Chapmanfurt,Schneider-Johnson,False,False,False,0.12
+177.97.145.220,DE,Bellport,Clayton-Werner,False,False,False,0.04
+151.151.71.96,FR,Smithfort,Hancock-Smith,False,False,False,0.02
+32.202.87.135,UK,Medinamouth,Thomas-David,False,False,False,0.13
+21.31.169.226,JP,Johnsonberg,"Sandoval, French and Fuentes",False,False,False,0.17
+91.233.57.238,BR,Lake Davidbury,Roberson-Matthews,False,False,False,0.19
+128.57.38.109,BR,Lake Tannerton,Vang Group,False,False,False,0.03
+129.139.60.22,DE,Sarahhaven,Marshall-Henry,False,False,False,0.05
+161.90.161.171,US,Emilymouth,Wolfe PLC,False,False,False,0.03
+211.55.194.181,JP,New Matthewfurt,Hamilton-Maynard,False,False,False,0.03
+103.69.144.183,US,Petershire,"Rodriguez, Watkins and Jackson",False,False,False,0.05
+39.176.38.212,US,West Richard,"Bass, Peck and Bates",False,False,False,0.29
+181.151.53.82,CA,Bradyfort,Rodriguez-Owens,False,False,False,0.17
+221.80.104.72,US,Lopezside,Arnold Ltd,False,False,False,0.07
+31.228.116.101,US,Williamport,Hayes-Allen,True,False,False,0.74
+147.164.42.172,BR,New Joe,Munoz-Garza,False,False,False,0.01
+106.80.67.47,US,Port Christopherborough,Terry LLC,False,False,False,0.04
+135.224.175.126,US,South Lisa,Ray PLC,False,False,False,0.2
+203.88.54.9,MX,West John,Lewis Inc,False,False,False,0.07
+191.78.248.234,US,North Manuel,Moreno-Robertson,False,False,False,0.03
+47.17.38.82,US,Meganburgh,Norris-Brown,False,False,False,0.0
+191.181.241.24,CA,Timothyville,Lopez and Sons,False,False,False,0.05
+140.155.31.29,IN,Julieville,Hall-Beltran,False,False,False,0.02
+78.37.83.238,US,South Deannahaven,Rogers-Cantu,False,False,False,0.46
+145.184.199.73,US,Brookston,Nguyen-Olson,False,False,False,0.12
+178.134.42.81,FR,Turnerland,Caldwell and Sons,False,True,False,0.92
+141.53.150.232,US,Johnland,Vaughn Group,False,False,False,0.18
+73.1.153.28,DE,Mooreview,"Johnson, Cobb and James",False,False,False,0.03
+27.70.91.167,UK,Lopezview,Gonzalez Inc,False,False,False,0.06
+7.175.85.71,UK,Port Abigailmouth,Smith-Armstrong,False,False,False,0.21
+116.92.131.53,AU,Laurieton,"Jones, Evans and Hodge",False,False,False,0.02
+121.139.42.25,AU,Joshuashire,Wilson Inc,False,False,False,0.3
+168.36.90.149,UK,Carrville,Chung Ltd,False,False,False,0.16
+52.138.153.201,US,New Kristopher,"Barron, Jones and Davis",False,False,False,0.13
+76.18.224.133,US,Stephenfurt,Day Group,False,False,True,0.8
+170.165.62.149,UK,Lopezmouth,Campbell-Hays,False,False,False,0.13
+211.243.57.192,FR,West Jenna,Dean-Dominguez,False,False,False,0.0
+146.53.24.217,AU,South Maryland,Sanchez-Phillips,False,False,False,0.02
+35.248.197.248,IN,Marissaview,Jennings-Le,False,False,False,0.01
+47.253.77.103,US,North Scottstad,Myers LLC,False,False,False,0.05
+69.119.81.157,JP,North Rita,Carter Inc,True,False,False,0.65
+36.79.223.72,CA,Robertsonmouth,King-Greer,False,False,False,0.22
+124.196.88.204,MX,Lake James,Ward-Lara,False,False,False,0.06
+9.19.208.1,CA,Rebeccamouth,"Wilson, Lucas and Garcia",False,False,False,0.02
+181.116.52.244,DE,Lake Markport,"Thompson, Miller and Richards",False,False,False,0.19
+134.145.184.72,CA,Ernestshire,"Nelson, Rodriguez and Rodriguez",False,False,False,0.02
+182.236.189.210,US,Heatherfurt,"Perkins, Carpenter and Mitchell",False,False,False,0.12
+41.216.115.243,US,North Mariatown,Cole Inc,False,False,False,0.19
+83.95.221.26,DE,Ryanhaven,"Horne, Myers and Cox",False,False,False,0.04
+5.44.205.20,AU,Lopezville,Bates Group,False,False,False,0.1
+200.104.57.83,MX,Collinsview,"Fowler, Martinez and Stout",False,False,False,0.12
+97.50.62.145,DE,New Diamondville,Lee PLC,False,False,False,0.07
+214.247.161.91,MX,West Richardside,Eaton and Sons,False,False,False,0.04
+98.1.113.246,MX,Lake Davidview,Thompson-Long,False,False,False,0.08
+138.30.72.188,CA,East Lawrenceview,Allen Group,False,False,False,0.12
+167.43.199.193,US,Cruzport,Montgomery Ltd,False,False,False,0.15
+159.149.100.230,FR,Ericksonfort,Williams-Ryan,False,False,False,0.21
+20.74.126.135,IN,North Shanemouth,Leon Ltd,False,True,False,0.43
+77.254.146.200,IN,Port Mitchellland,Watts PLC,False,False,False,0.09
+194.148.28.189,UK,Laurenberg,Hill-Reynolds,False,False,False,0.05
+221.250.210.159,US,New Gregory,Goodwin-Ashley,False,False,False,0.06
+148.107.133.165,DE,East Angela,Ballard and Sons,False,False,False,0.04
+152.103.168.119,FR,Lake Courtney,Dunn-Simmons,False,False,False,0.25
+17.69.123.48,CA,Henrybury,Mckee-Bryant,False,False,False,0.12
+87.128.118.103,AU,North Lori,"Simmons, Lane and Lopez",False,False,False,0.01
+148.102.96.11,JP,West Jasmine,"Brown, Smith and Harrison",False,False,False,0.01
+27.255.164.66,CA,Lake Angelicaport,"Campbell, Lane and Salazar",False,False,False,0.08
+98.197.163.107,MX,Graychester,"Rubio, Martinez and Jones",False,False,False,0.04
+165.188.4.194,MX,New Kimberlyview,"Ramirez, Howard and Goodman",False,False,False,0.25
+218.166.99.10,IN,Craigborough,"Johnson, Murphy and Jones",False,False,False,0.08
+90.118.77.23,US,Lake Haley,Mccall Ltd,False,False,False,0.01
+90.73.64.206,BR,Parkerville,"Hall, Valencia and Huynh",False,False,False,0.02
+54.192.54.96,CA,Port Matthewtown,Brown-Young,False,False,False,0.21
+80.177.48.196,DE,South Michelle,Bridges-Buchanan,False,False,False,0.0
+209.67.229.249,AU,Port Erika,Schultz PLC,False,False,False,0.1
+69.33.164.61,DE,Brownhaven,"Valdez, Hudson and Hall",False,False,False,0.01
+148.125.117.30,AU,Port David,Alexander LLC,False,False,False,0.19
+119.247.252.190,FR,North Christopher,"Skinner, Harris and Mooney",False,False,False,0.05
+220.227.83.224,UK,East Brian,Dennis-Cook,False,False,False,0.03
+129.175.171.22,DE,East Lisaside,Hicks Inc,False,False,False,0.09
+147.15.208.188,FR,Jenniferton,Anderson PLC,False,False,False,0.09
+48.46.81.178,US,New Christopherton,Holmes Group,False,False,False,0.01
+62.30.4.77,US,Mayborough,Malone LLC,False,True,False,0.59
+208.88.5.247,US,Lake David,Ramirez Ltd,False,False,True,0.39
+144.95.60.187,US,Lake Jamie,Anderson-Williams,False,False,False,0.31
+66.225.6.141,DE,West Megantown,Smith LLC,False,False,False,0.03
+102.240.9.240,US,Michaelmouth,"Turner, Williams and Kennedy",False,False,False,0.01
+136.47.144.237,AU,New Susan,Fischer-Cowan,False,False,False,0.01
+69.114.14.77,US,Grayland,"Mills, Duran and Vance",False,False,False,0.08
+190.134.205.32,UK,Hendersonmouth,Hancock-Robinson,False,False,False,0.06
+18.114.85.13,UK,Port Jason,"Miller, Maddox and Walker",False,False,False,0.04
+138.73.131.113,US,West Williambury,Hill Inc,False,False,False,0.03
+58.59.159.246,US,Lake Jillmouth,"Walker, Wilson and Peters",False,False,False,0.03
+28.227.62.111,MX,Jessicaton,Sims Inc,False,False,False,0.04
+218.53.59.254,BR,Christineshire,Saunders PLC,False,False,False,0.11
+118.66.193.74,BR,North Michael,Wilcox-Burke,False,False,False,0.05
+156.172.252.179,JP,Lake Annaview,Hahn and Sons,False,False,False,0.09
+168.233.132.47,BR,East Tiffanymouth,"Jones, Kelly and Ellis",False,False,False,0.03
+98.197.91.46,CA,Faithstad,"Rogers, Robinson and Flores",False,False,False,0.11
+204.73.192.60,UK,Blakehaven,"Watkins, Gutierrez and Mcdonald",False,False,False,0.01
+213.69.145.243,UK,Port Daniel,Yang Group,False,False,False,0.27
+128.149.229.14,IN,Andrewport,Wolf-Jones,False,False,False,0.21
+185.113.2.141,IN,Garciamouth,Barnett-Medina,False,False,False,0.06
+216.241.146.53,US,North Stephanieport,"Patterson, Webb and Boyd",False,False,False,0.27
+200.152.130.98,BR,Martinezport,Colon-Woodward,False,False,False,0.06
+154.133.253.90,UK,Millertown,Shaw Group,False,False,False,0.09
+114.131.50.19,AU,Steventon,"Mitchell, Carter and Floyd",False,False,False,0.4
+20.78.172.159,IN,Marychester,"Knight, Austin and Webb",False,False,False,0.21
+131.212.115.20,US,Lake Kimberly,Yates-Perez,False,False,False,0.05
+167.19.180.40,JP,West Richard,"Martin, Mcdonald and Campbell",True,False,False,0.4
+76.67.251.120,UK,North Williamport,Taylor Inc,False,False,False,0.05
+220.32.103.40,US,Collinville,Ford PLC,False,False,False,0.09
+223.48.42.78,UK,North Johnbury,Nelson-Daniel,False,False,False,0.19
+56.103.194.137,CA,Phillipsmouth,James LLC,False,False,False,0.09
+212.244.106.63,UK,North Charles,Scott-Walsh,False,False,False,0.19
+129.186.173.227,CA,North Nicholas,Garcia-Mclaughlin,False,True,False,0.51
+66.29.119.204,BR,Monicaburgh,Levine LLC,False,False,True,0.7
+110.200.3.164,BR,Valdezbury,"Webster, Velasquez and Castro",False,False,False,0.13
+59.41.178.242,AU,North Marissaville,"Edwards, Duran and Duncan",False,False,False,0.02
+124.145.17.178,DE,Connerland,"Hill, Wilcox and Edwards",False,False,False,0.13
+186.34.167.164,JP,South Alyssa,"Davidson, Wood and Ferguson",False,False,False,0.05
+169.79.154.19,AU,East Laurenberg,Reed LLC,True,False,False,0.6
+172.114.156.249,US,Lake Jillian,"Cook, Newman and Romero",False,False,False,0.13
+63.187.204.157,US,Brandonfort,"Wade, Miller and Parks",False,False,False,0.03
+165.197.122.40,US,Kristinaport,Howard LLC,False,False,False,0.07
+31.112.3.195,UK,Justinview,"Myers, Bauer and Sanchez",False,False,False,0.06
+35.98.55.146,CA,South Alanshire,"Russo, Bradshaw and Price",False,False,False,0.13
+93.71.66.249,UK,Lindaborough,Ford-Perez,False,False,False,0.15
+217.73.193.188,CA,Smithville,Martinez LLC,False,False,False,0.17
+27.136.230.114,AU,Lisastad,"Gonzalez, Graham and Davis",False,False,False,0.14
+78.62.77.233,BR,Port Crystal,Harrison-Alexander,False,False,False,0.19
+40.181.119.207,US,Elizabethville,"Woods, Harris and Jennings",False,False,False,0.03
+117.242.158.66,UK,Lake Marciashire,Wright-Walters,False,False,False,0.11
+206.17.186.149,US,Sharonmouth,"Berry, Moore and Middleton",False,False,False,0.01
+95.245.196.129,US,Ashleyview,House-Torres,False,False,False,0.01
+150.168.147.198,CA,Quinnville,West and Sons,False,False,False,0.04
+25.54.115.125,AU,South Jessica,"Perez, Horn and Huynh",False,False,False,0.03
+213.42.51.65,UK,New Tammie,Huffman-Rocha,True,False,False,0.36
+61.139.255.31,US,Hullview,"Johnson, Estrada and Good",False,False,False,0.01
+188.118.72.32,MX,Elizabethville,Martin Group,True,False,False,0.69
+9.246.221.70,FR,West Adamberg,"Booth, Anderson and Higgins",False,False,False,0.1
+82.175.94.44,CA,Brianaburgh,"Madden, Meza and Ramos",False,False,False,0.1
+24.187.168.132,BR,East Colleen,Lyons-Robinson,False,False,False,0.03
+175.167.138.55,AU,Lake Kristin,"Alexander, Richmond and Franklin",False,False,False,0.15
+86.15.197.90,US,North Alexanderfurt,Burns and Sons,False,False,False,0.1
+122.2.212.14,IN,Hubershire,"Cobb, Mata and House",False,False,False,0.06
+119.242.142.241,US,West Rachelfort,Rodriguez Inc,False,False,False,0.15
+97.142.109.211,CA,New Shawntown,"Patrick, Mcneil and Williams",False,False,False,0.13
+171.222.72.75,DE,Hornbury,Haas PLC,False,False,False,0.03
+197.25.194.200,US,Lake Larrymouth,English and Sons,False,False,False,0.26
+151.225.43.143,IN,New Edwardside,"Smith, Lawson and Kennedy",False,False,False,0.08
+94.144.209.214,US,Port Ericville,"Silva, Goodwin and Ramirez",False,False,False,0.02
+117.44.112.0,US,Bartonberg,Clark LLC,False,False,False,0.01
+200.117.191.92,US,Wardtown,Jackson Inc,False,False,False,0.3
+160.12.100.47,UK,Sheilamouth,Smith-Blevins,False,False,False,0.03
+78.37.112.79,JP,North Scottside,Snyder-Bailey,False,False,False,0.36
+53.163.44.190,JP,New Matthewville,Rogers-Phillips,False,False,False,0.12
+107.248.63.184,JP,Gutierrezport,"Long, Griffin and Shaw",False,False,False,0.01
+71.253.96.213,CA,Katieberg,Parker and Sons,False,False,False,0.0
+186.93.210.14,BR,Lake Stephanieview,Thomas-Tucker,False,False,False,0.02
+121.140.10.50,US,Cassandraborough,"Strong, Rodriguez and Mueller",False,False,False,0.05
+17.18.136.81,MX,Petersside,"Wiley, Barnes and Dixon",False,False,False,0.15
+15.36.240.186,UK,Christineland,Foster Group,False,False,False,0.16
+155.113.81.194,MX,Stefaniehaven,Weber-Delgado,False,False,False,0.21
+6.137.71.153,AU,South Thomas,Rasmussen LLC,False,False,False,0.06
+211.129.36.230,US,Yangstad,"Santiago, Boyd and Thomas",False,False,False,0.05
+197.193.16.146,IN,West Scottport,Olson PLC,False,False,False,0.03
+36.94.146.80,US,Brooksshire,Odom Ltd,False,False,False,0.11
+183.14.245.75,UK,South Stephanie,Parsons-Wilson,False,False,False,0.06
+62.246.10.245,CA,North Eric,Smith PLC,False,False,False,0.07
+27.42.103.182,AU,West Jimport,Peterson Group,False,False,False,0.04
+64.13.195.203,FR,Sabrinaside,Russell PLC,False,False,False,0.13
+141.39.142.136,BR,East Rachelview,Nicholson and Sons,False,False,False,0.01
+44.25.93.99,IN,New Zachary,Oconnor-Herrera,False,False,False,0.03
+222.30.59.233,UK,Lake Tyroneton,Williams-Jimenez,False,False,False,0.0
+81.202.177.176,IN,East Monica,Haney LLC,False,False,False,0.1
+191.159.87.104,BR,Patriciaport,Hughes Group,False,False,False,0.14
+152.107.192.58,IN,New Renee,Kim-Golden,False,False,False,0.06
+223.172.97.216,BR,Marissamouth,Compton-Whitaker,False,False,False,0.04
+20.198.148.125,UK,Kathleenfort,Jones-Jackson,False,False,False,0.3
+46.247.171.142,US,West Danielhaven,"Harrison, Barnes and Fletcher",False,False,False,0.08
+74.78.94.74,BR,East Jennifer,"Kane, Davenport and Warren",False,False,False,0.01
+65.134.28.27,US,South Hollyville,Callahan and Sons,False,False,False,0.04
+49.122.138.189,FR,Sandrastad,Chavez-Pope,False,False,False,0.05
+49.4.207.86,MX,Lake Stephaniefurt,Smith-Stewart,False,False,False,0.01
+134.81.154.1,DE,Jenningsport,Alexander-Morales,False,False,False,0.1
+188.200.177.46,CA,Lisachester,Morales-King,False,False,False,0.11
+86.148.22.175,UK,North Vincent,"Hebert, Horn and Taylor",False,False,False,0.01
+52.133.157.178,BR,North Travis,Roberts PLC,False,False,False,0.24
+15.205.106.175,UK,South Michael,"Hill, Jackson and Jordan",False,False,False,0.01
+154.129.128.31,AU,New Margaret,Bowers-Hall,False,False,False,0.09
+164.104.250.60,US,North Noahfort,Torres Group,False,False,False,0.01
+143.186.110.206,CA,Port Michelle,Wright-Lee,False,False,False,0.11
+198.27.211.54,BR,Port Andrew,Rodriguez Inc,False,False,False,0.23
+120.43.239.38,CA,Gomezhaven,"Morris, Mills and Flores",False,False,False,0.02
+150.192.43.164,US,New Philip,Jones-Lee,False,False,False,0.05
+206.197.131.112,BR,Zimmermanhaven,Stewart Group,False,False,False,0.02
+157.51.162.176,US,Lake Johnstad,Moses-Sloan,False,False,False,0.22
+193.126.176.211,CA,Port Mary,"Shaffer, Kelly and Mcclure",False,False,False,0.11
+132.94.228.94,US,Valdezberg,Blackburn-Hughes,False,False,False,0.06
+135.24.3.64,US,Andersonchester,"Parker, Ruiz and Padilla",False,False,False,0.04
+153.44.99.226,MX,Derrickhaven,Copeland-Washington,False,False,False,0.12
+99.217.225.39,US,North Lisatown,Pena Group,True,False,False,0.53
+131.184.95.118,US,Melissaberg,Lopez Ltd,False,False,False,0.07
+106.14.197.64,US,Port Michellestad,"Jones, Williams and Hill",True,False,False,0.88
+188.63.0.204,US,Port Kevin,"Nelson, Barker and Hernandez",False,False,False,0.08
+59.51.147.74,US,Robinsonbury,"Lewis, Gregory and Johnson",False,False,False,0.02
+40.106.28.164,US,Andersonbury,"Ryan, Best and Smith",False,False,False,0.01
+148.22.151.9,FR,Sherylhaven,Jones-Hill,False,False,False,0.08
+82.30.5.221,UK,Jakestad,Freeman LLC,False,False,False,0.02
+182.203.163.123,BR,East Zachary,"Bowman, Macias and Franklin",False,True,False,0.88
+80.245.187.13,US,Adamborough,Johnson PLC,False,False,False,0.04
+19.20.2.131,US,East Erica,"Norris, Mcmillan and Anderson",False,False,False,0.15
+23.15.64.64,JP,Grahammouth,Alexander-Brown,False,False,False,0.29
+31.57.224.236,UK,West Luke,"Mcintosh, Roberts and Pace",False,False,False,0.19
+221.0.76.200,JP,Rodriguezbury,"Robinson, Ingram and Mcgee",False,False,False,0.34
+139.120.137.231,DE,Zimmermanberg,Reed Ltd,False,False,False,0.22
+101.130.101.219,CA,Lake John,Kim Group,False,False,False,0.01
+12.155.188.107,CA,Kennedyborough,"Wilkerson, Cunningham and Guerra",False,False,False,0.16
+113.202.110.220,JP,East Valeriestad,"Sanchez, Terry and Cox",False,False,False,0.0
+133.154.40.188,BR,Laurieland,"Davis, Shepard and Lopez",False,False,False,0.08
+89.15.233.224,CA,Carlyton,Love LLC,False,False,False,0.17
+45.204.60.92,FR,Adamsview,Colon Ltd,False,False,False,0.11
+144.47.58.119,US,East Hannah,"Smith, Brown and Soto",False,False,False,0.0
+222.32.63.220,MX,Robbinsbury,Moore-Romero,False,False,False,0.06
+222.69.240.35,US,Elizabethville,Guzman and Sons,False,False,False,0.2
+6.250.32.221,US,North Alexis,"Williams, Brown and Henderson",False,False,False,0.05
+59.36.236.47,MX,Frederickmouth,Powell-Arnold,False,False,False,0.11
+25.227.222.196,US,Penabury,Hill-Fisher,False,False,False,0.03
+116.151.185.104,BR,Gomezchester,"Mitchell, Short and Brown",False,False,False,0.48
+182.108.26.15,IN,Davidmouth,Harris-Dudley,False,False,False,0.07
+165.220.251.159,FR,Port Jessicafort,Carroll-Hughes,False,False,False,0.17
+221.17.131.236,US,Kristinatown,Floyd Ltd,False,False,False,0.04
+156.167.43.200,CA,Ericshire,Doyle-Black,False,False,False,0.07
+74.57.112.160,US,East Mark,"Baker, Gomez and Hardin",False,False,False,0.07
+170.202.182.14,CA,Davidsonbury,Sanders-Williams,False,False,False,0.02
+59.127.72.93,JP,Jasonburgh,"Mathis, Williams and Jones",False,False,False,0.2
+106.72.173.112,US,North Christineborough,Little-Hernandez,False,False,False,0.05
+138.162.242.208,FR,Antonioport,"Long, Anderson and Green",False,False,False,0.06
+165.65.54.223,JP,New Brian,"Mcdonald, Peck and Hopkins",False,False,False,0.03
+188.228.88.236,FR,Mcdanieltown,Tapia Group,False,False,False,0.06
+108.218.236.148,AU,Jordanfurt,Lawson-Watts,False,False,False,0.01
+16.39.237.22,US,Jasonchester,"Moore, Fleming and Kelly",False,False,False,0.12
+13.93.194.46,CA,West Kristin,Martin-Woods,False,False,False,0.15
+41.93.174.111,AU,Port Robin,Murphy Ltd,False,False,False,0.16
+25.187.195.14,CA,Weeksburgh,Woodward-Luna,False,False,False,0.1
+22.40.113.151,IN,West Dana,Butler-Garcia,False,False,False,0.05
+83.22.186.60,DE,Millerton,Berg-Foster,True,False,False,0.72
+166.45.133.55,DE,Benderburgh,Bonilla-Munoz,False,False,False,0.13
+215.221.171.245,MX,Christopherchester,"Zimmerman, Butler and Miller",False,False,False,0.1
+124.233.83.163,UK,Port Craig,Stephens Inc,False,False,False,0.1
+140.51.5.5,US,Taylorshire,Ballard Ltd,True,False,False,0.84
+31.205.126.177,FR,Lake Tara,"Roman, Davis and Nunez",False,False,False,0.02
+104.113.225.132,US,South Jasonhaven,White-Smith,False,False,False,0.09
+113.151.42.236,US,Edwinland,Allen Group,False,False,False,0.23
+146.161.50.215,UK,New Angelaland,Washington and Sons,False,False,False,0.05
+91.74.233.3,US,Lopezville,Dean PLC,False,False,False,0.19
+215.214.24.213,US,Lake Kerrifort,"Flores, Strong and Terry",False,False,False,0.01
+64.93.112.210,US,Lake Bonnieland,Bennett-Cooper,False,False,False,0.01
+173.100.176.6,US,Melissahaven,Scott and Sons,False,False,True,0.79
+223.100.5.55,IN,West Robinmouth,Higgins-Torres,False,False,False,0.19
+67.191.208.74,DE,Smithfort,Patel and Sons,True,False,False,0.69
+170.54.129.154,US,New Johnhaven,Callahan PLC,False,False,False,0.13
+39.76.77.67,BR,Port Jamie,James Ltd,False,False,False,0.07
+77.189.143.254,US,West Heidi,"Hall, Vega and Webster",False,False,False,0.02
+152.153.176.84,CA,West Dylan,Henson Inc,False,False,False,0.19
+91.242.31.64,IN,Elliottport,Rice Ltd,False,False,False,0.24
+110.46.51.208,AU,Frazierville,"Todd, Morales and Wagner",False,False,False,0.14
+167.126.20.123,UK,Doyletown,Flores LLC,False,False,False,0.02
+12.26.253.166,US,South Scott,Jackson Inc,False,False,False,0.09
+85.161.239.20,JP,Lake Mercedes,Dougherty-Smith,False,False,False,0.0
+81.252.25.75,CA,North Elizabethtown,Morris-Flores,False,False,False,0.05
+10.158.254.51,AU,Robertfort,Brown-Harrington,False,False,False,0.3
+119.59.188.176,UK,Williamstown,"Pena, Perez and Johnson",False,False,False,0.25
+50.210.201.83,US,West Sarahbury,Murphy-Huang,True,False,False,0.61
+21.58.189.202,CA,Jacksonmouth,Spears and Sons,False,False,False,0.02
+1.60.80.234,BR,East Alex,Davis and Sons,False,False,False,0.19
+174.11.129.239,IN,South Paulafurt,"Johnson, Blackwell and Carlson",False,False,False,0.05
+83.97.224.52,JP,South Leroyland,"Harrison, Reeves and Nelson",False,False,False,0.09
+161.107.96.236,AU,Williamsfurt,Fernandez-Crosby,False,False,False,0.02
+1.207.162.205,FR,Lake Diane,Shannon LLC,False,False,False,0.06
+16.206.195.201,US,Cynthiaside,"Miller, Wright and Mcgrath",False,False,False,0.08
+135.244.123.147,BR,Port Stacyview,Hale-Porter,False,False,False,0.12
+29.80.162.11,IN,New Michelleberg,Cunningham-Rojas,False,False,False,0.08
+20.231.168.101,AU,South Robertmouth,Frederick Group,False,False,False,0.11
+177.72.173.215,UK,East Elizabeth,"Smith, Padilla and Bell",True,False,False,0.78
+42.96.224.0,UK,Stevensberg,Atkins-Chandler,False,False,False,0.18
+150.156.175.101,AU,New Joseph,"Peters, Bowers and Ward",False,False,False,0.05
+30.172.175.40,UK,New Cathy,Lewis Ltd,False,False,False,0.21
+129.4.113.209,UK,Lake Rachel,Shannon PLC,False,True,False,0.89
+153.168.20.232,US,Gonzalezhaven,Cannon-Mitchell,False,False,False,0.15
+123.163.169.47,US,New Angela,Sharp-Long,False,False,False,0.05
+79.88.0.115,BR,New Jessicachester,"Gibson, Martin and Maddox",False,False,False,0.02
+115.156.169.154,IN,Port Larry,Crosby Ltd,True,False,False,0.72
+70.173.215.167,US,Colemanbury,Chan-Wilson,False,False,False,0.03
+89.126.176.202,FR,West Nicole,Thompson-Russo,False,False,False,0.04
+58.218.144.119,UK,East James,Johnson-Hill,False,False,False,0.08
+39.128.24.119,BR,Jamesport,Miller Inc,False,False,False,0.09
+48.245.96.182,BR,Victoriamouth,May-Jackson,True,False,False,0.57
+147.39.114.79,FR,Port Colleen,Gray-Wagner,False,False,False,0.12
+71.30.156.242,JP,South Joshuafort,"Bishop, Barrera and Guerrero",False,False,False,0.09
+111.19.21.201,UK,West Scott,Morris Ltd,False,False,False,0.04
+39.145.126.27,BR,Johntown,Marshall Inc,False,False,False,0.1
+36.209.159.159,CA,Port Joshua,"Thompson, Mcdaniel and Young",False,False,False,0.1
+202.87.208.251,US,Markborough,Johnson PLC,False,False,False,0.15
+89.227.92.40,BR,Rebeccabury,"Mendoza, Bowman and Petersen",False,False,False,0.2
+206.119.227.10,US,Lake Brandon,"Jones, Adams and Perry",False,False,False,0.07
+56.233.147.255,AU,Lake Anthonychester,Brady LLC,False,False,False,0.05
+212.180.131.8,US,New Robertaton,Morgan-Coleman,False,False,False,0.1
+27.51.43.96,CA,North Danielburgh,Smith-Acosta,False,False,False,0.09
+66.210.136.129,JP,West Kathleenburgh,Martin-Hebert,False,False,False,0.11
+163.161.30.110,CA,North Sara,Spencer Inc,False,False,False,0.12
+185.115.144.22,US,West Benjamin,Montgomery-Hines,False,False,False,0.07
+12.46.39.234,MX,North Sarah,"Jones, Miller and Massey",False,False,False,0.08
+120.28.88.101,US,Walkerfort,Wright PLC,False,False,False,0.02
+86.167.92.20,CA,Genemouth,"George, Camacho and Nelson",False,False,False,0.08
+155.244.206.140,UK,Port Rachael,"Hubbard, Gordon and Watkins",False,False,False,0.01
+63.238.46.174,BR,Andrewsside,Price Group,False,False,False,0.26
+19.48.200.142,CA,West Brendaview,"Chambers, Garcia and Smith",False,False,False,0.11
+163.173.156.92,BR,East Matthewchester,"Johnson, Anderson and Kelly",False,False,False,0.22
+152.132.42.200,FR,Moranchester,Howard Ltd,False,False,False,0.09
+220.145.200.131,CA,South Markland,Miller Inc,False,False,False,0.02
+56.236.65.106,US,Lake Derrick,Roberson-Mitchell,False,False,False,0.03
+10.23.42.127,US,Michaelport,Shaw PLC,False,False,False,0.32
+55.231.112.218,UK,West Eric,Davidson-Ruiz,False,False,False,0.02
+186.150.86.181,UK,Port Sethchester,"House, Ayala and Morris",False,False,False,0.07
+24.16.113.131,CA,Jessicaberg,Jones-Jackson,False,False,False,0.05
+206.82.210.26,CA,Ellisshire,"Williams, Keller and Trujillo",False,False,False,0.01
+169.122.244.151,CA,New Joshua,"Hodges, Gay and Murphy",False,False,False,0.03
+101.203.121.32,DE,Scottshire,"Jensen, Thomas and Wilkins",False,False,False,0.07
+123.128.82.33,IN,North Annland,Hudson-Miller,False,False,False,0.01
+126.212.103.78,CA,Terrymouth,Hood PLC,False,False,False,0.29
+76.232.235.161,BR,Brooksbury,Martin-Mitchell,False,True,False,0.87
+59.204.251.154,UK,North Joseph,"Gomez, Johnson and Gibbs",False,False,False,0.0
+123.66.204.153,CA,North Alisonfort,"Crawford, Cole and Boyd",False,False,False,0.32
+214.8.245.242,US,Lake William,Garcia-Best,False,False,False,0.24
+28.78.147.207,CA,East Jamesbury,Wagner LLC,False,False,False,0.05
+126.154.76.25,FR,South Denise,Brown-White,False,False,False,0.08
+140.191.246.178,MX,East Thomasside,"Williams, Moore and Kerr",False,False,False,0.03
+154.151.158.219,IN,Hardychester,Ayers-Logan,False,False,False,0.15
+118.168.23.63,CA,Kathymouth,Collins-Bailey,False,False,False,0.08
+131.185.25.119,UK,West Rachel,"Rodriguez, Rivera and Valencia",True,False,False,0.48
+102.113.180.71,US,North Donaldborough,"Edwards, Harris and Carson",False,False,False,0.08
+97.254.244.21,US,Lake Sophia,Harris Ltd,False,False,False,0.17
+52.39.86.113,US,Julietown,Johnson-Bennett,True,False,False,0.66
+29.133.211.127,CA,South Scottville,Chen-Martinez,False,False,False,0.05
+62.143.142.103,DE,Moorechester,Hart-Sanchez,False,False,False,0.01
+157.0.171.154,CA,Wrightburgh,"Campbell, Kim and Murphy",False,False,False,0.03
+219.9.58.172,IN,Lake Arthur,Yang LLC,False,False,False,0.15
+157.13.134.253,US,Tateburgh,Payne-Herrera,False,False,False,0.06
+147.53.193.54,DE,Stephaniefurt,"Hardy, Weber and Jones",False,False,False,0.13
+57.48.121.212,CA,Yeseniachester,Saunders-Thomas,False,False,False,0.05
+68.164.170.3,US,Geoffreyberg,"Fox, Simpson and Diaz",False,False,False,0.07
+16.76.121.235,US,New Briannafort,"Watts, Duran and Martinez",False,False,False,0.22
+34.200.129.208,MX,South Tracy,"Benton, Mckee and Paul",False,False,False,0.04
+131.170.187.196,CA,Elizabethmouth,Mccullough-Johnson,False,True,False,0.72
+118.198.18.177,US,Lake Johnchester,Walker LLC,False,False,False,0.02
+180.20.128.125,UK,South Nicolestad,Morris-Thompson,False,False,False,0.03
+43.119.184.179,DE,Port David,"Webster, Burns and Nolan",False,False,False,0.16
+219.92.160.57,US,South Rebeccafurt,"Walls, Jones and Howard",False,False,False,0.12
+84.206.117.92,CA,Marychester,Heath Group,False,False,False,0.03
+192.71.170.24,US,Villabury,King-Fowler,False,False,False,0.11
+151.182.52.36,AU,Davidchester,Boyer Inc,False,False,False,0.04
+103.86.62.21,IN,Joyceburgh,Green LLC,False,False,True,0.74
+13.248.152.255,IN,Lawsonland,"Anderson, Rush and Davidson",False,False,False,0.12
+222.110.255.86,DE,Angelafurt,"Tucker, Torres and Olson",False,False,False,0.08
+154.34.114.138,FR,North Ashley,Brown and Sons,False,False,False,0.05
+144.161.185.0,US,South Ashley,White LLC,False,False,False,0.06
+40.133.123.131,JP,North Shelly,Webb Group,False,False,False,0.09
+88.253.47.3,MX,North Karen,Duncan PLC,False,False,False,0.07
+112.69.140.19,MX,Elizabethbury,Smith-French,False,False,False,0.01
+99.78.74.126,US,West Robert,Davidson LLC,False,False,False,0.1
+28.135.237.205,US,Gabrielhaven,Mcbride-Smith,False,False,False,0.03
+209.33.118.78,US,Port Julie,Harris-Robinson,False,False,False,0.0
+43.36.178.9,US,Torresfurt,Goodman LLC,False,False,False,0.22
+142.172.84.211,UK,Maryland,Hawkins Ltd,False,False,False,0.01
+79.138.155.2,US,Lake Meganshire,Wagner-Mercer,False,False,False,0.01
+149.110.8.49,FR,Lake Tammy,Mckinney Inc,False,False,False,0.38
+9.65.244.63,CA,Washingtontown,Walsh Group,False,False,False,0.11
+57.27.41.188,MX,Timothyhaven,Santos and Sons,False,False,False,0.01
+201.78.51.188,MX,Matthewborough,Rowland Group,False,False,False,0.13
+184.230.6.161,AU,Port Jeffreystad,Reed Ltd,False,False,False,0.02
+134.227.213.68,UK,East Jennifer,"Cooper, Bruce and West",False,False,False,0.01
+38.71.252.88,US,Brandonbury,Wood PLC,False,False,False,0.02
+3.211.6.249,US,East Jacquelinefurt,Hernandez-Sweeney,False,False,False,0.06
+161.39.238.139,MX,Ernesthaven,Romero and Sons,False,False,False,0.08
+210.92.223.115,US,Davidshire,Alexander-Gutierrez,False,False,False,0.04
+113.91.190.66,FR,Vincentmouth,Combs-Taylor,False,False,False,0.06
+202.198.1.89,BR,Port Ashleymouth,"Adams, Hickman and Estrada",False,False,False,0.06
+212.49.123.79,FR,Annaview,"Osborne, Lopez and Phelps",False,False,False,0.22
+186.60.32.200,MX,Castillochester,Jones-Keith,False,False,False,0.13
+53.193.132.160,UK,Port Jillianton,"Jacobson, Rosales and Terry",False,False,False,0.04
+190.49.248.138,CA,East Sophia,"Terry, Dudley and Mueller",False,False,False,0.05
+202.96.100.216,US,Romanville,"Deleon, Miller and Walsh",False,False,False,0.09
+38.201.241.248,US,Emilychester,Thornton Group,False,False,False,0.05
+199.224.110.56,US,North Elizabeth,Barrera and Sons,False,False,False,0.05
+4.205.52.138,IN,East Alexandershire,"Simmons, Phelps and Patterson",False,False,False,0.17
+16.142.247.163,US,Lake Scott,Schroeder-Gordon,False,False,False,0.11
+62.233.175.219,JP,South Danielleshire,"Horton, Bailey and Hopkins",False,False,False,0.05
+25.47.31.154,UK,New Ricky,Johnson-Green,False,False,False,0.1
+102.249.216.46,US,South Johntown,"Shah, Vang and Nelson",False,True,False,0.86
+223.216.77.182,DE,Lake Donna,Holmes-Shaw,False,False,False,0.12
+74.75.1.124,US,Jasonville,Ponce and Sons,False,False,False,0.02
+171.173.164.149,IN,West Joseph,Waters-Kline,False,False,False,0.13
+1.26.126.211,CA,Alexisland,Hughes-Collier,False,False,False,0.1
+176.106.118.207,AU,North Chadshire,"Brown, Small and Johnson",False,False,False,0.01
+13.31.165.78,CA,Philipbury,"Parker, Crawford and Sanchez",False,False,False,0.13
+183.108.91.68,BR,New Cassandraville,Rodriguez PLC,False,False,False,0.12
+201.131.8.192,CA,Jonesbury,Rodriguez Inc,False,False,False,0.08
+48.51.26.123,CA,West Crystal,Miller PLC,False,False,False,0.05
+98.211.181.24,UK,Michelletown,"Carter, Stanley and Campbell",False,False,False,0.07
+60.179.232.133,IN,Lake Feliciaberg,Grant Ltd,False,False,False,0.12
+157.247.249.142,US,Phelpston,"Hughes, Martin and Luna",False,False,False,0.07
+210.69.232.100,DE,Port Stacy,Smith-Lewis,False,False,False,0.05
+7.176.103.207,JP,Kellyborough,Rice PLC,False,False,False,0.22
+42.79.34.69,US,Lake Cindy,"Fuentes, Thornton and White",False,False,False,0.02
+114.171.100.186,UK,South Davidport,"Miller, Nguyen and Walker",False,False,False,0.07
+94.18.232.25,US,Brownmouth,Sullivan-Chavez,False,False,False,0.05
+136.160.34.10,US,Port Jeremyberg,"Cordova, Ritter and Flores",False,False,False,0.06
+125.110.26.43,DE,East Erin,Clark Inc,False,False,False,0.03
+31.109.249.54,FR,New Monicaburgh,Malone-Kennedy,False,False,False,0.01
+53.220.213.158,CA,Brownfurt,Johnston-Perry,False,False,False,0.06
+134.16.76.23,US,Lesliemouth,Cannon-Kelly,False,False,False,0.05
+195.48.77.155,US,Port Marcus,"Barnes, Bridges and Munoz",False,False,False,0.22
+151.97.20.148,FR,Port Saraville,Fitzgerald-Alvarez,False,False,False,0.0
+165.130.84.130,DE,West Steveport,"Fisher, Kaiser and Banks",False,False,False,0.03
+128.151.122.46,US,New Jill,Villarreal and Sons,False,False,False,0.18
+17.239.225.176,US,Port Todd,"Benton, Williams and Dorsey",False,False,False,0.07
+187.2.227.102,US,Harrisbury,Waters PLC,False,False,False,0.25
+117.192.199.199,CA,West Kayla,Brown-Jones,False,False,False,0.12
+180.69.113.26,UK,Leeside,Colon and Sons,False,False,False,0.1
+203.165.53.65,US,Davisville,"Fox, Powers and Mejia",False,False,False,0.26
+220.23.54.129,JP,Benjaminview,Butler-Trujillo,False,False,False,0.0
+129.146.206.224,BR,Lake Angela,"Chaney, Harrison and Todd",False,False,False,0.02
+38.36.148.207,FR,North Laura,White PLC,False,False,False,0.22
+75.62.175.52,MX,East William,"Smith, Crosby and Duarte",False,False,False,0.2
+97.236.219.119,US,Mikaylaville,"Ward, Peterson and Ramirez",False,False,False,0.04
+47.76.95.186,UK,West Katieton,Reed and Sons,False,False,False,0.05
+102.162.81.84,US,South Thomas,Contreras-Pitts,False,False,False,0.05
+60.151.255.91,UK,Wardville,Clayton-Gordon,False,False,False,0.03
+133.233.135.148,IN,East Kimberly,Brown-Butler,False,False,False,0.05
+218.10.16.245,DE,Carterborough,Gonzales-Williams,False,False,False,0.07
+101.87.10.10,JP,Amyburgh,"Harper, Curtis and Roberts",False,False,False,0.08
+205.181.46.238,DE,Clarkfurt,Sanchez PLC,False,False,False,0.11
+38.153.165.94,US,Moorefurt,Palmer Inc,False,False,False,0.02
+207.61.230.240,DE,Charlottehaven,Patton-Contreras,False,False,False,0.05
+133.199.142.36,CA,Romanbury,Castaneda-Zimmerman,False,False,False,0.22
+113.133.48.216,MX,Lake Stephanieville,Jenkins-Mack,False,False,False,0.13
+106.76.128.148,US,Michaelmouth,Jones-Christensen,False,False,False,0.01
+28.27.139.157,JP,East Patty,Jones-Monroe,False,False,False,0.31
+14.212.242.245,US,North Patrickchester,"Williams, Keller and Brown",False,False,False,0.09
+217.122.108.91,MX,Garzaville,Green-Keller,False,False,False,0.05
+9.177.251.9,FR,Vanceberg,Ramirez-Brandt,False,False,False,0.04
+63.118.123.1,MX,Luisfort,Charles and Sons,False,False,False,0.0
+17.202.147.15,UK,Lake Joshua,Schroeder PLC,False,False,True,0.72
+48.69.136.9,BR,South Charlesland,"Buckley, Mcdaniel and Avila",False,False,False,0.06
+79.155.198.247,CA,West Danielletown,Hamilton-Davis,False,False,False,0.01
+115.142.217.108,US,Port David,Scott PLC,False,False,False,0.03
+36.57.36.128,CA,New Samantha,"Neal, Carter and Chang",False,False,False,0.03
+106.224.225.166,CA,West Kristiburgh,Hicks Ltd,False,False,False,0.12
+92.48.242.31,UK,Kelleyville,Butler Group,False,False,False,0.02
+34.233.66.68,BR,Katherinefort,"Perez, Marquez and Ramirez",True,False,False,0.41
+116.185.189.29,US,North John,"Christensen, Diaz and Harmon",False,False,False,0.07
+28.183.197.217,BR,Port Teresa,"Hall, Horne and Phillips",False,False,False,0.22
+28.147.84.124,BR,Jonathanshire,"Adams, Cameron and Hart",False,False,False,0.03
+176.156.240.157,DE,East Tricia,"Jenkins, Scott and Davis",False,False,False,0.13
+136.49.213.164,CA,New Luistown,Villegas-Molina,False,False,False,0.06
+207.246.241.86,DE,West Brendamouth,Hawkins and Sons,False,False,False,0.06
+19.90.76.52,IN,New Brettview,Scott-Armstrong,False,False,False,0.18
+132.151.25.150,MX,Martinezview,"Smith, Gonzalez and Scott",False,False,False,0.06
+12.110.194.164,CA,Riverafort,Mendoza LLC,False,False,False,0.03
+32.80.122.188,IN,Taylorfurt,Blair-Saunders,False,False,False,0.06
+121.47.16.4,US,New Danieltown,Graham PLC,False,False,False,0.0
+10.118.43.233,BR,Maryberg,"Gregory, Richards and Campbell",False,False,False,0.05
+115.243.252.39,BR,Daryltown,Foster Ltd,False,False,False,0.07
+30.29.245.21,UK,Davidchester,Castro-Valentine,False,False,False,0.08
+113.148.15.6,US,Gonzalezfort,"Jones, Edwards and Green",False,False,False,0.24
+115.231.218.67,MX,Cruzview,Bishop PLC,False,False,False,0.17
+183.11.253.92,US,East Stephaniestad,Greene and Sons,False,False,False,0.17
+86.32.95.147,US,East Carol,"Copeland, Hobbs and Roberts",False,False,False,0.12
+80.64.220.161,UK,Houstonport,Good-Nelson,False,False,False,0.27
+103.204.81.12,CA,Johnsonshire,"Williams, Bird and Ellis",False,False,False,0.01
+151.85.129.250,US,Davilamouth,"Mendoza, Hayes and Lynch",False,False,False,0.15
+177.0.144.218,DE,Port Gloria,Cooper and Sons,False,False,False,0.11
+4.197.199.4,AU,New Michelletown,Patrick-Thornton,False,False,False,0.03
+195.65.77.74,BR,Weberview,Johnson Ltd,False,False,False,0.01
+167.77.17.100,US,Phamchester,"Chapman, Hughes and Hunter",False,False,False,0.01
+115.244.185.80,DE,Kathrynville,Baker LLC,False,False,False,0.16
+198.235.105.140,US,Fitzpatrickville,Cruz Group,False,False,False,0.03
+4.136.141.90,FR,Port Kayla,Martin Group,False,False,False,0.02
+42.136.226.246,JP,Barbarashire,Weber Group,False,False,False,0.17
+146.179.118.19,IN,Lake Heatherside,Liu-Lee,False,False,False,0.09
+81.204.101.49,JP,South Rachel,Martinez LLC,False,False,False,0.16
+1.252.240.14,CA,South Lorrainechester,"Davenport, Scott and Mckinney",False,False,False,0.12
+125.56.193.135,CA,North Brianview,Mueller LLC,False,False,False,0.02
+79.66.161.7,CA,North Jessicaport,Wallace PLC,False,False,False,0.24
+110.147.246.221,FR,East Jessica,"Stanley, Rivera and Conner",False,False,False,0.01
+22.152.163.68,AU,Jonathanshire,"Washington, Carson and Greene",False,False,False,0.04
+94.191.137.202,DE,Port Robert,"Holloway, Morris and Hill",False,False,False,0.16
+15.98.16.222,IN,Lake Todd,Kent Ltd,False,False,False,0.08
+97.36.155.192,US,Deborahshire,Flynn Ltd,False,False,False,0.05
+26.92.172.41,CA,Lake Richard,"Rodriguez, Roberts and Walker",False,False,False,0.0
+121.67.47.117,IN,Nicholaston,Carter and Sons,False,False,False,0.1
+57.101.235.228,AU,Marshallberg,Frank-Smith,False,False,False,0.01
+197.202.161.50,CA,Garciachester,Figueroa LLC,False,False,False,0.05
+50.235.151.92,US,Lake Stephen,"Le, Rangel and Watts",False,False,False,0.03
+9.156.110.250,IN,Kerrchester,Sanders-Fitzpatrick,False,False,False,0.06
+168.224.118.96,JP,East Joannaport,Sampson Group,False,False,False,0.19
+148.99.104.51,UK,Wendyview,Martinez-Barnes,False,False,False,0.03
+61.233.196.226,BR,Lake Bradley,Graham Inc,False,False,False,0.18
+134.225.69.16,CA,Jenniferstad,Alvarado and Sons,False,False,False,0.03
+215.154.19.140,CA,Anthonyfort,Davis and Sons,False,False,False,0.1
+160.227.3.17,US,Reyeschester,Cordova-Mitchell,False,False,False,0.02
+43.112.205.166,JP,Ericville,"Huffman, Levine and Ramirez",False,False,False,0.06
+114.170.168.107,US,Mcintyremouth,"Wade, Diaz and Preston",False,False,False,0.11
+193.16.101.55,US,Shawnburgh,Walker Group,False,False,False,0.01
+53.67.143.25,UK,Dennisville,Wilson-Alexander,False,False,False,0.03
+159.218.189.249,US,West Tamaraburgh,"Shah, Johnson and Ross",False,False,False,0.15
+216.138.190.119,US,Christopherborough,Hebert-Willis,False,False,False,0.19
+148.89.132.136,CA,Carlsonfurt,Edwards Inc,True,False,False,0.55
+43.249.56.201,DE,Elizabethland,Miller-Mcbride,False,False,False,0.06
+151.63.47.206,DE,Port Brendafort,"King, Cook and Jones",False,False,False,0.04
+22.85.20.3,UK,Kathyview,Moreno-Smith,False,False,False,0.02
+159.133.85.102,DE,Wattsville,Hurley Group,False,False,False,0.11
+56.27.247.186,MX,West Edgarchester,Wright-Burnett,False,False,False,0.06
+168.133.254.217,US,Williamshaven,Baird Inc,False,False,False,0.09
+124.110.188.96,CA,New Jennifer,Gilbert PLC,False,True,False,0.66
+80.17.137.38,US,South Kayla,Spencer-Duran,False,False,False,0.0
+166.109.250.63,AU,South Karenbury,Luna PLC,False,False,False,0.33
+32.195.71.161,MX,Melissahaven,Payne LLC,False,False,False,0.01
+98.66.206.23,UK,West Virginiaside,"Rodriguez, Griffith and Williams",False,False,False,0.0
+192.39.21.89,FR,Susanhaven,"Colon, Reynolds and Pham",False,False,False,0.1
+134.195.39.179,CA,North Colton,"Perry, Turner and Johnson",False,False,False,0.01
+203.147.56.219,IN,West Rebecca,Gallegos-Parsons,False,False,False,0.05
+10.98.111.208,MX,Ashleeborough,Waters-Williams,False,False,False,0.04
+144.220.134.141,MX,Carolburgh,Smith-Lane,False,False,False,0.01
+113.67.186.39,CA,Juliestad,Schmitt-Gomez,False,False,False,0.08
+188.128.247.181,FR,Travishaven,"Davis, Johnson and Whitney",False,True,False,0.72
+168.155.61.220,FR,New Ashley,Roberts-Garcia,False,False,False,0.18
+56.173.252.84,IN,Lake Jasmine,"Rich, Lee and Barron",False,False,False,0.03
+168.11.194.82,AU,Ferrellview,"Werner, Tran and Burns",False,False,False,0.07
+75.237.37.97,IN,Garciaborough,"Delacruz, Diaz and Franco",False,False,False,0.04
+26.66.80.54,UK,Wilsontown,"Morris, Gordon and Ray",False,False,False,0.04
+209.40.8.77,US,West Joseph,Pittman-Leonard,False,False,False,0.07
+13.165.91.74,UK,New Georgechester,"Reyes, James and Gonzalez",False,False,False,0.09
+154.139.222.24,US,South Ryan,Taylor Group,False,False,False,0.04
+75.35.25.10,US,Petersonview,Patel PLC,False,False,False,0.02
+195.225.150.48,AU,East Rebeccaberg,"Smith, Valencia and Crawford",False,False,False,0.16
+50.244.243.52,US,Mikaylatown,Curry Ltd,False,False,False,0.11
+121.201.34.59,DE,Elizabethview,Mcknight Ltd,False,False,False,0.09
+132.175.177.101,CA,Lake Jaybury,"Graves, Wilcox and Reynolds",False,False,False,0.01
+194.51.34.190,US,Hendersonfort,"Scott, Olson and Walters",False,False,False,0.26
+179.31.123.22,BR,Lake Moniqueport,Arnold PLC,False,False,False,0.15
+119.126.14.8,US,South Andrew,Day Group,False,False,False,0.07
+187.16.187.73,MX,East Michelle,"Randolph, Thomas and Nguyen",False,False,False,0.13
+205.9.145.92,IN,West David,Woods-Carrillo,False,False,False,0.0
+27.150.107.216,UK,Craigton,Carney Ltd,False,False,False,0.07
+96.204.103.225,MX,Aliciachester,Perez Group,False,False,False,0.02
+14.86.251.160,CA,Weaverhaven,Thompson-Bowers,False,False,False,0.04
+23.228.4.89,JP,Elizabethport,Mullins-Brown,False,False,False,0.07
+143.164.237.18,US,New Matthew,Brewer Inc,False,False,False,0.04
+197.68.216.152,MX,Richardchester,"Ortega, Brewer and Vargas",False,False,False,0.13
+60.124.155.246,US,Foxland,"Chaney, Hudson and Cobb",False,False,False,0.16
+178.130.124.226,DE,Port Audrey,"Higgins, Deleon and Murphy",False,False,False,0.13
+132.35.29.29,UK,Lake Annmouth,Hall Ltd,False,False,True,0.42
+203.141.57.135,DE,New Juanborough,Freeman-Henderson,False,False,False,0.13
+152.66.186.219,BR,Kellyshire,"Humphrey, Shelton and Hudson",False,False,False,0.01
+2.157.99.198,US,North Bradley,"Newman, Johnson and Johnson",False,False,False,0.0
+110.134.89.60,AU,Carlsonfurt,Flores LLC,False,False,False,0.07
+53.197.192.100,CA,West Michelleton,"Lyons, Griffin and Chen",False,False,False,0.0
+128.129.205.220,US,Lake Josephstad,"Neal, Mccullough and Nelson",True,False,False,0.89
+25.96.61.186,DE,Hendersonberg,"Evans, Black and Castaneda",False,False,False,0.09
+71.244.125.163,US,Mooremouth,White and Sons,False,False,False,0.0
+102.240.167.232,AU,Jessechester,Brooks-West,False,False,False,0.03
+22.206.61.167,US,Rebeccaberg,Lloyd-Hammond,False,False,False,0.06
+45.60.125.115,MX,North Kevinshire,Greene-Scott,False,False,False,0.15
+210.102.128.5,UK,Port William,Miller-Guerrero,False,False,False,0.04
+24.116.84.125,MX,Longchester,"Hines, Wall and Nelson",False,False,False,0.04
+161.113.15.63,BR,Wilsonburgh,Tate-Richardson,False,False,False,0.09
+11.235.112.4,US,East Ericborough,Conrad-Abbott,False,False,False,0.03
+187.152.214.146,US,Amandafurt,Clark-Daniel,False,False,False,0.05
+194.95.221.8,US,Lake Victorhaven,"Walker, Larson and Cain",False,False,False,0.0
+123.82.83.199,FR,East Erinland,Lynch-Fowler,False,False,False,0.05
+143.35.100.108,MX,Port Ashleyburgh,Cook-Wolfe,False,False,False,0.1
+112.156.171.225,AU,Brycemouth,Oneal-Morales,False,False,True,0.73
+89.53.24.15,CA,South Dustin,Sparks Inc,False,False,False,0.09
+152.226.196.143,FR,Brianhaven,Berg-Hanna,False,False,False,0.03
+211.117.129.243,MX,East Joycestad,Russo Ltd,False,False,False,0.01
+183.226.2.133,FR,Diazburgh,Weeks-Eaton,False,False,False,0.02
+153.31.209.107,US,Murrayton,Ward-Black,False,False,False,0.09
+21.212.37.196,IN,Lynchville,Carter-Dunn,False,False,False,0.06
+72.37.143.103,DE,East Kimberly,Lewis and Sons,False,True,False,0.75
+11.30.221.220,US,Ochoachester,Moore and Sons,False,True,False,0.97
+185.48.37.241,BR,West Vincentland,"Taylor, Lawson and Jones",False,False,False,0.01
+109.253.149.107,IN,Lake Brittanychester,Kennedy Ltd,False,False,False,0.13
+42.4.70.176,UK,East Heather,Andrade-Vazquez,True,False,False,0.8
+2.26.115.181,MX,Leeberg,Payne Ltd,False,False,False,0.03
+142.66.78.10,UK,West Stephanie,"Nash, Rose and Jimenez",False,False,False,0.11
+182.52.81.115,UK,Leahchester,Washington-Moore,False,False,False,0.13
+168.255.103.138,CA,Robertstad,Johnson-Cohen,False,False,False,0.06
+64.160.176.247,JP,New Stacyton,"Payne, Michael and Castillo",False,False,False,0.25
+187.56.71.43,CA,Lake Ericaside,Santos LLC,False,False,False,0.0
+90.232.239.32,DE,Wheelerview,Porter-Miller,False,False,False,0.01
+29.168.22.140,UK,Leefurt,"Phillips, Farmer and Allen",False,False,False,0.18
+119.27.127.255,US,Hillshire,Dickson-Gonzalez,False,False,False,0.08
+137.119.37.18,MX,Port Michelle,"Jordan, Stafford and Shaw",False,False,False,0.26
+43.154.183.152,FR,South Kelly,"Mercado, Jimenez and Roberts",False,False,False,0.03
+74.136.161.245,US,New Keithmouth,"Smith, Kennedy and Walton",False,False,False,0.04
+155.85.18.153,US,New Charles,Herring-Tucker,False,False,False,0.0
+193.209.194.220,AU,Smithside,"Boyle, Carpenter and Obrien",False,False,False,0.09
+25.137.136.225,MX,Rowlandbury,Graham-Harris,False,False,False,0.08
+150.103.159.234,US,Drakehaven,"Larson, Frazier and Leach",False,False,False,0.02
+23.212.233.153,CA,Port Crystalside,Haley-Baker,False,False,False,0.22
+91.217.88.97,CA,Port Anne,Morgan LLC,False,False,False,0.19
+24.226.167.212,AU,South Danielle,Thomas PLC,False,False,False,0.21
+15.28.41.139,MX,Patrickland,"Miller, Kelley and Hart",False,False,False,0.2
+63.137.165.191,CA,East Jessica,"Williams, Maxwell and Hull",False,False,False,0.02
+148.117.201.107,MX,Michaelville,Hall-Morris,False,False,False,0.11
+52.164.41.180,DE,New Jeffreyport,Roberts and Sons,False,False,False,0.05
+72.159.111.35,UK,New Jimmy,Hampton Group,False,False,False,0.12
+117.243.34.185,US,Lake Miguel,Edwards-Meadows,False,False,False,0.0
+138.2.245.44,MX,Lake Jane,"Powell, Smith and Henry",False,False,False,0.32
+186.104.44.122,UK,Gordonside,Osborne Group,False,False,False,0.06
+29.152.248.211,JP,North Brianna,Bryant-Carpenter,False,False,False,0.02
+189.254.186.98,UK,Jenkinsshire,Sandoval-Forbes,False,False,False,0.1
+165.92.16.130,DE,Port Natashaton,"Day, Ramirez and Cox",False,False,False,0.04
+20.126.241.240,MX,Mooretown,"Miller, Hickman and Salazar",False,False,False,0.09
+137.113.181.46,DE,Kellymouth,"Moore, Roberts and Young",False,False,False,0.1
+133.4.168.221,US,Ronaldville,Ellis LLC,False,False,False,0.26
+156.78.169.120,IN,West Laurie,Spencer-Moran,False,False,False,0.06
+147.119.84.112,CA,South Markmouth,Vazquez Inc,False,False,False,0.02
+99.34.147.40,AU,Christinefort,Kim and Sons,False,False,False,0.04
+93.5.36.2,JP,West Christopherborough,Ortiz Group,False,False,False,0.23
+97.7.38.171,US,West Paulbury,"Cole, Johnson and Velazquez",False,False,False,0.0
+218.172.216.5,FR,South Ashley,"Wise, Rodriguez and Good",False,False,False,0.22
+46.64.161.223,CA,Garciabury,Harrell Group,False,False,False,0.06
+1.190.116.7,CA,North Ricky,Vega-Shaw,False,False,False,0.08
+179.244.183.4,BR,Ramosborough,"Foster, Rogers and Gutierrez",False,False,False,0.06
+27.226.116.126,AU,Annemouth,Moss LLC,False,False,False,0.22
+64.49.61.118,IN,Sherrymouth,Mccullough-Anderson,False,False,False,0.06
+43.114.10.120,CA,Haleyside,"Mendez, Shaw and Brown",False,False,False,0.07
+167.41.46.118,DE,East Matthew,"Carter, Ward and Kennedy",True,False,False,0.24
+65.92.167.119,CA,West Shelly,Mcguire Inc,False,False,False,0.0
+93.225.239.218,JP,Bethanyville,Gray-Mills,False,False,False,0.03
+19.170.164.213,UK,West Cynthiafurt,Davis-Wong,False,False,False,0.14
+156.48.87.227,FR,Brandonton,Rogers-Turner,False,False,False,0.02
+94.144.78.35,UK,South Morganshire,"Maldonado, Mcintosh and Cruz",False,False,False,0.01
+149.64.9.175,BR,Bankshaven,Knapp and Sons,False,False,False,0.04
+101.111.96.173,US,Carterberg,Torres LLC,False,False,False,0.02
+211.28.232.61,MX,Johnsonbury,Bailey LLC,False,False,False,0.03
+123.65.122.80,US,Parkton,Blair LLC,False,False,False,0.08
+101.9.78.167,CA,Jacquelineside,"Lloyd, Butler and Chen",False,False,False,0.05
+64.167.221.23,AU,Rodriguezmouth,Cunningham PLC,False,False,False,0.01
+101.254.225.202,IN,New Walterville,Montes-Chung,True,False,False,0.55
+112.72.251.199,UK,Port Courtney,James-Rodriguez,False,False,False,0.05
+6.235.46.76,JP,North Parkermouth,Pennington-Cruz,False,False,False,0.04
+46.211.24.27,US,East Michellebury,Rodriguez-Alexander,False,False,False,0.08
+21.130.201.181,AU,Port Katelyn,"Gomez, Jimenez and Reese",False,False,False,0.0
+27.164.189.167,US,New Brianshire,"Wagner, Bowers and Wilson",False,False,False,0.06
+133.187.54.17,UK,Kimville,Johnson-Ramirez,False,False,False,0.11
+204.168.238.109,BR,Maryview,Miller-Butler,False,False,False,0.07
+168.134.101.100,MX,West Jacobview,Schmitt-Fleming,False,False,False,0.07
+180.151.3.167,MX,Rodgersport,"Andersen, Scott and Keller",False,False,False,0.03
+175.180.8.183,FR,West Brookefort,Taylor-Morrison,True,False,False,0.89
+28.140.182.168,CA,Jillport,Montoya Ltd,False,False,False,0.02
+95.24.11.193,BR,Donnaville,Kim-Kirk,False,False,False,0.03
+74.231.32.227,JP,Bensonborough,Lee-Moore,False,False,False,0.15
+37.134.40.63,UK,East Lisa,Cortez-Guerra,False,False,False,0.01
+9.247.82.20,CA,Melvintown,"Estrada, Nelson and Anderson",False,False,False,0.16
+191.102.87.107,UK,Adamfurt,"Gordon, Brown and Conway",False,False,False,0.28
+156.18.13.60,US,South Charles,Lopez-Parker,False,False,False,0.07
+141.143.160.205,BR,Morenoville,"Logan, Hernandez and Harrison",False,False,False,0.28
+114.121.115.77,AU,Martinezmouth,"Jordan, Carter and Macias",False,False,False,0.13
+211.244.180.71,CA,Kathrynside,Bowman-Ellis,False,False,False,0.12
+137.170.199.173,BR,Josephborough,Harris Group,False,False,False,0.07
+159.172.132.173,AU,Port Maria,Ortiz-Green,False,False,False,0.13
+218.146.24.218,US,South Debra,Lucas-Clark,True,False,False,0.53
+68.215.82.223,UK,Martinezborough,Webb PLC,False,False,False,0.13
+51.90.163.33,FR,East Angelaside,Lopez Inc,False,False,True,0.48
+161.136.139.50,MX,North Raymondview,"Meyers, Moore and Henderson",False,False,False,0.1
+215.27.74.196,DE,Stephanieland,Gomez Ltd,False,False,False,0.02
+1.48.65.44,UK,Toddview,Dalton PLC,False,False,False,0.14
+88.42.69.83,CA,Smithchester,Young Group,False,False,False,0.07
+89.107.93.156,US,East Robertburgh,Collins Group,False,False,False,0.09
+109.99.231.135,DE,Lake Kimberlyberg,Nixon-Garcia,False,False,False,0.05
+58.156.166.48,JP,North Bruce,Johnson-Morris,False,False,False,0.35
+171.252.85.93,AU,South Derekhaven,Johnson PLC,False,False,False,0.11
+139.197.153.80,US,Schmidtchester,Williams-Ferguson,False,True,False,0.9
+7.33.115.94,DE,North Kelly,Mckay-Ruiz,False,False,False,0.18
+93.4.32.106,MX,West Karenshire,Lee Inc,False,False,False,0.2
+67.84.197.180,JP,Meganfurt,Sanders Inc,False,False,False,0.1
+75.88.105.222,CA,Travishaven,Orozco-Cole,False,False,False,0.0
+74.196.106.89,US,Perezville,Crosby-Hernandez,False,False,True,0.54
+111.65.151.199,US,Port Mark,Rodriguez PLC,False,False,False,0.02
+6.93.172.184,AU,Townsendstad,Young-Miller,True,False,False,0.63
+165.198.175.222,UK,Shawnton,Alvarez Ltd,False,False,False,0.05
+184.160.136.128,IN,Robinsonchester,"Houston, Allen and Kirby",False,False,False,0.15
+192.238.200.220,IN,West Mariemouth,"Sanchez, Vasquez and Williams",False,False,False,0.06
+177.0.207.15,UK,Lake Jacobmouth,Davis Inc,False,False,False,0.02
+176.19.95.55,US,Jamesbury,Drake LLC,False,False,False,0.08
+144.239.229.72,CA,North Brandonport,Johnson-Tanner,False,False,False,0.06
+196.213.207.246,US,Jacobchester,Andersen Group,False,False,False,0.06
+141.64.151.231,US,South Juliaberg,Ross-Giles,False,False,False,0.01
+70.12.35.211,IN,Brianside,Lee Inc,False,False,False,0.01
+30.93.53.139,UK,New Lauraport,Marshall-Rodgers,False,False,False,0.11
+39.12.112.76,CA,Anthonyland,"Kemp, Smith and Skinner",False,False,False,0.0
+60.56.243.186,DE,Lake Michael,Cuevas-Diaz,False,False,False,0.03
+91.169.35.70,BR,West Ian,Allen Inc,False,False,False,0.02
+152.22.124.30,US,Gambleton,Perry-Newton,False,False,False,0.02
+106.174.135.97,US,West Nicole,Wallace-Miller,False,False,False,0.04
+151.128.87.160,BR,Millermouth,Hernandez Ltd,False,False,False,0.06
+223.200.78.120,DE,Frankville,Rose-Acevedo,False,False,False,0.15
+47.244.28.211,US,South Taramouth,Davis LLC,False,False,False,0.14
+179.182.89.166,US,West Jacqueline,"Collins, Diaz and Torres",False,False,False,0.02
+18.97.46.147,US,South Charles,"Harrison, Skinner and Klein",False,False,False,0.07
+128.8.242.254,IN,Moralesmouth,Conway-Stewart,False,False,False,0.11
+7.206.0.4,US,East Jonathanville,"Hooper, Davis and Vasquez",False,False,False,0.34
+28.97.234.58,US,East Debraton,Garcia and Sons,False,False,False,0.16
+100.184.190.124,US,Lake Stephanieland,Martin-Pineda,False,False,False,0.04
+28.46.137.45,BR,Stephaniechester,Smith-Brown,False,False,False,0.13
+148.76.225.72,US,Melissafurt,"Brown, Kline and Kim",True,True,False,0.65
+169.19.59.27,BR,South Mollyborough,Farmer-Thompson,False,False,False,0.09
+174.7.31.241,MX,Stewartport,"Foster, Kim and Hill",False,False,False,0.16
+67.255.33.201,CA,Klineport,Newton Inc,False,False,False,0.02
+216.95.240.214,MX,Brownhaven,"Lamb, Davis and Miles",False,False,False,0.0
+118.194.216.51,US,Floresland,Mitchell-Scott,False,False,False,0.03
+183.121.209.249,US,South Karenview,"Sparks, Smith and Johnson",False,False,False,0.1
+146.110.120.171,US,North Hannahborough,Baird-Hebert,True,False,False,0.86
+206.83.38.122,IN,Newtonbury,"Garcia, Sutton and Potts",False,False,False,0.06
+155.104.53.104,JP,Shawnfurt,Rodriguez PLC,False,False,False,0.09
+197.24.223.87,US,Lake Emilyview,"Campbell, Torres and Jimenez",True,False,False,0.97
+121.200.125.246,AU,Valeriefort,Reynolds PLC,False,False,False,0.01
+91.76.241.151,UK,Ericstad,Jones Ltd,False,False,False,0.01
+165.29.199.14,US,West Tonyashire,Wells Inc,False,False,False,0.24
+14.93.129.6,US,Adamstown,"Oliver, Jackson and Smith",False,False,False,0.01
+86.104.12.129,US,Dorseyberg,"Jones, Adams and Blair",False,False,False,0.06
+35.45.23.238,BR,Shahburgh,Jones-Case,False,False,False,0.28
+86.42.66.121,AU,Austinfurt,Singh PLC,False,False,False,0.02
+8.220.224.219,FR,Shawborough,Gill and Sons,False,False,False,0.09
+26.161.175.198,US,New Edgar,Clark Inc,False,False,False,0.23
+63.27.95.131,BR,Taylortown,"Erickson, Lewis and York",False,False,False,0.13
+75.48.245.52,JP,Lyonsview,Lopez and Sons,True,False,False,0.65
+159.166.239.246,US,East James,"Vasquez, Lyons and Roy",False,False,False,0.16
+211.61.73.218,CA,Jennifertown,"King, Johnson and Wheeler",False,False,False,0.15
+122.244.249.49,US,Jonesport,Peterson Ltd,False,False,False,0.08
+198.162.205.17,AU,Jeremytown,"Diaz, Norris and Stevenson",True,False,False,0.67
+23.40.219.101,UK,Phillipsburgh,Clark-Richards,False,False,False,0.01
+105.151.188.122,CA,Woodwardland,Aguilar Inc,False,True,False,0.93
+38.134.204.108,UK,East Dianaton,Johnson LLC,False,False,False,0.29
+34.214.166.214,US,Port Jorge,"Ramirez, Fox and Parsons",False,False,False,0.34
+179.80.150.243,CA,East Donald,"Martinez, Perez and Jackson",False,False,False,0.01
+2.255.64.238,UK,Oliviafort,Pugh Ltd,False,False,False,0.02
+102.107.87.180,DE,South Alexander,"Proctor, Hoffman and Gonzales",True,True,False,0.71
+21.108.46.248,US,East Stephanieville,Cabrera-Yang,False,False,False,0.21
+67.118.31.245,AU,New Wendyborough,Jones-Rodriguez,False,False,False,0.06
+92.190.178.101,BR,Josephside,"Buchanan, Brock and Fernandez",False,False,False,0.04
+24.231.226.116,US,Barronbury,"Martinez, Walker and Clark",False,False,False,0.03
+145.15.176.174,UK,Jacksonstad,Parker-Gonzales,False,False,False,0.09
+208.124.249.248,US,West Robinstad,Santos-Romero,False,False,False,0.06
+169.161.196.58,MX,Lake Davidhaven,Contreras and Sons,False,False,False,0.03
+13.38.245.63,CA,Port Sarahside,Vasquez-Vargas,False,False,False,0.1
+203.252.127.248,MX,Jeffreyland,Simmons-Phillips,False,False,False,0.12
+215.131.245.47,US,Lake Arthur,James Group,False,False,False,0.21
+89.179.163.85,CA,Port Rebecca,Garcia Inc,False,False,False,0.02
+134.173.181.128,US,Matthewbury,Larson Group,False,False,False,0.05
+182.23.11.42,CA,Ginabury,Vasquez-Jones,False,False,False,0.15
+77.193.19.51,JP,Armstrongborough,Perry PLC,False,False,False,0.02
+208.119.86.165,CA,Tracistad,"Anderson, Woods and Drake",False,False,False,0.01
+98.41.147.189,FR,Beltranport,Evans PLC,False,False,False,0.01
+205.243.95.119,UK,West Natasha,Brown-Coleman,False,False,False,0.01
+172.49.79.136,AU,Jenniferbury,Roman-Bentley,False,False,False,0.04
+92.209.167.131,MX,Lake Jessica,"Reed, Dunn and Stanley",False,False,False,0.0
+168.160.167.75,JP,Alexside,Carroll Group,False,False,False,0.02
+125.189.226.194,CA,Stephaniemouth,"Terry, Ryan and Miller",False,False,False,0.12
+121.123.205.27,US,West Jorgestad,Beltran LLC,False,False,False,0.01
+49.245.123.243,US,New Kristinton,Daniel Ltd,False,False,False,0.01
+163.226.61.121,US,North Charlesview,"Miller, Marks and Bailey",False,False,False,0.14
+62.163.236.105,IN,New Charlesview,Ashley-Howard,False,True,False,0.81
+67.35.52.226,US,North Pamelaton,Carter Group,False,False,False,0.36
+168.128.251.145,AU,Cruzborough,Dennis-Nichols,False,False,False,0.01
+55.31.60.178,AU,Smithside,"Jacobs, Heath and Foster",False,False,False,0.05
+59.2.229.173,BR,North Tammyhaven,Horton PLC,False,False,False,0.05
+178.218.137.131,UK,East Elizabethville,Gomez-Maldonado,True,False,False,0.8
+71.133.37.196,MX,Ashleetown,Allen-Morgan,False,False,False,0.01
+18.66.171.2,US,Scottchester,"Hill, Avery and Washington",False,False,False,0.06
+211.63.172.246,DE,Lake Sydneybury,Haynes Inc,False,False,False,0.15
+35.180.207.77,FR,West Kyle,Garcia-Hicks,False,False,False,0.31
+125.173.124.135,FR,Michaelhaven,"Orr, White and Vega",False,False,False,0.01
+205.210.205.29,MX,New Patricia,Delacruz and Sons,False,False,False,0.0
+145.102.23.175,JP,Katrinaburgh,"Ellis, Love and Werner",False,False,False,0.3
+184.132.86.224,US,Teresashire,Smith-Smith,False,False,False,0.06
+48.83.11.107,DE,Youngshire,Newman LLC,False,False,False,0.44
+16.149.200.254,CA,Waltonfort,Wade-Nunez,False,True,False,0.9
+48.76.19.162,JP,Schaefermouth,"Williams, Wright and Gates",False,False,False,0.14
+70.96.26.251,US,Martinezberg,"Armstrong, Parker and Graham",False,False,False,0.2
+28.207.19.118,FR,Lake Cherylshire,Guzman LLC,False,False,False,0.24
+48.51.23.66,FR,West Barbara,"Carr, Wilson and Graham",False,False,False,0.08
+170.15.222.8,FR,Robertmouth,Andrews-Johnson,False,False,False,0.13
+171.190.137.116,AU,Port Patricia,"Pearson, Holloway and Perry",True,False,False,0.91
+145.194.28.137,US,Woodsfort,Nelson LLC,False,False,False,0.23
+171.223.77.213,UK,East Tanyatown,"Miller, Richardson and Campbell",False,False,False,0.03
+84.134.126.19,CA,Burnettberg,Price-Soto,False,False,False,0.2
+122.35.13.255,UK,Michaelmouth,"Caldwell, Kennedy and Dunlap",False,False,False,0.01
+101.173.48.239,US,Teresatown,"Conway, Cook and Key",False,False,False,0.09
+200.10.25.226,US,Martinfort,Rice Ltd,False,False,False,0.04
+26.118.168.160,US,Brownside,"Ritter, Skinner and Boyer",True,False,False,0.52
+160.93.152.196,MX,South Sara,"Fernandez, French and Lopez",False,False,False,0.01
+25.204.167.19,JP,Amberport,Holt Inc,False,False,False,0.01
+203.229.234.23,CA,South Michaelfort,Harrell-Owens,False,False,False,0.03
+95.108.24.29,UK,South Victoriashire,Willis Group,False,False,False,0.03
+207.109.54.176,UK,Andrewfort,Cooper and Sons,False,False,False,0.04
+88.216.56.194,CA,West Ronaldfort,"Brown, Weber and Thomas",False,False,False,0.28
+17.121.126.247,UK,New Bryanborough,"Parker, Mclaughlin and Smith",False,False,False,0.12
+201.235.218.92,US,Jessechester,"Dalton, Thompson and Deleon",False,False,False,0.08
+64.61.241.248,IN,Lake Nicolasshire,"Gomez, Bishop and Wilson",False,False,False,0.32
+147.59.214.204,CA,Santanaton,Jones Inc,False,False,False,0.08
+4.193.101.142,DE,Ryanstad,"Bailey, Madden and Valdez",False,False,False,0.22
+163.176.20.115,DE,West Carriefurt,Frazier-Lucas,False,False,False,0.09
+108.164.44.10,UK,New Emma,"Olson, Gilmore and Lowe",True,False,False,0.72
+217.152.220.18,US,Allenfort,Parker PLC,False,False,False,0.02
+79.151.205.199,CA,Port Tinaburgh,Wells-Taylor,False,False,False,0.09
+199.104.160.98,BR,South Ericton,Gomez-Moore,False,True,False,0.85
+137.82.251.166,JP,Michelleport,"Schroeder, Dixon and Vazquez",False,False,False,0.03
+61.135.9.132,DE,Lawrencebury,"Dixon, Wade and Hudson",False,False,False,0.06
+210.137.72.107,UK,Port Alisha,Ramos-Hunter,False,False,False,0.11
+123.17.130.153,CA,North Kellymouth,Bush-Vincent,False,False,False,0.13
+152.96.163.219,CA,Ianport,Manning Group,False,False,False,0.06
+67.54.103.155,CA,North Justin,Jones-Huang,False,False,False,0.13
+161.26.224.6,CA,New Kimberly,Wright-Barker,False,False,False,0.05
+75.133.166.173,UK,Diazhaven,Carter Group,False,False,False,0.17
+165.21.234.13,UK,North Brandistad,Orr Ltd,False,False,False,0.22
+71.72.138.17,CA,Williamstad,Ramos-Perez,False,False,False,0.17
+167.162.103.142,AU,Lake Brandonland,"Steele, Hill and Lee",False,False,False,0.07
+33.198.246.55,US,Duartetown,Acevedo Ltd,False,False,False,0.1
+100.182.140.13,UK,Port Caitlin,"Hopkins, Miller and Blackwell",False,False,False,0.04
+82.133.238.164,BR,South Eric,"Jensen, Moore and Grimes",False,False,False,0.03
+64.1.105.242,JP,Joneshaven,Cook-Mathis,False,False,False,0.21
+209.178.50.3,US,Lake Lawrence,Daugherty LLC,False,False,False,0.17
+34.166.185.11,MX,Marialand,Greer Ltd,False,False,False,0.12
+199.16.169.137,CA,Matthewland,Francis-Livingston,False,False,False,0.21
+148.253.151.97,CA,Brownberg,Sullivan-Deleon,False,False,False,0.26
+167.233.10.101,AU,Lawsonchester,Boone LLC,False,False,False,0.03
+171.84.67.7,US,Hernandezfort,Smith-Nelson,False,False,False,0.35
+48.179.57.123,US,South Brittanyview,"Reese, Mason and Sherman",False,False,False,0.09
+48.128.168.5,UK,Lake Aprilfort,Rodriguez-Wilson,False,True,False,0.91
+55.159.60.112,UK,North Ashleymouth,Lozano-Williams,False,False,False,0.12
+56.105.32.99,DE,Paigeview,Gross-Davis,False,False,False,0.08
+216.237.130.247,UK,New Teresa,Cannon-Goodman,False,False,False,0.02
+160.76.238.174,AU,Lake Michaelton,Murphy Inc,False,False,False,0.18
+29.72.24.232,US,South William,"Valentine, Wallace and Carter",False,False,False,0.23
+71.115.16.82,IN,Edwardtown,Daugherty-Keller,False,False,False,0.26
+16.86.234.26,US,South Amandaview,Simmons PLC,False,False,False,0.24
+107.156.47.136,US,Myersville,"Williams, King and Glenn",False,False,False,0.01
+33.223.252.193,MX,Reynoldsland,"Decker, Bryant and Todd",False,False,False,0.01
+128.97.193.210,US,South Ritaside,White-Campbell,False,False,False,0.09
+59.244.139.143,UK,New Colleenfort,Lloyd-Hamilton,False,False,False,0.06
+69.232.228.185,UK,Port Maria,"Wolf, Evans and Lin",False,False,False,0.05
+102.154.171.133,US,West Ericburgh,"Cox, Washington and Walker",False,False,False,0.13
+201.218.255.245,AU,Kristenton,"Byrd, Garcia and Mcdaniel",False,False,False,0.19
+49.32.113.52,US,Haileyfurt,"Navarro, Ferguson and Valencia",False,False,False,0.15
+74.146.45.131,IN,Karinaberg,Patel Group,True,False,False,0.71
+177.57.196.168,US,West Travis,"Johnson, Jones and Powell",False,False,False,0.06
+188.190.49.216,US,South Bryan,Ho-Montgomery,False,False,False,0.1
+57.13.27.154,UK,Nolanland,Thornton-Hernandez,True,False,False,0.65
+219.28.109.3,UK,Bradshawborough,Chase-Brown,True,False,False,0.85
+118.2.239.116,US,Lopezberg,Montgomery and Sons,False,False,False,0.22
+219.129.188.57,US,Port Andreatown,Mendez-Smith,False,False,False,0.06
+3.218.51.95,US,Port Susan,"Atkins, Jimenez and Davis",False,False,False,0.14
+146.102.135.98,MX,Port Brianton,"Smith, Price and Fernandez",False,False,False,0.09
+47.106.9.209,DE,North Katherine,Jordan-Perez,False,False,False,0.0
+175.80.13.196,US,Lake Amandafort,Reyes PLC,False,False,False,0.05
+16.43.137.238,UK,Justinton,"Greer, Edwards and Spencer",False,False,False,0.25
+94.18.173.18,FR,East Tracyhaven,"Johnson, Allison and Coleman",False,False,False,0.04
+76.9.98.113,IN,Lake Sherryton,Morse-Pope,False,False,False,0.05
+218.125.28.66,US,Murphyfort,Leach PLC,False,False,False,0.14
+5.112.137.110,AU,Parkerfurt,Dixon PLC,False,False,False,0.03
+167.28.80.1,CA,West Leroy,Smith Ltd,False,False,False,0.18
+203.110.44.89,CA,West Meganton,Lopez and Sons,False,False,False,0.14
+18.240.155.136,MX,Tranfort,"Hodges, Hampton and Smith",False,False,False,0.06
+71.180.10.193,UK,Christophertown,Goodman-Underwood,False,False,False,0.08
+64.53.27.66,DE,Greenton,Moss-Brooks,False,False,False,0.16
+22.207.151.231,UK,Port Kelsey,Russell-Weber,False,False,False,0.0
+3.15.152.7,US,Perezmouth,"Harris, Bradley and Hernandez",False,False,False,0.09
+107.66.43.181,FR,South Tiffanystad,Gonzalez-Shepherd,False,False,False,0.01
+83.78.141.131,UK,East Thomasport,"Miller, Brewer and Nichols",False,False,False,0.09
+155.137.71.107,IN,Laneborough,Evans-Faulkner,False,False,False,0.01
+140.122.52.117,CA,Lake Kevinmouth,"Costa, Proctor and Ramirez",True,False,False,0.7
+4.240.80.88,UK,Anthonyside,"Flores, Rodriguez and Carter",False,False,False,0.01
+161.185.128.253,CA,Williamsonshire,Rich-Norman,False,False,False,0.01
+193.23.189.153,IN,East Alan,Cochran and Sons,False,False,False,0.1
+163.212.61.225,CA,Lake Ashleytown,Nguyen PLC,False,False,False,0.01
+24.69.173.169,UK,North Kimberlybury,"Stark, Hickman and Patterson",False,False,False,0.26
+31.253.22.174,AU,South Brad,Marshall Group,False,False,False,0.0
+155.77.192.58,UK,South Wesley,Harris-Cowan,False,False,False,0.13
+10.91.17.246,UK,East Nicole,Elliott Inc,False,False,False,0.1
+138.220.201.111,DE,Steventon,"Mcdaniel, Cox and Mills",False,False,False,0.29
+64.52.29.198,US,Francofurt,Rose-Galloway,False,False,False,0.08
+9.22.157.80,CA,Stephensshire,Smith-Gray,False,False,False,0.01
+169.136.26.17,UK,South Brianna,Acosta-Martin,False,False,False,0.04
+6.33.76.136,MX,Morristown,Gardner-Jones,False,False,False,0.02
+138.8.186.213,AU,Craigmouth,"Ramos, Robinson and Williams",False,False,False,0.03
+12.58.255.125,BR,New Amystad,"Green, Odonnell and Andersen",False,False,False,0.31
+206.44.126.205,DE,East Jonathan,Ryan-Hardin,False,False,False,0.05
+212.85.254.215,CA,Brownville,Jones PLC,False,False,False,0.0
+59.10.50.239,CA,Evansmouth,"Obrien, Lane and Reid",False,False,False,0.04
+112.99.132.202,US,Hardytown,"Lewis, Warren and Nielsen",False,False,False,0.08
+143.111.255.6,US,Rodriguezchester,"Mcdowell, Fox and Crawford",False,False,False,0.18
+199.41.28.129,IN,Kristinmouth,Fernandez-Fields,False,False,False,0.11
+156.34.141.69,IN,Lake Christian,Dudley Inc,False,False,False,0.02
+152.208.9.83,BR,West Timothy,"Hill, Sharp and Sanchez",False,False,False,0.18
+21.22.239.227,US,Perezton,Banks-Jensen,False,False,False,0.04
+17.6.91.146,CA,Mallorymouth,"Hill, Sexton and King",False,False,False,0.13
+186.160.45.187,CA,Colechester,Taylor-Greene,False,False,False,0.13
+13.16.215.41,US,Cooperberg,Leach-Beck,False,True,False,0.25
+109.88.121.156,US,Moralesburgh,"White, Lawson and Mcknight",False,False,False,0.11
+90.225.170.84,BR,Gilbertton,Wade-Garcia,False,False,False,0.12
+74.121.23.121,US,Lovebury,"Russell, Medina and Robinson",False,False,False,0.01
+140.252.32.198,IN,Taylorstad,"Ibarra, Henderson and Mason",False,True,False,0.88
+99.76.89.93,DE,Birdton,Ward LLC,False,False,False,0.01
+120.106.25.32,FR,Jamesland,"Torres, Ingram and Martin",False,False,False,0.1
+27.179.66.226,US,Lake Raymondton,"Jones, Short and Gutierrez",False,False,False,0.12
+169.225.41.253,DE,Joneston,"Meadows, Miller and Williams",True,False,False,0.44
+27.97.56.235,US,Kyleport,"Wright, Brown and Wells",False,False,False,0.05
+169.144.173.113,US,Acostaburgh,Pruitt LLC,False,False,False,0.03
+173.11.85.62,CA,Elizabethside,"Hunter, Orozco and Parks",False,False,False,0.08
+76.176.221.203,AU,North Robert,Brooks-Schroeder,False,False,False,0.06
+134.200.128.38,UK,Lake Sethside,"Contreras, Potter and Jones",False,False,False,0.03
+161.125.198.35,JP,Lake Roberta,Fowler LLC,False,False,False,0.0
+201.160.234.204,UK,Gregorymouth,Odonnell-Scott,False,False,False,0.03
+174.115.237.161,CA,Morganchester,"Jennings, Kelly and Boone",True,False,False,0.59
+63.97.206.223,UK,Christopherchester,Moore LLC,False,False,False,0.03
+99.252.254.214,IN,Michaelside,Leblanc-Elliott,False,False,False,0.18
+68.118.211.171,FR,Nicoleburgh,"Rojas, Pittman and Martin",False,False,False,0.21
+70.85.133.228,FR,Mcleanview,"Hall, Kent and Sanchez",False,False,False,0.17
+159.174.52.66,US,Bushport,"Hampton, Perez and Rowe",False,False,False,0.06
+147.200.2.29,DE,Erinhaven,Fry-Herman,False,False,False,0.05
+209.184.171.41,IN,Wendyfort,Anderson-Fields,False,False,False,0.12
+191.98.238.108,BR,Port Miranda,"Trujillo, Clark and Ayala",False,False,False,0.16
+1.5.53.85,AU,Hayesland,Johnson PLC,False,False,False,0.0
+3.42.144.151,FR,New William,"Hudson, Jones and Fields",False,False,False,0.07
+72.26.253.199,IN,Kellystad,"Harrison, Hampton and Ponce",False,False,False,0.11
+36.146.116.81,US,West Dawnfort,"Berry, Davis and Wang",False,False,False,0.02
+117.156.165.87,CA,Bellville,"Hernandez, Townsend and Mitchell",True,False,False,0.88
+125.222.157.157,DE,New Kelseychester,"Robinson, Case and Allen",False,False,False,0.03
+146.183.167.254,UK,West Sarah,"Brady, Rios and Adams",False,False,False,0.28
+158.62.208.242,AU,Lake Jessica,Moore and Sons,False,False,False,0.02
+132.145.91.190,UK,South Kyle,Davis Ltd,False,False,False,0.04
+80.98.193.67,JP,Kaylaside,"Silva, Saunders and Reid",False,False,False,0.03
+67.186.50.186,UK,Melissamouth,Howell Ltd,True,False,False,0.57
+136.84.77.229,JP,Barnettburgh,Sullivan-Huynh,False,False,False,0.15
+85.107.228.101,FR,Hernandezfort,"Fox, Scott and Henry",False,False,False,0.24
+11.221.169.252,DE,Munozhaven,Simpson-Murphy,False,False,False,0.08
+155.209.112.55,US,South Ariel,Cochran LLC,False,False,False,0.23
+124.110.54.96,MX,New Robin,Dudley-Zamora,False,False,True,0.81
+14.101.117.182,JP,Lake Cassandra,Barnes LLC,False,False,False,0.08
+52.18.246.81,CA,South Sarah,Phelps-Daniels,False,False,False,0.01
+202.184.228.92,CA,Jessicaborough,Jones Ltd,False,False,False,0.07
+142.146.247.135,CA,Port Elizabethport,Rivera-Reyes,False,True,False,0.69
+155.18.199.229,UK,Port Stevenstad,"Williams, Rodriguez and Smith",False,False,False,0.01
+162.190.150.27,US,Riceport,"Bishop, Hart and Barron",False,False,False,0.12
+64.81.229.216,IN,Davidberg,Perez-Merritt,False,False,False,0.07
+221.127.103.79,UK,North Christina,Rivera and Sons,False,False,False,0.15
+175.16.138.87,MX,East Jessica,Schultz-Meadows,True,False,False,0.43
+159.222.61.73,IN,Emmafurt,White PLC,False,False,False,0.06

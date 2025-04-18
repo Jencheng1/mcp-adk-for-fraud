@@ -1,0 +1,201 @@
+location_id,latitude,longitude,country,city,postal_code,address,timezone,risk_score
+loc_000000,50.433112,-2.122414,UK,Port Deniseton,01072,4928 Hoffman Overpass,Indian/Antananarivo,0.02
+loc_000001,51.876699,-77.630168,CA,Lake Jessetown,19020,11250 Dawn Lock,Asia/Aden,0.16
+loc_000002,45.126397,-62.847928,CA,Hillshire,99360,9522 Jeremy Field,Africa/Niamey,0.06
+loc_000003,29.320011,-72.304644,IN,Lake Annfurt,22540,73024 Rebecca Run,America/St_Kitts,0.06
+loc_000004,48.505784,-124.659518,CA,West Jacqueline,75764,3740 Simpson Tunnel Apt. 446,Europe/Zagreb,0.13
+loc_000005,20.684477,-46.319132,DE,Gregoryfort,34017,687 Michael Hollow,Asia/Makassar,0.06
+loc_000006,54.981913,-120.130307,CA,West Mark,09097,6886 Pennington Passage Apt. 483,Africa/Nairobi,0.04
+loc_000007,36.767294,-77.052973,US,Dianachester,83073,7366 Holmes Garden,Europe/Berlin,0.14
+loc_000008,56.165558,-7.246323,UK,Kennedyhaven,62235,943 Kendra Run,Africa/Niamey,0.11
+loc_000009,45.112013,-76.484563,US,Kevinchester,78759,050 Flores Circle Suite 092,Africa/Dakar,0.09
+loc_000010,66.583276,-55.706641,AU,Fordtown,07203,42939 Heidi Mission Apt. 729,Asia/Kuwait,0.11
+loc_000011,32.732413,-81.16757,US,Elizabethtown,32179,62585 Michael Springs,America/Bogota,0.01
+loc_000012,29.515853,40.046534,AU,Victoriatown,86737,143 Perez Circles,America/Havana,0.07
+loc_000013,56.042408,-56.942013,CA,Kelseybury,29834,531 Daniel Garden Suite 904,America/Dominica,0.07
+loc_000014,32.68358,-10.639395,DE,Jackmouth,35129,662 Rodriguez Center,Africa/Freetown,0.17
+loc_000015,52.688091,-65.625887,CA,Walkerborough,73115,4514 Davila Union Apt. 935,Europe/Minsk,0.09
+loc_000016,48.011192,-58.795461,CA,Wadeport,45592,3706 Thomas Plains Apt. 673,Europe/Budapest,0.25
+loc_000017,61.13664,-24.392629,MX,Paulberg,11887,5626 Andrade Extensions Suite 084,Africa/Freetown,0.05
+loc_000018,28.341941,-94.619065,US,Myerstown,77722,9319 Allen Turnpike,Africa/Bissau,0.05
+loc_000019,-42.910079,-80.039825,JP,South Julieton,41233,59982 Robin Squares Suite 731,America/Guayaquil,0.01
+loc_000020,24.436236,-78.753795,US,Kimberlyhaven,73384,8514 Brian Land,Asia/Samarkand,0.01
+loc_000021,42.624513,-117.086455,US,Evanston,89567,231 Jonathan Mountains,Africa/Bamako,0.14
+loc_000022,-50.323648,61.061335,IN,Grayburgh,79980,54904 Lee Corner,Europe/Bratislava,0.06
+loc_000023,25.427307,141.03983,FR,Johnstad,29995,29771 Malik Lodge,Asia/Nicosia,0.08
+loc_000024,-3.765216,-66.260615,AU,Jacobsfurt,45030,3281 Thomas Ridges,America/Nassau,0.0
+loc_000025,45.85002,-124.954224,US,Perezberg,21044,836 Kristin Mills,Africa/Banjul,0.18
+loc_000026,57.516382,-4.873391,UK,Stricklandville,04027,98770 Schneider Key Apt. 530,Europe/Dublin,0.03
+loc_000027,45.153798,-106.420577,CA,Brentburgh,01271,683 Peters Bypass,Africa/Accra,0.06
+loc_000028,25.73896,0.350942,FR,Nicoleburgh,78416,676 John Tunnel Apt. 409,Pacific/Apia,0.02
+loc_000029,52.347025,-98.497982,CA,Rickymouth,89553,1823 Weaver Court Apt. 138,Asia/Dili,0.07
+loc_000030,53.684633,-7.226535,UK,Thompsonton,98849,33460 Amy Estate Apt. 013,Africa/Mogadishu,0.14
+loc_000031,41.145965,-84.128907,US,Lauraburgh,04633,168 Jennifer Route,Africa/Lagos,0.15
+loc_000032,50.191829,1.332716,UK,Randallbury,70948,736 Steven Pass,Europe/Zaporozhye,0.09
+loc_000033,42.629073,-90.021221,US,Pattersonburgh,06552,52141 Tammy Branch,Asia/Manila,0.13
+loc_000034,25.103283,-70.928822,US,Allenside,48366,895 Henry Mount,Asia/Kabul,0.04
+loc_000035,38.06034,83.7843,BR,Port Danielshire,99260,445 Donovan Manor,Asia/Tashkent,0.04
+loc_000036,-53.492829,-102.042344,IN,New Randall,44859,92767 Joel Mission Apt. 886,Europe/London,0.07
+loc_000037,36.139805,-94.706789,US,Allenstad,53033,66783 Nathan Park,Asia/Tbilisi,0.1
+loc_000038,12.444857,13.660916,FR,East Amyhaven,63130,22346 Kevin Turnpike Suite 627,Europe/Oslo,0.02
+loc_000039,24.956623,-77.844327,US,North Kenneth,89626,76142 Nicholas Hill,Europe/Stockholm,0.08
+loc_000040,-9.203909,-138.751135,MX,New Randyside,97117,64704 Edwards Plain Suite 987,Africa/Luanda,0.03
+loc_000041,37.871565,-118.280981,US,Arnoldbury,00892,8379 Richard Forks,Pacific/Truk,0.05
+loc_000042,1.507182,12.836437,FR,Barbaraburgh,98388,912 Donovan Lights,Africa/Maseru,0.09
+loc_000043,44.24033,-68.702484,CA,Calebview,07038,291 Amy Extension Apt. 824,Asia/Qatar,0.05
+loc_000044,56.056351,-60.177723,CA,North Christopher,15471,960 Cook Mission Suite 974,America/Port_of_Spain,0.11
+loc_000045,48.825279,-87.96508,US,West Evanberg,14454,14865 Kelly Street Apt. 898,Europe/Zagreb,0.1
+loc_000046,16.857566,-59.734302,JP,South Chaseborough,83317,3163 Gary Mountain Suite 572,Europe/Zurich,0.13
+loc_000047,56.069963,-2.636972,UK,South Candicechester,29064,811 Alicia Spurs Apt. 682,Europe/Monaco,0.02
+loc_000048,33.504838,-114.610265,US,Port Jamietown,65983,7532 Paul Unions,Pacific/Truk,0.04
+loc_000049,24.300788,-68.994463,US,Mccallbury,10578,854 Karen Cape Suite 903,America/Asuncion,0.16
+loc_000050,3.475768,116.683919,AU,Karastad,68119,356 Erin Radial Apt. 274,Europe/Madrid,0.14
+loc_000051,22.98141,19.431272,AU,East Renee,45330,4192 Grant Wells,Africa/Porto-Novo,0.07
+loc_000052,26.939387,131.328663,JP,Dillonburgh,14433,360 Heather Locks,America/Guatemala,0.02
+loc_000053,51.234702,-6.068446,UK,Jonathanborough,95309,3156 Kimberly Rapids Apt. 079,Africa/Maputo,0.01
+loc_000054,32.792622,-108.319646,US,Lake Brendaport,47996,40899 Jacqueline Mount Suite 351,Europe/Amsterdam,0.0
+loc_000055,54.12612,-0.728483,UK,North Natalieborough,81988,67072 Timothy Fork Suite 024,America/Bogota,0.09
+loc_000056,41.538916,165.393839,AU,Lake Melissa,35939,983 Robert Gardens,Africa/Asmera,0.07
+loc_000057,25.242922,-101.379805,US,Edwardstown,12840,444 Kenneth Plaza,Asia/Tehran,0.21
+loc_000058,57.6184,-2.795711,UK,East Heatherbury,99321,94765 David Street Suite 156,Atlantic/Reykjavik,0.09
+loc_000059,15.918478,175.912428,DE,Dakotafort,46579,891 Taylor Island,Asia/Seoul,0.06
+loc_000060,44.445363,-110.852257,CA,Maryland,90203,261 Anthony Flats,Asia/Beirut,0.04
+loc_000061,51.505908,-114.668534,CA,Christinaburgh,98719,23766 Aguilar Manors,America/Indiana/Marengo,0.03
+loc_000062,57.13359,-5.397877,UK,New Michael,30872,94118 Chelsea Brook Apt. 424,Africa/Ndjamena,0.06
+loc_000063,52.107484,-7.646814,UK,Aaronchester,88758,346 James Hills,Africa/Malabo,0.15
+loc_000064,53.031345,-2.848978,UK,West Jason,49119,866 Dennis Parkways,Pacific/Chatham,0.17
+loc_000065,53.595523,-7.316219,UK,Gregorybury,95850,9285 Smith Grove,Africa/Libreville,0.04
+loc_000066,-16.108582,-3.087555,FR,New Michelleburgh,73828,470 Ashley Valley Suite 453,Europe/Vaduz,0.16
+loc_000067,26.100027,-107.045004,US,Sullivanton,34398,88300 Hill Plaza Suite 344,Africa/Mbabane,0.06
+loc_000068,50.363471,-1.311647,UK,Blackchester,56822,899 Bryant Lodge Apt. 706,Pacific/Funafuti,0.01
+loc_000069,-12.492415,-35.218552,BR,Port Josemouth,11253,38471 Myers Village,Europe/Skopje,0.13
+loc_000070,46.485213,-73.712945,CA,Lunatown,86041,88601 Henry Highway Suite 923,America/Jamaica,0.0
+loc_000071,-53.654111,45.29405,FR,Cherylchester,75930,45056 Vincent Ports Apt. 754,Asia/Dhaka,0.1
+loc_000072,51.676073,1.319977,UK,Rachelside,57469,8925 Martinez Bypass,America/Bogota,0.02
+loc_000073,41.993979,-117.05254,US,Port Feliciabury,71137,762 Baxter Hollow Apt. 638,Asia/Phnom_Penh,0.2
+loc_000074,48.53628,-55.403588,FR,Port Kaitlyn,73807,635 Walker Stravenue,America/Nassau,0.09
+loc_000075,53.617904,-113.955394,CA,Port Kathrynmouth,72495,519 Aaron Hill Suite 277,Indian/Antananarivo,0.08
+loc_000076,1.064309,-8.345652,BR,Williamsborough,51264,2036 Jon Springs Suite 394,Africa/Windhoek,0.14
+loc_000077,-28.545954,63.722477,BR,East Daniel,09930,35761 Klein Summit,Europe/Brussels,0.02
+loc_000078,33.463203,-84.436743,US,Port David,59024,5776 Emma Dale Suite 367,Africa/Mogadishu,0.03
+loc_000079,50.866123,-0.172353,UK,New Christinaside,79859,4759 Sutton Run Apt. 485,America/Havana,0.06
+loc_000080,-5.961155,-46.376404,IN,South Kara,33760,76768 Campbell Greens,Europe/Prague,0.12
+loc_000081,2.463247,-124.668383,FR,Fisherstad,11054,753 Davis Island Suite 330,Pacific/Efate,0.14
+loc_000082,-46.545466,-85.456374,IN,Lake Jennifershire,36907,5658 John Highway,Pacific/Apia,0.06
+loc_000083,27.462393,-102.878038,US,Johnmouth,86313,3523 Shelly Meadows Apt. 004,Europe/Lisbon,0.09
+loc_000084,-22.290593,-64.350038,IN,North Brianbury,40827,1199 Bass Common Apt. 815,Indian/Mahe,0.06
+loc_000085,-52.485546,-56.843454,JP,Cobbview,53164,44776 William Track Suite 870,Europe/Rome,0.07
+loc_000086,69.031803,2.621098,DE,Rossfurt,72270,905 Miguel Junctions,America/Los_Angeles,0.04
+loc_000087,33.589755,59.690873,AU,Alvinland,36706,330 Audrey Ferry,Pacific/Guadalcanal,0.28
+loc_000088,59.392347,123.455175,DE,Melissamouth,36970,398 Thompson Drives Apt. 405,Africa/Porto-Novo,0.11
+loc_000089,50.062666,-35.473827,DE,New Paulton,40914,7338 Jon Street Suite 247,Asia/Bishkek,0.02
+loc_000090,51.895212,-2.899981,UK,North Jacob,79892,1023 Brewer Villages Suite 186,Africa/Lagos,0.06
+loc_000091,31.746409,-119.253594,US,Mendozaville,27211,51830 Michael Landing,Pacific/Fiji,0.2
+loc_000092,24.32974,-77.898294,US,Bartonside,10794,98852 Tracy Rapids Suite 599,Europe/Sofia,0.03
+loc_000093,-23.327201,9.414688,BR,East Teresaside,49667,8167 Chang Fall Apt. 831,Africa/Dar_es_Salaam,0.37
+loc_000094,27.262563,-170.101066,BR,Amandashire,12520,038 Lori Way,Indian/Maldives,0.03
+loc_000095,-49.669176,-99.575413,DE,Davidburgh,41363,95973 Mary Street,America/Blanc-Sablon,0.04
+loc_000096,39.3772,-88.510782,US,New Leonardfort,25823,14613 Christopher Row Suite 530,Africa/Bujumbura,0.12
+loc_000097,48.647895,-95.988602,US,North James,40780,77811 Christina Streets Suite 598,Pacific/Kiritimati,0.0
+loc_000098,-23.86264,-22.434154,AU,Luischester,97680,45418 Carla Courts Apt. 699,Asia/Baghdad,0.01
+loc_000099,13.631162,51.774478,DE,North Robert,90211,106 Samantha Summit,Indian/Mauritius,0.15
+loc_000100,56.865175,-99.001578,CA,North Brianhaven,83921,42168 Robert Parkway,Asia/Harbin,0.13
+loc_000101,51.220831,-1.808028,UK,Lake Lisastad,84129,69962 Allison Roads Suite 791,Europe/Zurich,0.12
+loc_000102,-34.695315,-144.080606,AU,West Ashleyberg,87277,2287 Jade Estate Apt. 007,Asia/Baghdad,0.06
+loc_000103,43.798143,-123.56559,DE,Mossview,25584,29514 Lopez Stravenue Apt. 580,Africa/Casablanca,0.15
+loc_000104,45.17284,-71.650818,CA,Smithfurt,06257,022 Smith Tunnel Suite 474,Pacific/Port_Moresby,0.01
+loc_000105,-7.451342,-178.496074,JP,Bobbyshire,03554,89856 Mccarty Green Apt. 016,Africa/Maseru,0.06
+loc_000106,30.245293,-117.351283,US,Trujillobury,67979,887 Bailey Square Apt. 136,Indian/Comoro,0.09
+loc_000107,64.009973,-165.976933,MX,Hollandberg,78040,13860 Olson Radial,Atlantic/Reykjavik,0.07
+loc_000108,55.948465,-3.483921,UK,Port Barbaratown,28592,51489 Blair Points,America/Santo_Domingo,0.08
+loc_000109,66.827201,-143.249571,IN,Charlesville,34529,053 Alexander Points Apt. 951,Asia/Colombo,0.02
+loc_000110,44.103375,-102.327809,CA,Lewiston,74477,326 Smith Point Suite 886,Asia/Aden,0.03
+loc_000111,35.755249,117.383676,DE,Normanberg,78226,8228 Jennifer Alley,Asia/Gaza,0.06
+loc_000112,47.075693,-74.800404,US,East John,27982,8856 Maldonado Village,Europe/Oslo,0.11
+loc_000113,43.30507,-95.096382,US,Fowlerhaven,02922,5837 Gross Ports Suite 975,Asia/Nicosia,0.13
+loc_000114,-58.443592,-154.998096,MX,West Daisy,11138,5592 Hill Station Suite 411,Africa/Casablanca,0.17
+loc_000115,53.450852,-0.903621,UK,Suttonburgh,56670,1199 Coleman Isle Apt. 496,Europe/Skopje,0.05
+loc_000116,-45.081398,-115.310584,BR,Port Michaelchester,41222,678 Young Stravenue,America/Antigua,0.36
+loc_000117,-43.478335,9.793583,DE,West Jill,24577,63015 Pearson Drives,Pacific/Galapagos,0.17
+loc_000118,53.798538,-93.556437,CA,East Alice,71469,9276 Tran Port,Asia/Aden,0.07
+loc_000119,-55.626089,20.474574,DE,Penaton,11355,0334 Charles Walk,Europe/Vilnius,0.09
+loc_000120,-34.818877,-150.156862,BR,Adkinsstad,69573,7155 Nelson Brook Suite 392,America/Mexico_City,0.13
+loc_000121,35.840884,-88.921564,US,Washingtonview,98508,272 Crystal Summit Apt. 649,Pacific/Tongatapu,0.02
+loc_000122,11.715191,112.326512,IN,New Hannahhaven,46248,2850 Tina Knolls Suite 383,Africa/Luanda,0.2
+loc_000123,-23.359734,-70.944849,IN,Petersonmouth,72462,26264 Sherri Land,Asia/Kuching,0.1
+loc_000124,27.618691,-77.844561,US,Keithfurt,00832,907 Miller Tunnel Apt. 981,Asia/Manila,0.15
+loc_000125,52.717116,-118.811855,CA,Mitchellberg,75551,1492 Harris Courts Suite 498,Europe/Tallinn,0.12
+loc_000126,10.748579,-38.560944,FR,Elizabethfort,36167,6565 Timothy Lake Suite 494,Africa/Bangui,0.27
+loc_000127,-50.835443,132.590283,AU,Jeffreychester,70892,715 Owen Extensions Apt. 094,Europe/Vatican,0.02
+loc_000128,35.55059,-107.287998,US,Sullivanbury,39620,3597 Martinez Center,Europe/Zagreb,0.13
+loc_000129,29.659094,-120.65327,US,North Stephanieview,61101,49431 Benson Orchard Apt. 255,Atlantic/Azores,0.29
+loc_000130,53.293381,148.823927,IN,Richardville,29762,7416 Hutchinson Landing Suite 395,Europe/Prague,0.07
+loc_000131,41.386253,-102.564717,US,New Michael,49375,095 Burgess Hollow Suite 581,Africa/Ndjamena,0.18
+loc_000132,55.050388,0.121733,UK,Williamshaven,34906,62334 Smith Brook,Europe/Lisbon,0.24
+loc_000133,-25.735868,-136.252193,MX,Richardshire,58774,7973 Martinez Keys,America/St_Lucia,0.07
+loc_000134,-27.690269,26.551143,BR,Virginiahaven,93938,4560 Steven Field,Asia/Tashkent,0.09
+loc_000135,33.580869,-123.554071,US,North Christianstad,81211,017 Shelby Mount,Pacific/Tongatapu,0.03
+loc_000136,57.445435,-0.120439,UK,South Amyburgh,69838,1621 Lane Tunnel Apt. 896,America/Panama,0.15
+loc_000137,5.176884,119.992493,IN,West Whitney,56657,55896 Tracy Motorway Apt. 288,Africa/Accra,0.08
+loc_000138,44.770482,-76.93962,US,East Jerrystad,14456,014 Brandon Mountain,Asia/Seoul,0.1
+loc_000139,43.947315,-134.929944,BR,Reidbury,57152,357 Alexander Viaduct Apt. 480,Pacific/Fiji,0.15
+loc_000140,54.857985,-101.622619,CA,South Emilybury,48238,8260 Terri Junctions Apt. 637,Europe/Zaporozhye,0.08
+loc_000141,27.950393,-128.514751,JP,East Oliviahaven,51663,112 Summer Underpass Apt. 142,Europe/Vaduz,0.01
+loc_000142,53.167935,-99.309478,CA,Millerville,77254,892 Patrick Way Suite 657,Asia/Calcutta,0.22
+loc_000143,26.980489,-103.889384,FR,Melendezborough,24207,544 Daniel Court Suite 136,Pacific/Port_Moresby,0.03
+loc_000144,48.22056,-111.993777,US,Lake Matthewton,27511,937 Palmer Tunnel,America/Belize,0.05
+loc_000145,31.022592,-113.317755,US,Crosbyview,50570,01483 John Grove,Asia/Bahrain,0.09
+loc_000146,36.891717,-118.459004,US,East Scottside,27640,30876 Harrison Orchard Apt. 906,Europe/Zagreb,0.09
+loc_000147,69.924659,22.450665,IN,Rodriguezside,31596,2950 Fisher Orchard Apt. 621,Pacific/Guadalcanal,0.03
+loc_000148,31.801262,-69.022137,US,West Amyhaven,52241,418 Cervantes Forges,Asia/Dhaka,0.14
+loc_000149,55.902818,-77.694432,CA,South Megan,86266,4967 Rodriguez Ridge Apt. 605,America/St_Vincent,0.28
+loc_000150,27.914309,-87.465328,US,South Kristenview,75097,703 Anderson Via,Europe/Zagreb,0.04
+loc_000151,56.990994,-1.314835,UK,Flemingville,72893,589 Jacob Plains,Atlantic/Cape_Verde,0.03
+loc_000152,47.365468,-127.108571,CA,Bestmouth,36843,53193 Chandler Tunnel,Europe/Riga,0.14
+loc_000153,48.796987,-87.060652,CA,Flynnberg,23337,9088 Richardson Harbor,Asia/Singapore,0.05
+loc_000154,54.093389,-69.499588,CA,Port Megan,79600,58384 Faith Road,Africa/Algiers,0.15
+loc_000155,-9.769048,-143.968501,MX,South Michaelbury,43266,4546 Kelsey Squares,Africa/Tripoli,0.08
+loc_000156,46.278668,-14.842332,JP,East Jessicaport,06672,83319 Richardson Roads,Pacific/Funafuti,0.04
+loc_000157,25.730224,-113.321981,US,East Matthewmouth,13603,1703 Michael Parkway Suite 094,Asia/Brunei,0.06
+loc_000158,54.330539,-103.473441,CA,Reneefurt,01131,64838 Clark Mission Suite 841,Asia/Taipei,0.05
+loc_000159,-9.335686,-66.707106,MX,Ellischester,08449,4345 Rhodes Skyway,America/Guatemala,0.08
+loc_000160,47.659148,-116.004495,US,Wolfton,30339,49675 Kemp Greens,Europe/Riga,0.13
+loc_000161,52.259493,-94.570261,CA,West Amyside,06161,731 Vicki Loaf Apt. 542,Europe/Bucharest,0.2
+loc_000162,54.067833,-95.875454,CA,Wheelershire,47671,6111 Timothy Ports Suite 647,Africa/Bamako,0.03
+loc_000163,43.382499,-113.890408,CA,Robertmouth,20143,26934 Adams Springs Apt. 390,Asia/Tashkent,0.03
+loc_000164,-1.534632,-87.022357,MX,Ricestad,97709,66992 Jones Path Apt. 687,Australia/Darwin,0.08
+loc_000165,15.481179,151.598574,JP,Waremouth,58045,0399 Thomas Fork Suite 792,Europe/Zurich,0.07
+loc_000166,-1.528914,37.5367,FR,Lake Kristenton,57884,1289 Jackson Shore,Australia/Brisbane,0.03
+loc_000167,30.173305,-118.713985,US,West James,30887,302 Christina Forks,Asia/Makassar,0.26
+loc_000168,33.82961,-67.789441,US,Johnsonfurt,93348,9430 Salazar Shoal,America/Bogota,0.02
+loc_000169,-22.439029,-113.104034,DE,Samuelfurt,42852,412 Sanchez Stravenue,Europe/Brussels,0.19
+loc_000170,-7.412336,-71.834581,JP,Hensleyview,33768,8753 Darren Prairie Apt. 425,Indian/Antananarivo,0.04
+loc_000171,44.836392,-124.001639,US,New Leah,42966,6425 Owen Neck,Asia/Bangkok,0.06
+loc_000172,34.665682,-77.265179,US,Stephenstown,89464,39221 Pam Orchard,Australia/Hobart,0.06
+loc_000173,46.272399,-125.097428,CA,Annchester,27875,798 Moore Path,Pacific/Guadalcanal,0.1
+loc_000174,12.347758,-54.834141,JP,West Laurieport,74869,2917 Collins Crescent Suite 033,Asia/Gaza,0.02
+loc_000175,63.233702,-93.083081,MX,South Adammouth,10800,87451 Sheila Drive,Asia/Qyzylorda,0.04
+loc_000176,48.747066,-150.762892,JP,North Jenniferfort,47798,4164 Harvey Shoals Apt. 046,America/Managua,0.02
+loc_000177,18.332891,51.842557,FR,Florestown,13303,69744 Marcia Forks Suite 078,Europe/Riga,0.25
+loc_000178,48.698052,-122.903418,CA,East Alexander,49320,38368 Ronald Underpass Apt. 457,Africa/Kampala,0.01
+loc_000179,46.162032,-127.191112,CA,East Richard,10393,858 Christine Mount Apt. 150,Pacific/Apia,0.08
+loc_000180,-22.479345,-157.884177,MX,Crawfordfort,88228,92519 Brandon Vista,Asia/Dushanbe,0.01
+loc_000181,52.324745,-2.789463,UK,Davidbury,92910,704 Karen Prairie,Europe/Riga,0.03
+loc_000182,54.795577,0.76814,UK,West Amandastad,42799,63971 Guzman Brook,Atlantic/Madeira,0.1
+loc_000183,56.199179,-1.638503,UK,Turnerville,41103,8739 Moore Curve,Africa/Tripoli,0.03
+loc_000184,7.447298,-82.215405,IN,Lake Chad,39872,736 Castillo Terrace Suite 434,Pacific/Fiji,0.13
+loc_000185,50.234703,-94.952719,CA,Cindymouth,68513,96571 Mckee Terrace Suite 380,Africa/Djibouti,0.14
+loc_000186,24.452084,-34.096496,MX,West Sarah,85340,424 Perkins Manor,Europe/Brussels,0.03
+loc_000187,24.633829,-121.840123,US,New Justinland,55413,3762 Koch Lodge Suite 225,Asia/Jerusalem,0.31
+loc_000188,-0.720663,-11.327288,MX,East Robertbury,07454,401 Hernandez Garden,Africa/Kinshasa,0.15
+loc_000189,-50.663921,-4.936828,BR,Lopezburgh,52405,47569 Natasha Roads Apt. 842,Europe/Vatican,0.17
+loc_000190,52.010937,55.383165,BR,West Cheryl,97096,4229 Mary Trace Suite 966,Europe/Chisinau,0.34
+loc_000191,51.037708,-106.754326,CA,Roblesland,46757,022 Hammond Estates,Africa/Mbabane,0.21
+loc_000192,44.223618,-76.863476,US,Chandlerbury,53281,03299 Autumn Squares Apt. 647,Africa/Niamey,0.07
+loc_000193,-55.193606,10.009851,MX,Kevinmouth,66461,55404 Danielle Crossing Suite 979,Atlantic/Cape_Verde,0.02
+loc_000194,47.289434,-120.640822,US,Ramosstad,35581,343 Matthews Harbor,Asia/Beirut,0.03
+loc_000195,38.34336,-80.22551,US,Port Victoria,45951,783 Bryant Gateway,Europe/Stockholm,0.08
+loc_000196,-53.230793,-166.85508,IN,East Andrew,63599,5330 Valerie Manors,Asia/Seoul,0.03
+loc_000197,-56.928613,151.88891,DE,East Kelly,62845,98537 Brian Forks Suite 051,Africa/Maputo,0.08
+loc_000198,47.012596,-123.540175,CA,East Lorraine,43316,71555 Brown Radial,Asia/Baghdad,0.03
+loc_000199,-13.632597,125.714956,BR,Edwinport,45181,1199 Nathan Landing Apt. 253,Europe/Stockholm,0.01

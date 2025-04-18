@@ -1,0 +1,501 @@
+merchant_id,name,category,mcc,website,country,risk_score,fraud_rate,avg_transaction_amount,is_high_risk
+merch_000000,Foster Group,Home Improvement,8419,http://mccarty.biz/,AU,0.03,0.1018,45.51,True
+merch_000001,Anderson-Mcdowell,Jewelry,4708,,US,0.13,0.0038,28.63,False
+merch_000002,Powell Inc,Electronics,6007,https://miller.org/,US,0.1,0.006,74.94,False
+merch_000003,"Johnson, Brown and Chavez",Entertainment,2541,http://www.waters.com/,FR,0.13,0.0326,55.58,False
+merch_000004,Terry Ltd,Hotel,2004,https://www.cherry-cox.biz/,MX,0.12,0.0093,100.61,False
+merch_000005,Rogers Inc,Hotel,8108,http://www.adams-coleman.net/,MX,0.06,0.0058,16.34,False
+merch_000006,Lewis Group,Books,2636,https://clark.com/,CA,0.02,0.0015,22.39,False
+merch_000007,"Fitzpatrick, White and White",Electronics,5858,,FR,0.15,0.0362,71.18,False
+merch_000008,Barron-Alvarez,Entertainment,3544,https://www.smith.net/,JP,0.06,0.0221,320.55,False
+merch_000009,Murphy-Shaw,Digital Goods,5579,https://www.ruiz-harris.biz/,IN,0.22,0.0071,142.94,False
+merch_000010,Torres and Sons,Grocery,6040,https://harmon.com/,CA,0.03,0.0293,109.71,False
+merch_000011,Anthony Ltd,Gas Station,2933,https://www.poole.info/,FR,0.11,0.0059,41.24,False
+merch_000012,Baker PLC,Gas Station,6510,https://www.lin.biz/,CA,0.06,0.0032,27.65,False
+merch_000013,Harris-Combs,Music,5669,http://lane.com/,UK,0.12,0.0154,79.71,False
+merch_000014,Lee-Pacheco,Furniture,9833,http://www.carney.info/,US,0.21,0.0207,71.24,False
+merch_000015,Hoffman Group,Clothing,1637,https://www.ford.com/,IN,0.02,0.0364,121.17,False
+merch_000016,"Henderson, Rivas and Bishop",Healthcare,6321,,JP,0.0,0.011,56.35,False
+merch_000017,Sullivan LLC,Restaurant,9332,,US,0.32,0.0085,21.97,False
+merch_000018,Johnson Ltd,Gas Station,2156,http://www.wise.org/,US,0.01,0.0753,213.27,True
+merch_000019,"Smith, Campbell and Hampton",Utilities,5377,https://mcknight.com/,DE,0.08,0.0119,14.52,False
+merch_000020,Jensen PLC,Electronics,1577,https://www.richardson.net/,US,0.03,0.0284,49.52,False
+merch_000021,Benjamin LLC,Automotive,7252,http://hartman.com/,JP,0.0,0.0012,80.08,False
+merch_000022,Hardy-Rodriguez,Home Improvement,3838,,DE,0.01,0.0034,62.46,False
+merch_000023,Shaw-Pennington,Hotel,9802,https://nelson.net/,DE,0.09,0.0035,50.14,False
+merch_000024,"Shields, Blake and Morse",Gas Station,9876,,US,0.06,0.0337,279.68,False
+merch_000025,Gray LLC,Grocery,4776,,CA,0.31,0.0375,66.59,False
+merch_000026,"Mccall, Barrett and Valenzuela",Money Transfer,3437,http://gonzalez.com/,UK,0.01,0.1103,154.9,True
+merch_000027,Alvarez PLC,Electronics,9394,,CA,0.18,0.0094,23.31,False
+merch_000028,Gutierrez LLC,Travel,5913,http://harris.net/,FR,0.04,0.006,79.62,False
+merch_000029,Holmes Inc,Hotel,5216,https://www.hernandez-martin.biz/,CA,0.25,0.0128,23.45,False
+merch_000030,"Thompson, Berg and Phillips",Sporting Goods,7246,https://guerrero.info/,DE,0.13,0.009,26.89,False
+merch_000031,Black Ltd,Restaurant,9318,https://www.lucas.biz/,BR,0.18,0.0014,46.42,False
+merch_000032,"Smith, Giles and Jennings",Healthcare,3879,https://www.marsh.biz/,AU,0.07,0.0362,64.69,False
+merch_000033,Smith Inc,Automotive,3188,http://www.weber.com/,CA,0.03,0.0083,36.24,False
+merch_000034,"Todd, Thompson and Livingston",Entertainment,4345,http://adams-nguyen.org/,IN,0.16,0.0158,76.41,False
+merch_000035,Mccoy-White,Education,3672,,IN,0.06,0.0022,49.04,False
+merch_000036,Cook-Boyd,Sporting Goods,7114,https://www.white.com/,MX,0.06,0.0008,67.72,False
+merch_000037,"Arias, Thomas and Martin",Jewelry,1135,https://www.carlson-richards.com/,UK,0.02,0.5302,80.22,True
+merch_000038,Ellis and Sons,Furniture,7913,http://www.blankenship.com/,US,0.03,0.0071,38.3,False
+merch_000039,Bishop Ltd,Online Retail,8705,https://www.hull.com/,US,0.02,0.0024,18.22,False
+merch_000040,Flores-Richard,Online Retail,9569,https://www.kelly-hale.biz/,US,0.07,0.0202,42.0,False
+merch_000041,Mason-Miller,Music,6574,https://frazier-arellano.biz/,FR,0.12,0.0203,48.37,False
+merch_000042,"Nelson, Wiley and Hicks",Clothing,4477,,CA,0.04,0.0061,23.36,False
+merch_000043,Wilson Ltd,Furniture,7585,https://holmes.biz/,FR,0.02,0.0074,204.98,False
+merch_000044,Hernandez-Gonzalez,Home Improvement,8372,http://www.johnson-powell.info/,DE,0.27,0.2744,16.75,True
+merch_000045,"Rowe, Cordova and Russell",Clothing,1268,http://www.perkins-bradley.info/,US,0.03,0.0072,99.0,False
+merch_000046,"Stein, Taylor and Williams",Money Transfer,1364,,IN,0.04,0.0541,83.85,True
+merch_000047,Lopez-Warren,Music,1843,http://www.elliott-anderson.biz/,CA,0.12,0.0085,137.13,False
+merch_000048,Sanders-Levy,Gas Station,2323,https://www.stafford.org/,BR,0.16,0.0093,96.39,False
+merch_000049,"Kerr, Gould and Sandoval",Sporting Goods,5271,,AU,0.11,0.0391,30.16,False
+merch_000050,Chapman Ltd,Clothing,2681,http://www.walton-navarro.biz/,UK,0.19,0.0167,65.03,False
+merch_000051,"Robertson, Mckinney and Hayes",Home Improvement,8080,,US,0.12,0.0335,26.91,False
+merch_000052,Watson Group,Gas Station,9893,,UK,0.12,0.0637,15.04,True
+merch_000053,Turner and Sons,Financial Services,2571,https://www.mills.org/,JP,0.01,0.004,184.01,False
+merch_000054,Davis and Sons,Music,3960,http://www.ritter.com/,AU,0.06,0.0263,18.8,False
+merch_000055,Smith Inc,Education,8126,https://pearson.info/,CA,0.11,0.046,138.61,False
+merch_000056,Thomas-Jensen,Entertainment,6311,,US,0.01,0.0084,76.9,False
+merch_000057,"Acevedo, Frye and Torres",Home Improvement,7693,,DE,0.12,0.0104,90.39,False
+merch_000058,"Stanley, Farrell and Harrell",Hotel,8937,http://www.wilson-harris.org/,US,0.06,0.0494,101.0,False
+merch_000059,Morris-Santana,Digital Goods,5330,,BR,0.07,0.0012,21.76,False
+merch_000060,"Harrison, Johnson and Salazar",Gas Station,8727,,FR,0.24,0.0091,63.64,False
+merch_000061,Newman-Wall,Utilities,8302,https://newton.com/,US,0.12,0.0164,10.52,False
+merch_000062,Kerr-Rivera,Utilities,1912,,JP,0.09,0.0138,29.38,False
+merch_000063,"Banks, Brown and White",Books,6303,,UK,0.17,0.0087,140.69,False
+merch_000064,Decker-Johnson,Electronics,7166,,CA,0.03,0.0009,72.86,False
+merch_000065,Holder-Patterson,Gas Station,7738,,US,0.02,0.0018,29.72,False
+merch_000066,Dean LLC,Healthcare,5005,,UK,0.03,0.0023,17.74,False
+merch_000067,"Bullock, Morales and Sexton",Restaurant,7313,http://ferguson-suarez.com/,FR,0.01,0.0015,140.06,False
+merch_000068,Hopkins-Sanchez,Grocery,2385,http://ortiz.org/,US,0.0,0.0063,17.48,False
+merch_000069,Spence-Hernandez,Department Store,8197,https://www.wright-ayers.info/,UK,0.01,0.0089,68.34,False
+merch_000070,Martinez-Martin,Gas Station,4414,http://www.lee.biz/,CA,0.13,0.0207,5.63,False
+merch_000071,Smith Group,Sporting Goods,7043,https://day.info/,IN,0.07,0.0062,114.61,False
+merch_000072,Brown-Barnes,Jewelry,8531,http://www.neal.org/,UK,0.14,0.0043,518.91,False
+merch_000073,"Bowen, Garza and Black",Restaurant,4542,http://www.williams-evans.com/,UK,0.01,0.0003,60.3,False
+merch_000074,Christian-Collins,Travel,7921,https://lynch.com/,CA,0.1,0.0025,45.17,False
+merch_000075,Brady-Nichols,Travel,5229,http://www.downs-leblanc.com/,BR,0.02,0.0504,100.58,True
+merch_000076,"Hood, Gutierrez and Jones",Digital Goods,5007,http://johnson.com/,FR,0.2,0.0061,48.62,False
+merch_000077,Webb and Sons,Department Store,4214,http://adams.com/,UK,0.47,0.0009,43.29,False
+merch_000078,Johnson-Cervantes,Gas Station,8811,,AU,0.05,0.0301,45.63,False
+merch_000079,"Norton, Hicks and Cooper",Clothing,4601,,MX,0.15,0.0016,62.4,False
+merch_000080,"Harmon, Daniel and Morton",Entertainment,6854,https://nelson-owen.biz/,MX,0.02,0.0085,23.91,False
+merch_000081,"Diaz, Guzman and Wilson",Financial Services,7774,,UK,0.01,0.0468,24.92,False
+merch_000082,Williams-Vasquez,Automotive,8282,https://www.mitchell.com/,AU,0.12,0.0877,66.32,True
+merch_000083,Love LLC,Furniture,9001,,CA,0.02,0.0117,34.11,False
+merch_000084,Wilson-Hill,Education,5466,http://www.leblanc.com/,JP,0.13,0.0153,12.04,False
+merch_000085,"Johnson, Clark and Reyes",Healthcare,9231,,US,0.19,0.0095,210.08,False
+merch_000086,Wang Ltd,Travel,8309,,BR,0.06,0.0094,54.7,False
+merch_000087,"Williams, Palmer and Herman",Grocery,4932,https://stanton.net/,UK,0.06,0.0217,67.02,False
+merch_000088,"Smith, Myers and Moore",Jewelry,5610,https://www.campbell-kim.org/,IN,0.26,0.0161,6.66,False
+merch_000089,Camacho Ltd,Jewelry,7901,http://butler.org/,US,0.06,0.0687,9.4,True
+merch_000090,Evans-Horn,Clothing,6746,http://williams-cortez.org/,US,0.18,0.0341,58.4,False
+merch_000091,"Webb, Novak and Carlson",Jewelry,4402,http://www.lyons.com/,US,0.07,0.0148,39.87,False
+merch_000092,Miller and Sons,Music,1953,,JP,0.03,0.0327,25.2,False
+merch_000093,"Chase, Thomas and Price",Music,5550,,BR,0.17,0.0084,25.09,False
+merch_000094,Davis PLC,Automotive,6850,,US,0.0,0.0036,72.79,False
+merch_000095,Spencer-Hoffman,Healthcare,5315,https://www.allen-barrett.com/,FR,0.0,0.0195,48.04,False
+merch_000096,"Douglas, Johnson and Gamble",Utilities,7924,http://www.edwards.info/,CA,0.21,0.7307,93.85,True
+merch_000097,"Smith, Woods and Nelson",Travel,3132,,UK,0.22,0.7271,14.62,True
+merch_000098,"Ramirez, Castillo and Wolfe",Money Transfer,1220,,US,0.02,0.3441,13.96,True
+merch_000099,Boyer Ltd,Grocery,2289,http://www.wallace.com/,AU,0.03,0.0075,12.34,False
+merch_000100,Reese-Carson,Healthcare,6925,,US,0.03,0.0001,130.79,False
+merch_000101,"Morgan, Sanchez and Nelson",Digital Goods,9222,https://anderson-russell.com/,AU,0.16,0.0873,107.32,True
+merch_000102,Warner-Johnston,Utilities,2316,http://cherry.biz/,US,0.02,0.071,61.57,True
+merch_000103,Singh LLC,Utilities,9231,http://www.tucker-peters.info/,UK,0.06,0.067,81.74,True
+merch_000104,Robinson Group,Entertainment,7582,https://www.reilly-williams.com/,CA,0.15,0.007,128.84,False
+merch_000105,Foster and Sons,Jewelry,8351,https://www.williams-simon.com/,US,0.06,0.0059,316.39,False
+merch_000106,"Schultz, Adams and Smith",Money Transfer,7690,http://www.willis.com/,JP,0.08,0.0559,201.39,True
+merch_000107,Brown Ltd,Clothing,7743,http://www.diaz.org/,JP,0.04,0.0085,43.4,False
+merch_000108,Morgan-Barker,Automotive,9971,,AU,0.06,0.0581,260.0,True
+merch_000109,Sherman-Carroll,Education,3181,https://www.andrews.biz/,CA,0.01,0.0062,35.91,False
+merch_000110,Williams Ltd,Music,7142,https://www.roy.com/,JP,0.04,0.4993,73.05,True
+merch_000111,Michael-Stanley,Entertainment,3688,,AU,0.01,0.0145,61.32,False
+merch_000112,Shepherd-Jarvis,Electronics,4046,http://www.mitchell-hawkins.org/,MX,0.24,0.0289,46.21,False
+merch_000113,Steele-Frost,Grocery,6169,http://www.grant.net/,UK,0.02,0.0496,30.08,False
+merch_000114,Higgins PLC,Furniture,9765,https://bell.com/,MX,0.04,0.0116,15.21,False
+merch_000115,Sanders-Sullivan,Entertainment,1897,http://martinez.info/,US,0.03,0.0639,186.11,True
+merch_000116,Edwards Group,Books,7365,https://www.montes.com/,CA,0.06,0.0377,134.6,False
+merch_000117,Pittman-Collins,Clothing,4991,https://www.smith-cole.com/,DE,0.11,0.0238,115.54,False
+merch_000118,Winters-Sullivan,Entertainment,8434,,FR,0.1,0.0076,21.69,False
+merch_000119,Gonzalez Inc,Entertainment,8458,https://jones.com/,CA,0.04,0.0444,108.7,False
+merch_000120,Alexander Ltd,Grocery,4079,http://lamb-stewart.com/,CA,0.11,0.0547,55.8,True
+merch_000121,Rose-Armstrong,Grocery,3727,,US,0.05,0.0154,22.65,False
+merch_000122,Anderson-Scott,Jewelry,4697,,US,0.11,0.051,42.13,True
+merch_000123,Clark PLC,Financial Services,7656,https://bradley-brown.biz/,MX,0.11,0.0274,215.88,False
+merch_000124,Dennis-Diaz,Jewelry,8849,http://mcmillan.com/,US,0.02,0.001,35.27,False
+merch_000125,"Stevens, Armstrong and Moss",Travel,7004,https://zuniga.com/,JP,0.01,0.0025,58.15,False
+merch_000126,Rivera-Mcclure,Department Store,6821,http://www.reeves-simpson.net/,US,0.09,0.0108,62.86,False
+merch_000127,Foster-Blevins,Home Improvement,6214,https://ingram.info/,US,0.05,0.0017,133.99,False
+merch_000128,Solis-Davis,Furniture,9638,,CA,0.1,0.0231,18.43,False
+merch_000129,Sanchez-Smith,Digital Goods,2948,http://www.johnson.biz/,DE,0.0,0.1221,100.55,True
+merch_000130,Allen-Lopez,Furniture,1948,,FR,0.01,0.0643,128.71,True
+merch_000131,Vaughn PLC,Financial Services,2244,,FR,0.03,0.0028,40.51,False
+merch_000132,"Mendoza, Hartman and Anderson",Utilities,6914,,IN,0.21,0.6628,30.04,True
+merch_000133,"Murillo, Sullivan and Green",Online Retail,7173,http://www.allen-martin.biz/,BR,0.04,0.0671,22.9,True
+merch_000134,Bennett-Villarreal,Travel,9815,http://gonzales.org/,IN,0.14,0.028,121.64,False
+merch_000135,"Moore, Le and Dillon",Hotel,6096,http://www.allen.com/,DE,0.06,0.0412,34.84,False
+merch_000136,"Davis, Barker and Smith",Digital Goods,1672,,US,0.03,0.0048,46.06,False
+merch_000137,Jensen-Perez,Gas Station,5230,,US,0.08,0.5509,36.84,True
+merch_000138,Black LLC,Digital Goods,3835,http://www.simpson-jones.org/,US,0.11,0.0013,68.78,False
+merch_000139,"Hernandez, Franklin and Marsh",Furniture,7061,https://atkins-murphy.com/,AU,0.1,0.0108,189.79,False
+merch_000140,"Peterson, Mosley and Brown",Restaurant,2664,https://carroll-lynch.com/,FR,0.03,0.0206,76.26,False
+merch_000141,Arnold and Sons,Jewelry,4165,http://www.moran.com/,US,0.1,0.0187,90.94,False
+merch_000142,Lewis and Sons,Automotive,2443,http://hardy.info/,US,0.06,0.0063,68.62,False
+merch_000143,Owens-Harris,Money Transfer,6838,http://hunter.biz/,IN,0.04,0.0039,54.77,False
+merch_000144,Blair-Johnson,Gas Station,6254,https://www.hansen.com/,US,0.12,0.0377,37.83,False
+merch_000145,Salinas-Rogers,Healthcare,5863,https://www.gordon.com/,UK,0.04,0.02,23.94,False
+merch_000146,"Holloway, Bowman and Moody",Financial Services,2635,,DE,0.03,0.0102,73.96,False
+merch_000147,Luna-Anderson,Home Improvement,6907,https://leonard.info/,CA,0.23,0.3904,51.64,True
+merch_000148,Hunter-Patterson,Utilities,6239,https://www.carroll-smith.biz/,AU,0.02,0.0078,161.88,False
+merch_000149,Smith Inc,Home Improvement,4889,,CA,0.11,0.0032,128.96,False
+merch_000150,Mann and Sons,Healthcare,2960,,AU,0.02,0.013,118.88,False
+merch_000151,"Bates, Kelly and Bradford",Furniture,2610,https://daniel-campbell.info/,DE,0.35,0.2075,22.81,True
+merch_000152,Edwards-Tucker,Furniture,5372,http://www.schaefer.org/,US,0.14,0.0281,100.79,False
+merch_000153,"Washington, Andrews and Weaver",Financial Services,2344,,MX,0.26,0.0146,60.69,False
+merch_000154,Wilkinson-George,Online Retail,1375,http://sloan.org/,US,0.01,0.0266,45.38,False
+merch_000155,Cervantes-Smith,Automotive,7234,https://www.colon.com/,US,0.06,0.0223,68.21,False
+merch_000156,Anderson Ltd,Digital Goods,9625,http://garcia-garcia.net/,US,0.07,0.0056,65.07,False
+merch_000157,"Padilla, Gilmore and Shaffer",Department Store,3023,http://www.gilbert-hart.com/,US,0.03,0.0415,65.22,False
+merch_000158,King Inc,Sporting Goods,3063,http://www.cole.com/,US,0.17,0.047,42.98,False
+merch_000159,Browning PLC,Jewelry,6830,,UK,0.31,0.0366,21.13,False
+merch_000160,"Warner, Torres and Jimenez",Automotive,7249,,US,0.03,0.0825,24.84,True
+merch_000161,Serrano Ltd,Money Transfer,5439,http://espinoza-francis.info/,BR,0.09,0.014,162.6,False
+merch_000162,Boone PLC,Gas Station,1063,http://www.cole.net/,DE,0.07,0.0018,61.96,False
+merch_000163,"Webb, Rivera and Payne",Financial Services,6762,https://www.boyd-cruz.com/,BR,0.04,0.0106,21.52,False
+merch_000164,"Gonzalez, Cummings and Johnston",Money Transfer,8468,https://mcdonald-petty.org/,US,0.0,0.0024,80.75,False
+merch_000165,"Compton, Schmitt and Myers",Grocery,1763,,JP,0.41,0.0259,44.15,False
+merch_000166,"Nguyen, Patterson and Wallace",Entertainment,6564,https://stephenson.com/,AU,0.0,0.0245,42.62,False
+merch_000167,Chase Group,Travel,8587,,US,0.06,0.0145,93.44,False
+merch_000168,Harris Inc,Gas Station,5837,http://www.beard.com/,MX,0.02,0.019,76.73,False
+merch_000169,Garcia LLC,Restaurant,6426,https://cole.com/,FR,0.05,0.0057,16.92,False
+merch_000170,Wade-Mills,Money Transfer,1377,,US,0.05,0.0837,60.52,True
+merch_000171,Morris-Walton,Sporting Goods,7544,https://garcia-church.com/,UK,0.01,0.0109,68.41,False
+merch_000172,Jordan-Smith,Books,1469,http://griffin.net/,MX,0.06,0.0084,306.11,False
+merch_000173,Carter Inc,Entertainment,1209,https://www.reyes-scott.com/,CA,0.17,0.0091,42.15,False
+merch_000174,Thompson LLC,Jewelry,5317,https://carrillo.org/,BR,0.07,0.0586,56.17,True
+merch_000175,Fitzpatrick-Smith,Furniture,6588,http://www.russell.net/,DE,0.38,0.0198,19.96,False
+merch_000176,Copeland Group,Gas Station,9235,,DE,0.08,0.0225,66.76,False
+merch_000177,Cross Group,Home Improvement,7424,,CA,0.03,0.0066,32.4,False
+merch_000178,Mullen Group,Online Retail,7372,http://www.evans.com/,IN,0.18,0.0068,66.32,False
+merch_000179,"Day, Brown and Williams",Department Store,4613,https://www.carr.org/,UK,0.02,0.0001,37.07,False
+merch_000180,Francis-Lewis,Sporting Goods,8254,,UK,0.04,0.0189,86.69,False
+merch_000181,"Lane, Silva and Hamilton",Digital Goods,4893,http://washington.org/,UK,0.22,0.0465,80.81,False
+merch_000182,Taylor-Nelson,Restaurant,7827,http://clark.org/,MX,0.16,0.0042,52.97,False
+merch_000183,Rose-Evans,Music,1377,,US,0.0,0.0024,56.27,False
+merch_000184,Marshall LLC,Travel,7261,https://travis-beltran.com/,CA,0.15,0.0534,42.83,True
+merch_000185,"Morris, Bowman and Ashley",Music,5539,https://www.silva-burton.net/,UK,0.15,0.0133,75.59,False
+merch_000186,Taylor Group,Gas Station,1252,http://www.jensen.com/,US,0.11,0.0044,56.1,False
+merch_000187,Montes LLC,Online Retail,5200,,FR,0.06,0.0054,35.05,False
+merch_000188,"Burke, Farmer and Cook",Utilities,5028,https://www.lee-collins.com/,AU,0.01,0.0149,44.48,False
+merch_000189,Davis Ltd,Healthcare,2202,https://mitchell-kim.com/,BR,0.02,0.0022,66.72,False
+merch_000190,"Diaz, Fry and Douglas",Clothing,1782,,US,0.04,0.0099,93.23,False
+merch_000191,Palmer Group,Department Store,4921,https://www.smith.com/,MX,0.02,0.0459,39.51,False
+merch_000192,"Flores, Davidson and Russo",Home Improvement,8769,https://www.fisher.com/,US,0.19,0.0135,55.45,False
+merch_000193,Johnson-Day,Utilities,4621,https://stevens.com/,AU,0.05,0.01,41.62,False
+merch_000194,"Clark, Sweeney and Ramos",Grocery,5191,,BR,0.07,0.0069,32.44,False
+merch_000195,"Smith, Powell and Bridges",Money Transfer,9662,,UK,0.04,0.0084,12.02,False
+merch_000196,Sandoval Ltd,Utilities,7225,http://holden.com/,US,0.15,0.0008,98.63,False
+merch_000197,Fernandez-Hernandez,Electronics,7022,,JP,0.07,0.0768,92.74,True
+merch_000198,Mercado LLC,Electronics,3602,https://dean-wheeler.com/,US,0.11,0.0005,11.81,False
+merch_000199,Reilly-Young,Grocery,2815,https://www.valdez.info/,US,0.13,0.0255,53.35,False
+merch_000200,"Shaw, Riley and Hooper",Travel,1683,http://www.shelton-berry.com/,FR,0.23,0.0021,66.22,False
+merch_000201,"Hess, Hines and Patterson",Home Improvement,9768,,JP,0.4,0.0137,40.34,False
+merch_000202,Salas-Klein,Home Improvement,8945,,JP,0.39,0.0024,89.64,False
+merch_000203,"Little, Brown and Oneal",Grocery,7540,https://carpenter-warner.com/,BR,0.16,0.0076,46.58,False
+merch_000204,"Moody, Fisher and Edwards",Jewelry,5404,,DE,0.27,0.0583,35.75,True
+merch_000205,Watkins Inc,Music,8781,http://clark.com/,US,0.06,0.0436,59.63,False
+merch_000206,Snyder-Brown,Money Transfer,4287,https://huerta.com/,UK,0.01,0.0141,116.64,False
+merch_000207,Serrano-Clark,Education,6402,https://harris-johnson.com/,US,0.06,0.0375,6.97,False
+merch_000208,Jennings Group,Digital Goods,9004,http://www.wheeler.com/,AU,0.01,0.0831,35.96,True
+merch_000209,Wilson Ltd,Entertainment,2425,,US,0.01,0.0237,109.39,False
+merch_000210,"Morrison, Chen and Cook",Healthcare,9627,http://www.hebert.net/,MX,0.31,0.0061,118.42,False
+merch_000211,"Schneider, Boone and Mueller",Electronics,8021,http://www.banks.com/,BR,0.28,0.4235,79.86,True
+merch_000212,Hughes-Hodges,Money Transfer,2930,,DE,0.06,0.0399,24.28,False
+merch_000213,"Johnson, Wilson and Gibson",Entertainment,6482,http://www.maxwell-lawrence.com/,DE,0.02,0.0014,22.29,False
+merch_000214,Tran-Barry,Utilities,2178,,BR,0.02,0.0335,26.54,False
+merch_000215,Hill Ltd,Healthcare,2828,https://barrera.com/,UK,0.11,0.0084,157.63,False
+merch_000216,Fisher LLC,Home Improvement,4892,,US,0.15,0.0555,111.32,True
+merch_000217,Dixon-Gutierrez,Restaurant,4384,http://www.gomez-griffin.info/,FR,0.01,0.0411,69.7,False
+merch_000218,Young-Garcia,Restaurant,2806,http://www.morris.com/,US,0.01,0.0173,36.54,False
+merch_000219,"Richard, Flores and Lowe",Gas Station,6362,http://schneider.info/,JP,0.05,0.0004,134.01,False
+merch_000220,"Munoz, Wiley and Walker",Electronics,5600,https://williams-richardson.net/,FR,0.01,0.0049,17.92,False
+merch_000221,"Clark, Bonilla and Collins",Books,4522,https://curtis.com/,JP,0.05,0.0426,125.47,False
+merch_000222,Mayer Ltd,Jewelry,7251,https://www.morales.com/,US,0.07,0.0096,26.21,False
+merch_000223,Burton-Long,Sporting Goods,5162,http://www.fowler.info/,AU,0.06,0.0152,81.65,False
+merch_000224,"Brown, Khan and Hall",Gas Station,9292,,CA,0.17,0.01,65.2,False
+merch_000225,Brock-Burton,Travel,4220,,FR,0.04,0.0079,51.17,False
+merch_000226,Simmons-Carter,Utilities,4590,https://patrick.com/,US,0.22,0.0144,279.9,False
+merch_000227,Swanson-Simmons,Sporting Goods,7539,https://www.reynolds.org/,AU,0.19,0.006,202.07,False
+merch_000228,Castillo-Chang,Education,6346,http://www.aguilar-jimenez.info/,UK,0.02,0.0006,27.06,False
+merch_000229,"Stark, Guzman and Warner",Education,5014,http://garcia.net/,MX,0.09,0.0016,658.74,False
+merch_000230,"Clark, Johnson and Cunningham",Furniture,8166,http://richardson.com/,CA,0.04,0.0284,160.04,False
+merch_000231,Perez LLC,Automotive,3257,http://watson.com/,US,0.0,0.0285,98.18,False
+merch_000232,"Wright, Reynolds and Price",Travel,7473,,IN,0.3,0.0143,93.07,False
+merch_000233,Lozano-Evans,Furniture,2031,https://scott.org/,AU,0.06,0.0222,15.19,False
+merch_000234,Gardner-Santos,Sporting Goods,6718,https://frederick.com/,AU,0.17,0.02,82.01,False
+merch_000235,Smith-Smith,Financial Services,3515,,CA,0.0,0.0479,83.99,False
+merch_000236,Merritt Inc,Electronics,2400,,CA,0.01,0.0386,113.66,False
+merch_000237,"Beck, Sullivan and Arnold",Money Transfer,4563,https://www.french.com/,IN,0.09,0.5065,53.96,True
+merch_000238,"Mendoza, Hale and Brown",Jewelry,8438,https://www.tucker.com/,CA,0.14,0.0104,72.31,False
+merch_000239,"Patrick, Villarreal and Herrera",Gas Station,3600,https://www.townsend.com/,UK,0.3,0.0473,115.81,False
+merch_000240,Nixon-Walters,Furniture,7074,http://fuentes.biz/,JP,0.04,0.0106,46.34,False
+merch_000241,Chavez-Martinez,Healthcare,7478,https://graham-miller.com/,FR,0.03,0.014,29.43,False
+merch_000242,Francis-Herman,Grocery,8872,,US,0.22,0.0156,125.18,False
+merch_000243,Thompson-Clements,Music,2639,http://www.anderson.com/,US,0.07,0.0188,58.51,False
+merch_000244,Austin-Stephens,Education,7067,http://www.kim.biz/,DE,0.06,0.0163,30.85,False
+merch_000245,Howard-Yang,Entertainment,5897,http://mendez-murphy.com/,CA,0.03,0.1319,36.61,True
+merch_000246,Olsen-Martinez,Electronics,6555,https://www.martin.com/,US,0.13,0.0086,57.65,False
+merch_000247,Torres-Foster,Entertainment,9871,https://taylor-lamb.com/,BR,0.23,0.0248,56.04,False
+merch_000248,Dunn and Sons,Hotel,9476,,CA,0.02,0.0022,416.34,False
+merch_000249,Walton-Gray,Jewelry,5458,http://conway.com/,UK,0.08,0.0002,99.41,False
+merch_000250,Aguilar-Moore,Utilities,1601,http://gonzales.com/,CA,0.03,0.0058,51.64,False
+merch_000251,Franklin-Johnson,Furniture,5314,https://www.paul.com/,AU,0.15,0.0308,41.69,False
+merch_000252,Chandler and Sons,Healthcare,4647,,UK,0.22,0.0293,56.84,False
+merch_000253,Chan-Schaefer,Financial Services,9071,https://taylor-ferguson.net/,IN,0.03,0.0281,38.86,False
+merch_000254,Armstrong LLC,Music,3862,,AU,0.2,0.0311,46.1,False
+merch_000255,Fischer-Frye,Music,5352,,IN,0.18,0.0315,52.91,False
+merch_000256,King LLC,Jewelry,7634,,AU,0.07,0.0023,22.11,False
+merch_000257,Gray-Stevenson,Online Retail,6665,http://olson.com/,DE,0.11,0.0148,24.69,False
+merch_000258,Wilson Ltd,Online Retail,1834,https://holloway.com/,US,0.04,0.0184,230.71,False
+merch_000259,Smith-Morris,Utilities,5133,http://curtis-coleman.net/,IN,0.18,0.011,78.89,False
+merch_000260,Williams PLC,Healthcare,5306,https://www.garcia.net/,US,0.09,0.0061,64.78,False
+merch_000261,Hanna-Miller,Financial Services,5299,http://www.davis-brown.com/,UK,0.14,0.0115,26.78,False
+merch_000262,Olson-Gutierrez,Education,6984,http://www.lindsey-jones.info/,FR,0.04,0.0463,36.3,False
+merch_000263,Williams Ltd,Entertainment,2701,https://turner-rivera.info/,CA,0.12,0.0126,97.46,False
+merch_000264,Russell PLC,Money Transfer,8992,http://www.short-douglas.com/,UK,0.12,0.0073,36.39,False
+merch_000265,"Jones, Mcmahon and White",Money Transfer,7129,http://www.johnson-lopez.com/,DE,0.05,0.0073,157.06,False
+merch_000266,Haley Group,Department Store,4895,,FR,0.07,0.0037,81.85,False
+merch_000267,Davila-Vazquez,Education,6726,https://www.nguyen.com/,IN,0.02,0.0029,28.87,False
+merch_000268,Roberts and Sons,Music,6636,http://castillo-garcia.com/,DE,0.11,0.0116,54.02,False
+merch_000269,Flores-Chapman,Jewelry,6933,,US,0.15,0.0094,35.25,False
+merch_000270,Smith Group,Automotive,1725,https://www.allison.com/,MX,0.04,0.0119,30.24,False
+merch_000271,Taylor and Sons,Entertainment,2926,,UK,0.16,0.0098,32.24,False
+merch_000272,Johnson-Esparza,Travel,5947,http://www.ortega.com/,CA,0.21,0.0026,97.45,False
+merch_000273,Taylor-Johnson,Online Retail,5122,http://www.chang.net/,DE,0.03,0.0177,88.93,False
+merch_000274,Clark-Johnston,Clothing,2573,http://www.thompson.com/,UK,0.12,0.0462,105.44,False
+merch_000275,Moore Ltd,Jewelry,5023,,US,0.02,0.0074,78.68,False
+merch_000276,"King, Collier and Jenkins",Digital Goods,6232,https://robinson.net/,US,0.08,0.006,100.64,False
+merch_000277,Evans-Brock,Travel,9180,,CA,0.05,0.0387,27.62,False
+merch_000278,"Ramos, Mcguire and Thompson",Automotive,1607,https://adams.com/,US,0.01,0.0072,47.27,False
+merch_000279,"Patrick, Sampson and Wright",Automotive,2651,https://stein.org/,UK,0.04,0.0042,20.93,False
+merch_000280,"Walsh, Ward and Howell",Financial Services,1511,http://davenport-davis.com/,US,0.34,0.0001,15.07,False
+merch_000281,Holden-Powell,Clothing,1577,,UK,0.01,0.0178,141.83,False
+merch_000282,Hart-Jones,Money Transfer,5418,https://wood.net/,UK,0.04,0.0076,77.33,False
+merch_000283,Harvey Group,Digital Goods,3917,,CA,0.23,0.0083,76.88,False
+merch_000284,Evans-Adams,Online Retail,7518,,US,0.0,0.0071,89.67,False
+merch_000285,Robinson-Powell,Education,4872,https://www.humphrey-waters.com/,BR,0.17,0.0132,138.35,False
+merch_000286,Hamilton-Stewart,Music,7950,http://hoffman.biz/,JP,0.05,0.0092,33.02,False
+merch_000287,Gill PLC,Travel,8019,https://www.roberts.biz/,US,0.01,0.0155,16.48,False
+merch_000288,Bradshaw-Hernandez,Financial Services,6833,,DE,0.02,0.0336,49.94,False
+merch_000289,Morgan Inc,Jewelry,1946,http://wolfe.net/,US,0.2,0.0023,98.67,False
+merch_000290,Nguyen and Sons,Travel,5425,,US,0.03,0.0134,94.57,False
+merch_000291,"Mitchell, Dunn and Porter",Education,2744,,DE,0.15,0.0019,16.28,False
+merch_000292,Sanchez-Lane,Entertainment,4105,https://www.cross-thomas.org/,UK,0.02,0.0777,130.8,True
+merch_000293,Lawrence-Young,Healthcare,3702,http://gomez.net/,CA,0.17,0.008,70.05,False
+merch_000294,Garcia PLC,Hotel,8081,http://johnson.info/,JP,0.02,0.4609,137.03,True
+merch_000295,Wells Group,Utilities,8860,,AU,0.04,0.0122,32.87,False
+merch_000296,Ruiz and Sons,Clothing,2024,,CA,0.25,0.0145,21.26,False
+merch_000297,Hahn LLC,Grocery,4211,,IN,0.05,0.0125,17.02,False
+merch_000298,"Austin, Olsen and Haley",Financial Services,1180,http://www.dennis-berry.com/,MX,0.01,0.194,76.31,True
+merch_000299,Krause LLC,Hotel,6967,,UK,0.32,0.0125,32.9,False
+merch_000300,Bowers-Vargas,Books,3512,https://white-day.com/,US,0.06,0.0034,270.26,False
+merch_000301,"Lane, Guerra and Martin",Utilities,3973,,JP,0.07,0.0007,167.27,False
+merch_000302,"Phillips, Christensen and Harris",Jewelry,5332,,BR,0.07,0.0023,54.07,False
+merch_000303,Harper Group,Sporting Goods,9570,http://lewis.com/,DE,0.19,0.006,60.33,False
+merch_000304,"Mathis, Miller and Contreras",Department Store,3104,,BR,0.0,0.0297,6.72,False
+merch_000305,May Ltd,Gas Station,5322,https://stevens.com/,US,0.03,0.0002,78.3,False
+merch_000306,Fleming-Pierce,Electronics,7186,http://greene.com/,US,0.08,0.0826,168.31,True
+merch_000307,Rodriguez-Bell,Money Transfer,9954,http://www.parsons-wright.org/,US,0.09,0.0151,32.42,False
+merch_000308,Simon-Johnson,Furniture,6015,http://www.hall.com/,BR,0.0,0.0103,98.32,False
+merch_000309,Lowery-Barnes,Clothing,5327,https://www.hill.org/,CA,0.05,0.0347,7.2,False
+merch_000310,"Robles, Baker and Chandler",Education,4518,http://burke-johnson.com/,JP,0.09,0.0007,44.63,False
+merch_000311,"Davis, Morales and Hester",Entertainment,5692,,US,0.02,0.0175,90.13,False
+merch_000312,"Pena, Garza and Sandoval",Digital Goods,9721,http://www.douglas-livingston.com/,BR,0.17,0.0105,55.44,False
+merch_000313,Moreno Group,Utilities,2398,https://www.moon-kidd.com/,MX,0.01,0.0472,29.98,False
+merch_000314,"Guzman, Wright and Thomas",Sporting Goods,1299,http://woodard.com/,US,0.17,0.0338,77.67,False
+merch_000315,Davies and Sons,Books,9845,https://www.coleman.info/,DE,0.06,0.0076,46.61,False
+merch_000316,"Joyce, Davis and Hood",Home Improvement,9404,http://www.reyes.com/,US,0.04,0.009,174.34,False
+merch_000317,"Stephenson, Gibbs and Wilson",Entertainment,9137,,CA,0.06,0.0005,126.35,False
+merch_000318,Patton Inc,Department Store,3716,https://www.turner.com/,US,0.03,0.0153,274.37,False
+merch_000319,Arellano PLC,Sporting Goods,4994,http://wilson.info/,CA,0.09,0.0285,35.64,False
+merch_000320,"Evans, Taylor and Washington",Restaurant,2596,http://www.alvarez-hicks.info/,UK,0.02,0.0047,69.24,False
+merch_000321,Phillips-Patterson,Travel,7376,http://www.kramer.info/,US,0.09,0.024,30.59,False
+merch_000322,Mendez-Rodriguez,Automotive,5769,https://www.lutz.com/,UK,0.01,0.0112,65.34,False
+merch_000323,Campbell-Williams,Music,1173,,JP,0.08,0.0025,43.76,False
+merch_000324,"Young, Mora and Robinson",Home Improvement,2776,,US,0.01,0.0044,80.55,False
+merch_000325,Jenkins Ltd,Automotive,3365,,CA,0.29,0.0112,40.33,False
+merch_000326,Church-Lopez,Home Improvement,8909,http://king.com/,US,0.01,0.042,45.42,False
+merch_000327,Todd Group,Electronics,2536,https://www.taylor.com/,US,0.03,0.0114,48.27,False
+merch_000328,Le-Brown,Sporting Goods,9456,https://fox.org/,US,0.11,0.0141,179.6,False
+merch_000329,Hunter-Hendrix,Online Retail,9208,http://www.wood.com/,DE,0.02,0.0023,109.06,False
+merch_000330,Hayes-Crosby,Hotel,3651,https://www.cox-wagner.com/,CA,0.07,0.0279,42.28,False
+merch_000331,West Ltd,Automotive,5205,http://price.com/,UK,0.05,0.0313,13.54,False
+merch_000332,Richardson-Green,Music,2365,http://alvarado.com/,CA,0.0,0.0087,14.22,False
+merch_000333,"Mccall, Rodriguez and Walker",Financial Services,4779,https://green.net/,US,0.13,0.0058,31.91,False
+merch_000334,Strickland-Garcia,Entertainment,1543,,AU,0.08,0.0128,30.51,False
+merch_000335,Smith Ltd,Jewelry,1253,https://greene.com/,US,0.02,0.0444,56.65,False
+merch_000336,Taylor-Taylor,Financial Services,2875,,DE,0.07,0.016,48.47,False
+merch_000337,Russell-Lee,Restaurant,3021,http://www.berg-keller.com/,AU,0.01,0.0027,16.52,False
+merch_000338,Thomas and Sons,Books,2635,http://www.moore.com/,FR,0.07,0.037,140.25,False
+merch_000339,Fox LLC,Automotive,8611,,UK,0.22,0.0189,30.08,False
+merch_000340,"Garza, Phillips and Smith",Online Retail,6441,,US,0.05,0.0681,10.85,True
+merch_000341,Williams PLC,Money Transfer,7520,,BR,0.21,0.0118,249.38,False
+merch_000342,Chavez-Lang,Electronics,7578,,US,0.01,0.0448,49.07,False
+merch_000343,Watson Inc,Home Improvement,1410,http://www.estrada-mckenzie.com/,FR,0.18,0.032,44.28,False
+merch_000344,Flores Group,Entertainment,9427,http://www.schmidt.biz/,IN,0.01,0.0169,42.26,False
+merch_000345,Wilson-Graves,Furniture,4799,https://hooper.com/,CA,0.26,0.0125,56.51,False
+merch_000346,Anderson PLC,Sporting Goods,5883,http://www.jacobson.org/,IN,0.1,0.0435,20.15,False
+merch_000347,Kent-Joseph,Gas Station,1069,https://www.jones-cook.com/,UK,0.04,0.013,64.19,False
+merch_000348,"Hodges, Davis and Rios",Utilities,2383,https://ortiz.com/,CA,0.14,0.0136,14.51,False
+merch_000349,"Johnson, Miller and Hicks",Automotive,4566,,AU,0.23,0.0453,108.05,False
+merch_000350,"House, Walker and Cruz",Grocery,3669,,CA,0.04,0.0006,30.45,False
+merch_000351,Jimenez-Durham,Gas Station,3466,,US,0.04,0.0438,47.88,False
+merch_000352,"Page, Johnson and Cowan",Music,6413,https://www.thomas.info/,JP,0.1,0.0039,9.51,False
+merch_000353,Velazquez-Mckee,Jewelry,1195,,CA,0.03,0.0051,292.53,False
+merch_000354,"Powell, Johnston and Flores",Furniture,8434,https://melendez-mueller.org/,MX,0.02,0.0102,240.05,False
+merch_000355,"Torres, Tate and Gardner",Jewelry,1439,https://www.jacobson.biz/,CA,0.0,0.0557,44.41,True
+merch_000356,"Walsh, Norris and Howard",Clothing,1933,,CA,0.06,0.0269,51.72,False
+merch_000357,Meyer PLC,Entertainment,7258,https://www.jones-williams.com/,US,0.06,0.0079,173.05,False
+merch_000358,Stevens-Hall,Entertainment,9861,,BR,0.07,0.1205,62.86,True
+merch_000359,Watson-English,Books,6255,http://thomas-perry.com/,UK,0.04,0.0038,242.02,False
+merch_000360,Beck-Jones,Entertainment,2889,,UK,0.08,0.0006,49.62,False
+merch_000361,"Nolan, Brown and Howard",Automotive,8495,http://mendoza.org/,JP,0.09,0.0506,13.81,True
+merch_000362,"Martin, Salazar and Sanders",Restaurant,1153,https://ayala-porter.com/,US,0.25,0.0058,20.96,False
+merch_000363,Lang-Cain,Money Transfer,8455,https://www.manning.com/,JP,0.09,0.0107,26.78,False
+merch_000364,Turner Inc,Gas Station,8740,,US,0.11,0.0211,36.07,False
+merch_000365,Hill Group,Electronics,5328,http://cortez.com/,UK,0.04,0.0062,48.09,False
+merch_000366,Burke-Murphy,Clothing,6461,,UK,0.02,0.005,64.5,False
+merch_000367,Stewart-Campbell,Entertainment,6575,http://flowers.biz/,US,0.04,0.0172,58.97,False
+merch_000368,Martin and Sons,Entertainment,9738,,DE,0.14,0.0132,208.06,False
+merch_000369,Chavez-Allen,Clothing,4558,,FR,0.05,0.0083,131.7,False
+merch_000370,Walker and Sons,Education,7340,https://white-walker.com/,CA,0.04,0.0219,130.77,False
+merch_000371,Bowman-Dorsey,Electronics,8924,http://williams.com/,DE,0.01,0.0139,7.02,False
+merch_000372,"Graham, White and Macias",Music,6896,,AU,0.19,0.0227,75.55,False
+merch_000373,"Greene, Ramos and Garcia",Jewelry,7775,,US,0.02,0.009,39.69,False
+merch_000374,Bean-Burke,Jewelry,8744,http://www.miller-marshall.com/,MX,0.13,0.0204,58.3,False
+merch_000375,Howard and Sons,Healthcare,6752,http://munoz-wells.com/,UK,0.35,0.0072,66.88,False
+merch_000376,Walker-Martinez,Music,8469,https://www.martinez.org/,UK,0.03,0.0379,8.57,False
+merch_000377,Porter LLC,Travel,5850,https://www.hernandez.com/,CA,0.13,0.0217,41.27,False
+merch_000378,"Richards, Rodriguez and Allen",Financial Services,1405,,DE,0.06,0.0026,106.37,False
+merch_000379,Lewis PLC,Sporting Goods,5224,,UK,0.01,0.011,95.82,False
+merch_000380,Burns Group,Education,7829,http://www.brown.com/,UK,0.06,0.0258,282.32,False
+merch_000381,"Perkins, Peterson and Garcia",Music,3981,,JP,0.22,0.0118,29.5,False
+merch_000382,Lopez LLC,Home Improvement,2108,https://vasquez.org/,US,0.16,0.0239,9.75,False
+merch_000383,Smith-Cole,Books,8804,http://www.mitchell.com/,BR,0.09,0.0216,58.88,False
+merch_000384,Paul Inc,Clothing,8474,https://moon-ferguson.com/,CA,0.15,0.0256,56.42,False
+merch_000385,Rivera-Roberts,Money Transfer,4360,https://www.smith-singh.org/,MX,0.3,0.0331,115.7,False
+merch_000386,Landry-Gomez,Department Store,7164,http://www.hayes.biz/,UK,0.15,0.0047,20.62,False
+merch_000387,Brown-Thompson,Clothing,2142,https://martinez.com/,US,0.02,0.0227,17.32,False
+merch_000388,"Miller, Graves and Morris",Clothing,4905,,US,0.13,0.0129,78.04,False
+merch_000389,"Brown, Bates and Robles",Furniture,7872,http://www.sanchez.com/,JP,0.13,0.0155,112.62,False
+merch_000390,Mendoza-Payne,Home Improvement,9841,,JP,0.1,0.0277,59.94,False
+merch_000391,Johnson-Soto,Healthcare,4304,https://rogers.com/,US,0.04,0.0257,61.62,False
+merch_000392,Sutton Inc,Hotel,1850,,US,0.07,0.0034,104.99,False
+merch_000393,"Kelly, Moore and Melton",Hotel,5132,https://hunt.com/,US,0.1,0.0163,9.09,False
+merch_000394,Mitchell and Sons,Digital Goods,1451,,UK,0.12,0.0065,108.15,False
+merch_000395,"Collins, Smith and Johnson",Entertainment,4712,http://mejia-sanchez.net/,US,0.06,0.0162,349.6,False
+merch_000396,"Velez, Hernandez and Sanchez",Education,3138,http://www.green.org/,UK,0.17,0.012,131.34,False
+merch_000397,"Sims, York and James",Automotive,6293,,DE,0.17,0.0327,23.16,False
+merch_000398,Martinez Group,Department Store,9287,https://www.hopkins-harris.info/,UK,0.19,0.0054,159.07,False
+merch_000399,Peterson-Jones,Restaurant,1540,,IN,0.15,0.0005,19.35,False
+merch_000400,Woodard-Calhoun,Entertainment,9700,,FR,0.23,0.013,52.86,False
+merch_000401,Williams Inc,Books,8845,,CA,0.1,0.0522,96.06,True
+merch_000402,Contreras-Johnson,Online Retail,9524,,CA,0.01,0.0045,72.24,False
+merch_000403,Lara-Martin,Education,6095,,FR,0.16,0.0052,25.45,False
+merch_000404,Long-White,Utilities,5056,,UK,0.04,0.0215,27.95,False
+merch_000405,Glenn-Mcdowell,Healthcare,3162,https://www.freeman.com/,BR,0.01,0.0419,116.77,False
+merch_000406,Walker-Morton,Books,7951,http://chambers-edwards.biz/,JP,0.04,0.0163,35.24,False
+merch_000407,"Harrison, Jenkins and Rice",Books,7502,https://martin.com/,US,0.0,0.0917,34.57,True
+merch_000408,"Richardson, Martinez and Parker",Music,3130,http://benjamin.com/,US,0.0,0.0155,9.86,False
+merch_000409,"Barnes, Reyes and Mcfarland",Jewelry,1560,,US,0.13,0.0504,67.09,True
+merch_000410,Thomas Ltd,Digital Goods,6341,http://christensen.info/,UK,0.02,0.0232,30.76,False
+merch_000411,Harper and Sons,Music,3158,https://www.alexander.com/,UK,0.17,0.0024,26.2,False
+merch_000412,Jones PLC,Jewelry,3612,,FR,0.04,0.0141,40.82,False
+merch_000413,Turner Ltd,Digital Goods,2249,https://www.hernandez.com/,US,0.05,0.03,60.7,False
+merch_000414,Murray-Riggs,Music,6935,,US,0.06,0.0101,25.93,False
+merch_000415,"Donovan, Lyons and Blair",Online Retail,8764,,DE,0.06,0.0321,29.99,False
+merch_000416,Mitchell LLC,Healthcare,2881,https://brooks.com/,US,0.0,0.0189,119.71,False
+merch_000417,"Rios, Stevens and Harris",Electronics,9878,http://www.chavez-becker.com/,US,0.09,0.0064,37.29,False
+merch_000418,Lee Ltd,Grocery,6311,http://www.hale.biz/,US,0.0,0.0048,58.59,False
+merch_000419,Ross-Blair,Jewelry,6115,http://russell.com/,US,0.05,0.0136,60.54,False
+merch_000420,"Simmons, Smith and Jones",Grocery,3410,http://www.underwood.net/,AU,0.15,0.0106,15.12,False
+merch_000421,Gordon-Adams,Grocery,2347,,UK,0.07,0.0116,163.38,False
+merch_000422,Montoya-Mejia,Education,5449,http://www.henderson.org/,CA,0.11,0.0371,30.58,False
+merch_000423,Johnson-Tyler,Furniture,3252,http://cummings-little.com/,AU,0.31,0.0358,40.82,False
+merch_000424,Smith-Rogers,Entertainment,7648,https://mcdowell-greene.com/,IN,0.0,0.0139,102.86,False
+merch_000425,"Galloway, Stark and Ramirez",Money Transfer,1293,,CA,0.04,0.0031,114.79,False
+merch_000426,"Flowers, Wilson and Lopez",Financial Services,8328,https://odonnell.com/,US,0.11,0.0018,20.48,False
+merch_000427,Summers Inc,Hotel,7524,http://www.carter-rodriguez.com/,FR,0.09,0.0029,9.35,False
+merch_000428,"Baldwin, Kline and May",Utilities,5789,,MX,0.13,0.0233,61.61,False
+merch_000429,"Rich, Robinson and Warren",Travel,4304,http://little-brown.com/,CA,0.05,0.0013,81.06,False
+merch_000430,Allen-Bailey,Jewelry,3322,,AU,0.05,0.0008,51.3,False
+merch_000431,English-Morgan,Automotive,9763,,US,0.14,0.0462,57.13,False
+merch_000432,"Lewis, Rivera and Boyd",Gas Station,5253,http://brewer.com/,DE,0.02,0.0245,42.31,False
+merch_000433,"Williams, Williams and Fowler",Department Store,7575,http://velazquez.info/,CA,0.05,0.0366,77.4,False
+merch_000434,Dunn-Johnson,Books,6607,http://www.tyler-sandoval.biz/,US,0.05,0.0059,110.47,False
+merch_000435,"Rose, Hansen and Warner",Clothing,1114,https://www.davis-diaz.biz/,US,0.2,0.0022,119.43,False
+merch_000436,Pollard-Holmes,Music,8082,https://www.carroll.biz/,IN,0.06,0.006,94.87,False
+merch_000437,Kelly-Fitzgerald,Financial Services,3166,http://www.gutierrez.com/,US,0.22,0.0503,75.37,True
+merch_000438,"Flores, Johnson and Montes",Music,3141,http://scott.net/,IN,0.06,0.0099,89.59,False
+merch_000439,Chapman Group,Books,6780,https://hernandez.com/,US,0.02,0.0268,43.64,False
+merch_000440,Lane PLC,Music,8372,,IN,0.34,0.0401,49.85,False
+merch_000441,"Martin, Moore and Ross",Money Transfer,4239,,DE,0.11,0.0007,14.54,False
+merch_000442,Davis Ltd,Electronics,2689,https://williams.com/,JP,0.12,0.0062,98.26,False
+merch_000443,Patterson-Washington,Utilities,3046,http://www.smith.com/,IN,0.09,0.0051,192.27,False
+merch_000444,Moore Group,Furniture,8268,http://jordan-castro.com/,DE,0.02,0.0247,228.12,False
+merch_000445,Stewart-Little,Grocery,8645,http://www.martinez-holmes.com/,MX,0.01,0.0149,74.93,False
+merch_000446,Rodriguez-Allen,Digital Goods,2813,,CA,0.19,0.0252,131.47,False
+merch_000447,"Mcdonald, Lee and Herman",Healthcare,8663,,DE,0.02,0.0621,149.26,True
+merch_000448,"Moon, Bradshaw and Martinez",Automotive,3134,http://peters.com/,US,0.0,0.0786,150.56,True
+merch_000449,Leon-Harrison,Books,4895,http://www.carter.info/,US,0.03,0.0121,25.12,False
+merch_000450,"Gordon, Price and Smith",Music,8697,,US,0.03,0.0052,19.52,False
+merch_000451,"Brown, Ramos and Miller",Money Transfer,8114,,UK,0.0,0.0187,98.5,False
+merch_000452,Williams and Sons,Entertainment,5867,https://www.phillips.info/,CA,0.05,0.0205,63.15,False
+merch_000453,Beasley Inc,Utilities,5985,https://bates.org/,UK,0.1,0.0803,81.03,True
+merch_000454,"Berger, Michael and Byrd",Electronics,7166,https://www.diaz-bishop.com/,US,0.28,0.0005,28.29,False
+merch_000455,Powell-Gibson,Automotive,6036,https://www.lynch.com/,FR,0.04,0.0365,45.93,False
+merch_000456,Roberts LLC,Money Transfer,1704,,DE,0.04,0.0151,42.06,False
+merch_000457,Smith Ltd,Restaurant,4709,https://www.mayer.com/,FR,0.03,0.004,25.04,False
+merch_000458,"James, Marquez and Gonzalez",Money Transfer,5863,https://www.white.com/,UK,0.01,0.0287,37.75,False
+merch_000459,Riggs Ltd,Home Improvement,1828,http://cox.info/,AU,0.04,0.0721,36.02,True
+merch_000460,"Sanchez, Williams and Wilson",Healthcare,1155,https://www.velez.com/,UK,0.04,0.0091,60.3,False
+merch_000461,"Park, Williams and Sanders",Jewelry,4736,http://johnson.com/,US,0.02,0.0107,48.33,False
+merch_000462,Bailey-Armstrong,Electronics,7643,http://browning-harper.net/,BR,0.13,0.0036,42.45,False
+merch_000463,Walker LLC,Department Store,3062,http://kline-greene.com/,DE,0.13,0.6213,69.12,True
+merch_000464,Duncan-Kennedy,Restaurant,4617,http://sanchez-kemp.net/,DE,0.03,0.04,17.35,False
+merch_000465,Mercer-Hughes,Furniture,2384,,CA,0.08,0.0118,26.43,False
+merch_000466,Shelton-Allen,Money Transfer,1960,,JP,0.09,0.0355,13.52,False
+merch_000467,Johnson and Sons,Clothing,4960,http://taylor.com/,AU,0.06,0.0248,44.41,False
+merch_000468,"Thomas, Long and Cook",Clothing,4020,,UK,0.02,0.0628,155.14,True
+merch_000469,"Valenzuela, Hinton and Jimenez",Gas Station,5237,http://williams.com/,IN,0.01,0.0294,31.09,False
+merch_000470,Payne Ltd,Music,1208,,JP,0.0,0.0395,111.77,False
+merch_000471,Miller Ltd,Entertainment,3062,,BR,0.0,0.0467,28.73,False
+merch_000472,"Bennett, Smith and Miller",Utilities,9642,,CA,0.08,0.0215,80.4,False
+merch_000473,Hansen LLC,Healthcare,3680,https://www.simpson.biz/,FR,0.03,0.0056,24.08,False
+merch_000474,"Harris, Brown and Newman",Money Transfer,6292,http://www.roach-kirk.com/,JP,0.09,0.0182,98.65,False
+merch_000475,George-Farmer,Digital Goods,8885,,BR,0.06,0.0285,30.03,False
+merch_000476,Cain Inc,Education,5082,,US,0.07,0.0118,169.82,False
+merch_000477,Brown Inc,Electronics,8066,,US,0.04,0.0129,46.77,False
+merch_000478,"Williams, Hoover and Chapman",Clothing,4871,http://wilson.net/,US,0.19,0.0163,53.08,False
+merch_000479,Thompson Ltd,Travel,3347,http://crane.org/,US,0.0,0.022,137.66,False
+merch_000480,Weber Inc,Digital Goods,1910,http://www.mccarthy-schultz.biz/,IN,0.03,0.0074,40.77,False
+merch_000481,Davis-Townsend,Gas Station,6107,https://www.hendricks.com/,UK,0.09,0.0129,44.34,False
+merch_000482,Mercer Ltd,Hotel,6322,https://www.farrell-grimes.org/,JP,0.17,0.0025,21.91,False
+merch_000483,Chan-Shannon,Digital Goods,5655,https://wiggins.com/,US,0.08,0.0054,57.21,False
+merch_000484,Holder Inc,Furniture,9072,http://kelley.com/,AU,0.07,0.0374,64.3,False
+merch_000485,Atkins Group,Restaurant,8092,https://www.west.com/,CA,0.1,0.0021,117.92,False
+merch_000486,"Richards, Martinez and Parker",Entertainment,4680,https://www.lutz-quinn.com/,CA,0.07,0.0107,57.33,False
+merch_000487,"Johnson, Chandler and Sullivan",Financial Services,7557,https://vaughn-garcia.info/,CA,0.06,0.0561,183.42,True
+merch_000488,Sanders-Hurst,Travel,4001,,AU,0.03,0.0031,29.67,False
+merch_000489,"Schmidt, Cochran and Robinson",Sporting Goods,8680,http://fox.com/,US,0.09,0.0873,42.46,True
+merch_000490,"Pena, Koch and Casey",Travel,5065,,IN,0.07,0.0006,31.96,False
+merch_000491,Stevens Group,Hotel,5034,http://www.coleman.info/,UK,0.22,0.0099,92.49,False
+merch_000492,"Rivas, Robertson and Hudson",Utilities,5072,http://sanders.com/,IN,0.09,0.0021,186.59,False
+merch_000493,Lopez Ltd,Restaurant,3962,,UK,0.04,0.0071,12.19,False
+merch_000494,"Lowe, Klein and Ponce",Electronics,3499,http://carpenter-allen.com/,UK,0.05,0.0003,45.97,False
+merch_000495,"Nichols, Taylor and Peterson",Grocery,9826,https://hernandez-morris.org/,AU,0.29,0.0232,61.25,False
+merch_000496,James-Johnson,Electronics,1900,http://patel.com/,CA,0.13,0.052,26.63,True
+merch_000497,Mejia Inc,Gas Station,7549,https://arnold-lopez.com/,US,0.21,0.0042,20.08,False
+merch_000498,Lawrence LLC,Utilities,2570,,UK,0.03,0.0074,31.11,False
+merch_000499,Bell-Davis,Education,6840,https://www.wilson.com/,IN,0.09,0.0185,22.32,False
